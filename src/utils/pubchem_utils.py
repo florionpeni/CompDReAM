@@ -4,22 +4,27 @@ import requests
 import pandas as pd
 from datetime import datetime, timezone
 
-def fetch_pubchem_cid_from_chembl(chembl_id, retries=3, backoff=1.5):
+def fetch_pubchem_cid_from_chembl(chembl_id, retries=5, backoff=1.5):
     """
     Given a ChEMBL ID, returns the corresponding PubChem CID using the name endpoint.
-    Retries on failure with exponential backoff.
+    Retries on 503 or network failure with exponential backoff.
     """
     url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{chembl_id}/cids/JSON"
     for attempt in range(retries):
         try:
-            r = requests.get(url, timeout=10)
-            r.raise_for_status()
-            return r.json()["IdentifierList"]["CID"][0]
+            response = requests.get(url, timeout=10)
+            if response.status_code == 503:
+                raise requests.exceptions.RequestException("503 Server Busy")
+            response.raise_for_status()
+            return response.json()["IdentifierList"]["CID"][0]
         except requests.exceptions.RequestException as e:
-            print(f"CID fetch failed for {chembl_id} — {e}")
+            print(f"[{chembl_id}] Attempt {attempt+1}/{retries} failed — {e}")
             if attempt < retries - 1:
-                time.sleep(backoff * (2 ** attempt))
+                sleep_time = backoff * (2 ** attempt)
+                print(f"   ↪ Retrying after {sleep_time:.1f} seconds...")
+                time.sleep(sleep_time)
             else:
+                print(f"   ✖ Final failure for {chembl_id}")
                 return None
 
 def check_peptide_by_pubchem(cid):
