@@ -1,2 +1,5 @@
 data/df_chembl.csv
 data/sql_chembl_cache.parquet
+.ipynb_checkpoints/
+.DS_Store
+*.pyc
