@@ -1,0 +1,17 @@
+Disease,MeSH_ID,Average_Score,Rank
+Parkinson Disease,D010300,1.0,1.0
+Alzheimer Disease,D000544,0.95,2.0
+Depression,D003863,0.85,3.0
+Schizophrenia,D012559,0.75,4.0
+"Depressive Disorder, Major",D003865,0.73,5.0
+Alcoholism,D000437,0.7,6.0
+Bipolar Disorder,D001714,0.65,7.0
+Autistic Disorder,D001321,0.65,7.0
+Hepatic Encephalopathy,D006501,0.55,9.0
+Huntington Disease,D006816,0.5,10.0
+"Plaque, Amyloid",D058225,0.5,10.0
+Pheochromocytoma,D010673,0.4,12.0
+Endometriosis,D004715,0.4,12.0
+Colonic Neoplasms,D003110,0.4,12.0
+"Anemia, Megaloblastic",D000749,0.4,12.0
+Hypotension,D007022,0.4,12.0

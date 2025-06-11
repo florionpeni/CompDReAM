@@ -1,0 +1,24 @@
+Disease,MeSH_ID,Average_Score,Rank
+"Supranuclear Palsy, Progressive",D013494,0.98,1.0
+Parkinson Disease,D010300,0.98,1.0
+Memory Disorders,D008569,0.9,3.0
+Multiple System Atrophy,D019578,0.9,3.0
+Pick Disease of the Brain,D020774,0.88,5.0
+Alzheimer Disease,D000544,0.88,5.0
+Anxiety Disorders,D001008,0.85,7.0
+"Epilepsy, Temporal Lobe",D004833,0.8,8.0
+Prostatic Neoplasms,D011471,0.8,8.0
+Primary Progressive Nonfluent Aphasia,D057178,0.8,8.0
+"Carcinoma, Hepatocellular",D006528,0.7,11.0
+Pallidopontonigral Degeneration,C563003,0.7,11.0
+Cognitive Dysfunction,D060825,0.68,13.0
+Ataxia,D001259,0.65,14.0
+Atrial Fibrillation,D001281,0.65,14.0
+Learning Disabilities,D007859,0.65,14.0
+"Osteoarthritis, Hip",D015207,0.55,17.0
+Weight Loss,D015431,0.5,18.0
+Weight Gain,D015430,0.5,18.0
+Progressive supranuclear palsy atypical,C537240,0.45,20.0
+Cardiomyopathies,D009202,0.4,21.0
+Psychomotor Agitation,D011595,0.4,21.0
+Splenomegaly,D013163,0.4,21.0

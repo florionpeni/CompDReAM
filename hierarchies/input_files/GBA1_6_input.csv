@@ -1,0 +1,18 @@
+MSH_normalised_name,MSH,score
+Parkinson Disease,D010300,1.0
+Gaucher Disease,D005776,1.0
+Lewy Body Disease,D020961,1.0
+Dementia,D003704,1.0
+Parkinsonian Disorders,D020734,1.0
+"Gaucher Disease, Perinatal Lethal",C564306,0.9
+Thrombocytopenia,D013921,0.8
+Movement Disorders,D009069,0.65
+Tremor,D014202,0.65
+Gaucher-like disease,C537675,0.6
+"Gaucher Disease, Type Iiic",C565553,0.6
+Muscle Rigidity,D009127,0.55
+Hypertension,D006973,0.45
+ATR-X syndrome,C538258,0.4
+Hyperlipidemias,D006949,0.4
+Hepatoblastoma,D018197,0.4
+"Hypertension, Pulmonary",D006976,0.4

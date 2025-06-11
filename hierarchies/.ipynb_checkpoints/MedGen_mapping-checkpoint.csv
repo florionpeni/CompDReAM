@@ -1,0 +1,340 @@
+,diseaseClasses_MSH,diseaseName,diseaseType,CUI,geneNcbiID,score,symbolOfGene,pref_name,source_id,source
+1,[Nervous System Diseases (C10)],tauopathy,disease,C0949664,4137.0,1.0,MAPT,Tauopathy,181880,MedGen
+7,"[Mental Disorders (F03), Nervous System Diseases (C10)]",Pick's disease,disease,C0236642,4137.0,1.0,MAPT,Pick disease,116020,MedGen
+13,"[Nervous System Diseases (C10), Mental Disorders (F03)]",Dementia,disease,C0497327,4137.0,1.0,MAPT,Dementia,99229,MedGen
+18,"[Mental Disorders (F03), Nervous System Diseases (C10)]",Alzheimer Disease,disease,C0002395,4137.0,1.0,MAPT,Alzheimer disease,1853,MedGen
+24,[Nervous System Diseases (C10)],Parkinson Disease,disease,C0030567,4137.0,1.0,MAPT,Parkinson disease,10590,MedGen
+35,"[Eye Diseases (C11), Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23)]",Progressive supranuclear palsy,disease,C0038868,4137.0,1.0,MAPT,Progressive supranuclear palsy,21026,MedGen
+38,"[Mental Disorders (F03), Nutritional and Metabolic Diseases (C18), Nervous System Diseases (C10)]",Frontotemporal dementia,disease,C0338451,4137.0,1.0,MAPT,Frontotemporal dementia,83266,MedGen
+47,[Nervous System Diseases (C10)],Parkinsonism,disease,C0242422,4137.0,1.0,MAPT,Parkinsonian disorder,66079,MedGen
+52,[Nervous System Diseases (C10)],"Degenerative disease of nervous system, unspecified",disease,C0524851,4137.0,0.95,MAPT,"Degenerative Disease of Nervous System, Unspecified",101195,MedGen
+56,"[Behavior and Behavior Mechanisms (F01), Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Memory impairment,disease,C0233794,4137.0,0.9,MAPT,Memory impairment,68579,MedGen
+58,[Mental Disorders (F03)],Progressive cognitive decline,disease,C0234985,4137.0,0.9,MAPT,Mental deterioration,66713,MedGen
+66,[Nervous System Diseases (C10)],"Atrophy, Multiple System",phenotype,C0393571,4137.0,0.85,MAPT,Multiple system atrophy,98276,MedGen
+75,[Nervous System Diseases (C10)],Temporal lobe epilepsy,disease,C0014556,4137.0,0.8,MAPT,Temporal lobe epilepsy,4990,MedGen
+79,"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10), Nutritional and Metabolic Diseases (C18), Mental Disorders (F03)]",Progressive Nonfluent Aphasias,disease,C0751706,4137.0,0.7999999999999999,MAPT,Primary progressive non fluent aphasia,148373,MedGen
+84,[Mental Disorders (F03)],Anxiety Disorder,disease,C0003469,4137.0,0.75,MAPT,Anxiety disorder,361,MedGen
+89,"[Mental Disorders (F03), Nutritional and Metabolic Diseases (C18), Nervous System Diseases (C10)]",Semantic Dementias,disease,C0338462,4137.0,0.75,MAPT,Semantic dementia,83268,MedGen
+96,"[Neoplasms (C04), Urogenital Diseases (C12)]",Malignant neoplasm of prostate,disease,C0376358,4137.0,0.75,MAPT,Malignant tumor of prostate,138169,MedGen
+100,"[Pathological Conditions, Signs and Symptoms (C23)]",degenerative disorders,disease,C1285162,4137.0,0.75,MAPT,Degenerative disorder,224837,MedGen
+109,"[Digestive System Diseases (C06), Neoplasms (C04)]",Liver cell carcinoma,disease,C2239176,4137.0,0.7000000000000001,MAPT,Hepatocellular carcinoma,389187,MedGen
+114,"[Nervous System Diseases (C10), Mental Disorders (F03), Nutritional and Metabolic Diseases (C18)]",PPND,disease,C0520716,4137.0,0.7,MAPT,Pallidopontonigral degeneration,105456,MedGen
+117,"[Nutritional and Metabolic Diseases (C18), Mental Disorders (F03), Nervous System Diseases (C10)]","Frontotemporal dementia, behavioral variant",disease,C4011788,4137.0,0.7,MAPT,Behavioral variant of frontotemporal dementia,860225,MedGen
+120,"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Ataxia,phenotype,C0004134,4137.0,0.65,MAPT,Dyssynergia,13945,MedGen
+125,"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10), Mental Disorders (F03)]",Learning disability,disease,C0751265,4137.0,0.65,MAPT,Learning disability,199623,MedGen
+130,"[Cardiovascular Diseases (C14), Pathological Conditions, Signs and Symptoms (C23)]",Atrial Fibrillation,disease,C0004238,4137.0,0.65,MAPT,Atrial fibrillation,445,MedGen
+134,[Nervous System Diseases (C10)],PD,disease,C3160718,4137.0,0.5,MAPT,"Parkinson disease, late-onset",463618,MedGen
+138,[Nervous System Diseases (C10)],Progressive supranuclear palsy parkinsonism syndrome (disorder),disease,C5548370,4137.0,0.5,MAPT,Progressive supranuclear palsy parkinsonism syndrome,1784914,MedGen
+140,"[Eye Diseases (C11), Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",PSNP1,disease,C4551863,4137.0,0.5,MAPT,"Supranuclear palsy, progressive, 1",1640811,MedGen
+149,"[Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23), Eye Diseases (C11)]","STEELE-RICHARDSON-OLSZEWSKI SYNDROME, ATYPICAL",disease,C1850077,4137.0,0.45,MAPT,Progressive supranuclear palsy-parkinsonism syndrome,342410,MedGen
+154,[Nervous System Diseases (C10)],Hereditary late onset Parkinson disease,disease,C4274355,4137.0,0.45,MAPT,Autosomal dominant late onset Parkinson disease,896543,MedGen
+158,[Musculoskeletal Diseases (C05)],Coxarthroses,disease,C0029410,4137.0,0.45,MAPT,"Osteoarthritis, hip",14530,MedGen
+162,[Mental Disorders (F03)],"Disorders, Organic Mental",disease,C0029227,4137.0,0.45,MAPT,Organic mental disorder,14510,MedGen
+164,"[Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23), Mental Disorders (F03)]",learning disorder,disease,C0023186,4137.0,0.4,MAPT,Learning disorder,44084,MedGen
+171,"[Pathological Conditions, Signs and Symptoms (C23)]","Losses, Weight",phenotype,C1262477,4137.0,0.4,MAPT,Weight loss,853198,MedGen
+172,"[Pathological Conditions, Signs and Symptoms (C23)]","Gains, Weight",phenotype,C0043094,4137.0,0.4,MAPT,Increased body weight,12145,MedGen
+179,"[Respiratory Tract Diseases (C08), Nutritional and Metabolic Diseases (C18)]",Acute respiratory failure,disease,C0264490,4137.0,0.4,MAPT,Acute respiratory failure,75540,MedGen
+183,"[Pathological Conditions, Signs and Symptoms (C23)]",Splenomegaly,phenotype,C0038002,4137.0,0.4,MAPT,Splenomegaly,52469,MedGen
+186,"[Behavior and Behavior Mechanisms (F01), Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23)]",Psychomotor Agitation,phenotype,C3887612,4137.0,0.4,MAPT,psychomotor agitation,854458,MedGen
+190,"[Eye Diseases (C11), Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Progressive supranuclear ophthalmoplegia [Steele-Richardson-Olszewski],disease,C4551862,4137.0,0.4,MAPT,Progressive supranuclear ophthalmoplegia,1641556,MedGen
+193,[Cardiovascular Diseases (C14)],Cardiomyopathy,disease,C0878544,4137.0,0.4,MAPT,Cardiomyopathy,209232,MedGen
+202,[Cardiovascular Diseases (C14)],"Disease, Primary Myocardial",disease,C0033141,4137.0,0.4,MAPT,Idiopathic cardiomyopathy,18634,MedGen
+205,[],PSP-PNFA,disease,C5679850,4137.0,0.4,MAPT,Progressive supranuclear palsy-progressive non-fluent aphasia syndrome,1842806,MedGen
+209,[],PSP-pure akinesia with gait freezing,disease,C5679851,4137.0,0.4,MAPT,Progressive supranuclear palsy-pure akinesia with gait freezing syndrome,1843032,MedGen
+213,[],Progressive supranuclear palsy corticobasal syndrome (disorder),disease,C5548189,4137.0,0.4,MAPT,Progressive supranuclear palsy-corticobasal syndrome,1781130,MedGen
+224,[Mental Disorders (F03)],Schizophrenias,disease,C0036341,1813.0,1.0,DRD2,Schizophrenia,48574,MedGen
+232,"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]",Alcoholism,disease,C0001973,1813.0,1.0,DRD2,Alcohol dependence,1801,MedGen
+233,"[Nutritional and Metabolic Diseases (C18), Pathological Conditions, Signs and Symptoms (C23)]",Obesity,disease,C0028754,1813.0,0.9,DRD2,Obesity,18127,MedGen
+241,[Nervous System Diseases (C10)],Parkinson Disease,disease,C0030567,1813.0,0.9,DRD2,Parkinson disease,10590,MedGen
+249,[Mental Disorders (F03)],Anxiety Disorder,disease,C0003469,1813.0,0.8500000000000001,DRD2,Anxiety disorder,361,MedGen
+253,"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]",Cocaine dependence,disease,C0600427,1813.0,0.8500000000000001,DRD2,Cocaine dependence,154705,MedGen
+258,[Nervous System Diseases (C10)],Movement Disorders,disease,C0026650,1813.0,0.8500000000000001,DRD2,Movement disorder,10113,MedGen
+265,"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]",Opioid dependence,disease,C0524662,1813.0,0.8,DRD2,Opiate dependence,99372,MedGen
+272,"[Nutritional and Metabolic Diseases (C18), Endocrine System Diseases (C19)]",Adult-Onset Diabetes Mellitus,disease,C0011860,1813.0,0.8,DRD2,Type 2 diabetes mellitus,41523,MedGen
+275,[Mental Disorders (F03)],Affective Disorders,disease,C0525045,1813.0,0.8,DRD2,Mood disorder,99866,MedGen
+278,[Mental Disorders (F03)],MAJOR DEPRESSIVE DISORDER,disease,C1269683,1813.0,0.8,DRD2,Major depressive disorder,266123,MedGen
+284,[Mental Disorders (F03)],Bipolar Disorders,disease,C0005586,1813.0,0.8,DRD2,Bipolar affective disorder,2649,MedGen
+291,"[Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23)]",Dystonia,phenotype,C0013421,1813.0,0.8,DRD2,Dystonic disorder,3940,MedGen
+293,[Nervous System Diseases (C10)],Parkinsonism,disease,C0242422,1813.0,0.8,DRD2,Parkinsonian disorder,66079,MedGen
+297,"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",Heroin Dependence,disease,C0019337,1813.0,0.8,DRD2,Heroin dependence,5532,MedGen
+302,[Mental Disorders (F03)],Depressive neurosis,disease,C0011581,1813.0,0.8,DRD2,Depression,4229,MedGen
+308,"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]","Dependence, Nicotine",disease,C0028043,1813.0,0.75,DRD2,Nicotine dependence,45086,MedGen
+312,[Mental Disorders (F03)],"Depressions, Unipolar",disease,C0041696,1813.0,0.75,DRD2,Unipolar Depression,22552,MedGen
+317,[Cardiovascular Diseases (C14)],High blood pressure,disease,C0020538,1813.0,0.75,DRD2,Hypertensive disorder,6969,MedGen
+319,"[Pathological Conditions, Signs and Symptoms (C23)]","Gains, Weight",phenotype,C0043094,1813.0,0.75,DRD2,Increased body weight,12145,MedGen
+327,"[Psychological Phenomena (F02), Pathological Conditions, Signs and Symptoms (C23)]",Pain,phenotype,C0030193,1813.0,0.75,DRD2,Pain,45282,MedGen
+329,"[Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23)]",Dyskinesia,disease,C0013384,1813.0,0.75,DRD2,Dyskinesia,8514,MedGen
+334,"[Endocrine System Diseases (C19), Nervous System Diseases (C10)]",Hyperprolactinemia,disease,C0020514,1813.0,0.75,DRD2,Hyperprolactinemia,5698,MedGen
+338,"[Nervous System Diseases (C10), Neoplasms (C04), Endocrine System Diseases (C19)]","Neoplasm, Pituitary",disease,C0032019,1813.0,0.75,DRD2,Neoplasm of the pituitary gland,19326,MedGen
+349,"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]","Abuse, Alcohol",disease,C0085762,1813.0,0.7,DRD2,Alcohol abuse,39339,MedGen
+350,"[Pathological Conditions, Signs and Symptoms (C23), Cardiovascular Diseases (C14)]",Tachycardia,phenotype,C0039231,1813.0,0.7,DRD2,Tachycardia,21453,MedGen
+355,"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]",Cocaine abuse,disease,C0009171,1813.0,0.65,DRD2,Cocaine abuse,3136,MedGen
+359,"[Pathological Conditions, Signs and Symptoms (C23), Behavior and Behavior Mechanisms (F01), Nervous System Diseases (C10)]",Anhedonia,disease,C0178417,1813.0,0.65,DRD2,Anhedonia,64230,MedGen
+365,[Nervous System Diseases (C10)],DYT11,disease,C1834570,1813.0,0.65,DRD2,Myoclonic dystonia 11,331778,MedGen
+370,"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Catalepsies,disease,C0007370,1813.0,0.65,DRD2,Catalepsy,40134,MedGen
+372,[Cardiovascular Diseases (C14)],Hypotension,phenotype,C0020649,1813.0,0.65,DRD2,Hypotension,5715,MedGen
+377,[Nervous System Diseases (C10)],Migraine with aura,disease,C0154723,1813.0,0.65,DRD2,Migraine with aura,57822,MedGen
+382,"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]","Dependence, Cannabis",disease,C0006870,1813.0,0.65,DRD2,Cannabis dependence,14303,MedGen
+390,"[Pathological Conditions, Signs and Symptoms (C23), Cardiovascular Diseases (C14)]",Bradycardia,phenotype,C0428977,1813.0,0.65,DRD2,Bradycardia,140901,MedGen
+392,"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",TOBACCO ABUSE,disease,C0040336,1813.0,0.65,DRD2,Tobacco use disorder,21192,MedGen
+393,[Mental Disorders (F03)],"Disorders, Impulse Control",disease,C0021122,1813.0,0.6000000000000001,DRD2,Impulse control disorder,5769,MedGen
+400,"[Behavior and Behavior Mechanisms (F01), Mental Disorders (F03), Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23)]",Delirium,disease,C0011206,1813.0,0.6000000000000001,DRD2,Delirium,41445,MedGen
+404,"[Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23)]",Language Disorder,disease,C0023015,1813.0,0.6000000000000001,DRD2,Language disorder,44069,MedGen
+411,"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Hyperkinesia,disease,C3887506,1813.0,0.55,DRD2,Hyperkinetic movements,854367,MedGen
+415,"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]",Cocaine Related Disorders,disease,C0236736,1813.0,0.55,DRD2,Cocaine-Related Disorders,66741,MedGen
+419,"[Urogenital Diseases (C12), Pathological Conditions, Signs and Symptoms (C23)]","Kidney Failure, Chronic",disease,C0022661,1813.0,0.55,DRD2,Chronic renal failure syndrome,9637,MedGen
+422,[Mental Disorders (F03)],depression recurrent,disease,C0221480,1813.0,0.5,DRD2,Recurrent depression,526253,MedGen
+424,[Mental Disorders (F03)],"Major depressive disorder, single episode, unspecified degree",disease,C0024517,1813.0,0.5,DRD2,"Major depression, single episode",44255,MedGen
+427,"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]",Substance-Related Disorders,disease,C0236969,1813.0,0.5,DRD2,Substance-related disorder,66746,MedGen
+430,"[Chemically-Induced Disorders (C25), Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23)]",Drug-Induced Dyskinesia,disease,C0013386,1813.0,0.45,DRD2,Drug-induced dyskinesia,3935,MedGen
+435,[Mental Disorders (F03)],"Disorders, Organic Mental",disease,C0029227,1813.0,0.4,DRD2,Organic mental disorder,14510,MedGen
+439,[Mental Disorders (F03)],Child Development Disorder,disease,C0008073,1813.0,0.4,DRD2,Developmental disorder,3367,MedGen
+443,[Nervous System Diseases (C10)],Basal Ganglia Disease,disease,C0004782,1813.0,0.4,DRD2,Disorder of basal ganglia,14035,MedGen
+448,"[Skin and Connective Tissue Diseases (C17), Urogenital Diseases (C12)]",Chiari Frommel Syndrome,disease,C0008043,1813.0,0.4,DRD2,Postpartum amenorrhea-galactorrhea syndrome,2993,MedGen
+450,[Nervous System Diseases (C10)],Parkinson Disease,disease,C0030567,4129.0,1.0,MAOB,Parkinson disease,10590,MedGen
+461,"[Mental Disorders (F03), Nervous System Diseases (C10)]",Alzheimer Disease,disease,C0002395,4129.0,0.95,MAOB,Alzheimer disease,1853,MedGen
+467,[Mental Disorders (F03)],Depressive neurosis,disease,C0011581,4129.0,0.85,MAOB,Depression,4229,MedGen
+473,[Mental Disorders (F03)],MAJOR DEPRESSIVE DISORDER,disease,C1269683,4129.0,0.75,MAOB,Major depressive disorder,266123,MedGen
+485,[Mental Disorders (F03)],Schizophrenias,disease,C0036341,4129.0,0.75,MAOB,Schizophrenia,48574,MedGen
+493,"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]",Alcoholism,disease,C0001973,4129.0,0.7,MAOB,Alcohol dependence,1801,MedGen
+494,[Mental Disorders (F03)],"Depressions, Unipolar",disease,C0041696,4129.0,0.65,MAOB,Unipolar Depression,22552,MedGen
+496,[Mental Disorders (F03)],Childhood autism,disease,C0004352,4129.0,0.65,MAOB,Autism,13966,MedGen
+504,[Mental Disorders (F03)],Bipolar Disorders,disease,C0005586,4129.0,0.6000000000000001,MAOB,Bipolar affective disorder,2649,MedGen
+509,[Mental Disorders (F03)],Affective Disorders,disease,C0525045,4129.0,0.6000000000000001,MAOB,Mood disorder,99866,MedGen
+514,"[Digestive System Diseases (C06), Nutritional and Metabolic Diseases (C18), Nervous System Diseases (C10)]","Encephalopathies, Hepatic",disease,C0019151,4129.0,0.55,MAOB,Hepatic encephalopathy,5513,MedGen
+521,"[Nervous System Diseases (C10), Mental Disorders (F03), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16)]","Chorea, Huntington",disease,C0020179,4129.0,0.5,MAOB,Huntington disease,5654,MedGen
+530,[Urogenital Diseases (C12)],Endometrioses,disease,C0014175,4129.0,0.4,MAOB,Endometriosis,8620,MedGen
+533,[Cardiovascular Diseases (C14)],Hypotension,phenotype,C0020649,4129.0,0.4,MAOB,Hypotension,5715,MedGen
+539,[Hemic and Lymphatic Diseases (C15)],"Anemia, Megaloblastic",disease,C0002888,4129.0,0.4,MAOB,Megaloblastic anemia,1527,MedGen
+547,"[Digestive System Diseases (C06), Neoplasms (C04)]",COLONIC NEOPLASM,disease,C0009375,4129.0,0.4,MAOB,Colonic neoplasm,3165,MedGen
+549,[Neoplasms (C04)],Pheochromocytoma,disease,C0031511,4129.0,0.4,MAOB,Pheochromocytoma,18419,MedGen
+554,[Neoplasms (C04)],Extra-Adrenal Pheochromocytoma,disease,C1257877,4129.0,0.4,MAOB,Extraadrenal pheochromocytoma,263453,MedGen
+559,[Nervous System Diseases (C10)],Parkinsonism,disease,C0242422,120892.0,1.0,LRRK2,Parkinsonian disorder,66079,MedGen
+563,[Nervous System Diseases (C10)],Parkinson Disease,disease,C0030567,120892.0,1.0,LRRK2,Parkinson disease,10590,MedGen
+571,[],PARK8,disease,C1846862,120892.0,0.8999999999999999,LRRK2,Autosomal dominant Parkinson disease 8,339628,MedGen
+575,[Nervous System Diseases (C10)],Early onset Parkinson's disease,disease,C4275179,120892.0,0.75,LRRK2,Young-onset Parkinson disease,907947,MedGen
+579,[Nervous System Diseases (C10)],Hereditary late onset Parkinson disease,disease,C4274355,120892.0,0.6000000000000001,LRRK2,Autosomal dominant late onset Parkinson disease,896543,MedGen
+581,"[Mental Disorders (F03), Nutritional and Metabolic Diseases (C18), Nervous System Diseases (C10)]",Frontotemporal dementia,disease,C0338451,120892.0,0.6000000000000001,LRRK2,Frontotemporal dementia,83266,MedGen
+589,"[Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16), Nervous System Diseases (C10)]","Ataxia, Spinocerebellar",disease,C0087012,120892.0,0.5,LRRK2,Spinocerebellar atrophy,39733,MedGen
+598,"[Pathological Conditions, Signs and Symptoms (C23)]","Losses, Weight",phenotype,C1262477,120892.0,0.45,LRRK2,Weight loss,853198,MedGen
+601,"[Musculoskeletal Diseases (C05), Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23)]",Muscle Rigidity,phenotype,C0026837,120892.0,0.45,LRRK2,Rigidity,7752,MedGen
+605,[Digestive System Diseases (C06)],"Colitis, granulomatous",disease,C0156147,120892.0,0.45,LRRK2,Crohn disease of large bowel,57618,MedGen
+608,[Neoplasms (C04)],mucinous adenocarcinoma of ovary (diagnosis),disease,C1335167,120892.0,0.4,LRRK2,Ovarian mucinous adenocarcinoma,235418,MedGen
+612,[Neoplasms (C04)],Ovarian Serous Adenocarcinoma,disease,C1335177,120892.0,0.4,LRRK2,Ovarian serous adenocarcinoma,233278,MedGen
+616,[Eye Diseases (C11)],Blepharoptoses,disease,C0005745,120892.0,0.4,LRRK2,Ptosis,2287,MedGen
+620,"[Pathological Conditions, Signs and Symptoms (C23)]","Degeneration, Nerve",phenotype,C0027746,120892.0,0.4,LRRK2,Neurodegeneration,17999,MedGen
+626,"[Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16), Musculoskeletal Diseases (C05)]","KLIPPEL-FEIL SYNDROME, AUTOSOMAL DOMINANT",disease,C1861689,120892.0,0.4,LRRK2,"Klippel-Feil syndrome 1, autosomal dominant",396196,MedGen
+629,[],"LEPROSY, SUSCEPTIBILITY TO, 1",phenotype,C1835932,120892.0,0.4,LRRK2,"Leprosy, susceptibility to, 1",332089,MedGen
+635,[Urogenital Diseases (C12)],Endometrioses,disease,C0014175,120892.0,0.4,LRRK2,Endometriosis,8620,MedGen
+640,"[Behavior and Behavior Mechanisms (F01), Nervous System Diseases (C10), Mental Disorders (F03)]",Early onset Alzheimer disease with behavioral disturbance,disease,C3697680,120892.0,0.4,LRRK2,Early onset Alzheimer disease with behavioral disturbance,784944,MedGen
+642,[Nervous System Diseases (C10)],PD,disease,C3160718,120892.0,0.4,LRRK2,"Parkinson disease, late-onset",463618,MedGen
+652,"[Urogenital Diseases (C12), Neoplasms (C04)]",Renal cell carcinoma,disease,C0007134,120892.0,0.4,LRRK2,Renal cell carcinoma,766,MedGen
+654,[],Brain atrophy,disease,C4551584,120892.0,0.4,LRRK2,Brain atrophy,1643639,MedGen
+656,[Nervous System Diseases (C10)],Parkinson Disease,disease,C0030567,6531.0,0.95,SLC6A3,Parkinson disease,10590,MedGen
+666,[Nervous System Diseases (C10)],"Parkinsonism-Dystonia, Infantile",disease,C2751067,6531.0,0.95,SLC6A3,"Parkinsonism-dystonia, infantile",413468,MedGen
+677,[Mental Disorders (F03)],Schizophrenias,disease,C0036341,6531.0,0.9,SLC6A3,Schizophrenia,48574,MedGen
+686,"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]",Alcoholism,disease,C0001973,6531.0,0.85,SLC6A3,Alcohol dependence,1801,MedGen
+687,[Mental Disorders (F03)],Depressive neurosis,disease,C0011581,6531.0,0.85,SLC6A3,Depression,4229,MedGen
+693,"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Hyperkinesia,disease,C3887506,6531.0,0.7999999999999999,SLC6A3,Hyperkinetic movements,854367,MedGen
+695,"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]",Cocaine dependence,disease,C0600427,6531.0,0.75,SLC6A3,Cocaine dependence,154705,MedGen
+701,[Nervous System Diseases (C10)],"Diseases, Nervous System",disease,C0027765,6531.0,0.75,SLC6A3,Disorder of nervous system,14336,MedGen
+704,"[Nutritional and Metabolic Diseases (C18), Pathological Conditions, Signs and Symptoms (C23)]",Obesity,disease,C0028754,6531.0,0.75,SLC6A3,Obesity,18127,MedGen
+713,[Mental Disorders (F03)],Bipolar Disorders,disease,C0005586,6531.0,0.75,SLC6A3,Bipolar affective disorder,2649,MedGen
+718,[Mental Disorders (F03)],Anxiety Disorder,disease,C0003469,6531.0,0.75,SLC6A3,Anxiety disorder,361,MedGen
+725,"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]","Abuse, Alcohol",disease,C0085762,6531.0,0.7,SLC6A3,Alcohol abuse,39339,MedGen
+727,"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]","Dependence, Nicotine",disease,C0028043,6531.0,0.7,SLC6A3,Nicotine dependence,45086,MedGen
+731,"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]",Cocaine abuse,disease,C0009171,6531.0,0.65,SLC6A3,Cocaine abuse,3136,MedGen
+735,[Mental Disorders (F03)],Mild cognitive disorder,disease,C1270972,6531.0,0.65,SLC6A3,mild cognitive disorder,220863,MedGen
+738,[Mental Disorders (F03)],Affective Disorders,disease,C0525045,6531.0,0.65,SLC6A3,Mood disorder,99866,MedGen
+743,"[Mental Disorders (F03), Nervous System Diseases (C10)]",Tic Disorders,disease,C0040188,6531.0,0.65,SLC6A3,Tic,21556,MedGen
+748,"[Chemically-Induced Disorders (C25), Mental Disorders (F03), Nervous System Diseases (C10)]",Alcohol Withdrawal Delirium,disease,C0001957,6531.0,0.6000000000000001,SLC6A3,Alcohol withdrawal delirium,1398,MedGen
+750,"[Skin and Connective Tissue Diseases (C17), Neoplasms (C04)]","Cancer, Breast",disease,C0006142,6531.0,0.6000000000000001,SLC6A3,Malignant tumor of breast,651,MedGen
+754,"[Nervous System Diseases (C10), Mental Disorders (F03), Pathological Conditions, Signs and Symptoms (C23)]",Reading disorder,disease,C0476254,6531.0,0.6000000000000001,SLC6A3,Dyslexia,96906,MedGen
+759,"[Chemically-Induced Disorders (C25), Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23)]",ALCOHOL WITHDRAWAL IND SEIZURE,disease,C0586323,6531.0,0.6000000000000001,SLC6A3,Alcohol-induced epilepsy,108446,MedGen
+765,[Mental Disorders (F03)],"Disorders, Paranoid",disease,C1456784,6531.0,0.6000000000000001,SLC6A3,Paranoia,306130,MedGen
+770,"[Behavior and Behavior Mechanisms (F01), Mental Disorders (F03), Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23)]",Delirium,disease,C0011206,6531.0,0.6000000000000001,SLC6A3,Delirium,41445,MedGen
+774,"[Pathological Conditions, Signs and Symptoms (C23), Behavior and Behavior Mechanisms (F01), Nervous System Diseases (C10)]",Anhedonia,disease,C0178417,6531.0,0.55,SLC6A3,Anhedonia,64230,MedGen
+780,[Mental Disorders (F03)],severe major depressive disorder with psychotic features,disease,C0270458,6531.0,0.5,SLC6A3,Severe major depression with psychotic features,542755,MedGen
+781,[Behavior and Behavior Mechanisms (F01)],Irritation,phenotype,C2700617,6531.0,0.45,SLC6A3,Irritability,397841,MedGen
+783,[],"PARKINSONISM-DYSTONIA, INFANTILE, 1",disease,C5700336,6531.0,0.45,SLC6A3,Classic dopamine transporter deficiency syndrome,1814585,MedGen
+787,"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Limb dystonia,phenotype,C0751093,6531.0,0.45,SLC6A3,Limb dystonia,152944,MedGen
+790,[],"TOBACCO ADDICTION, SUSCEPTIBILITY TO",phenotype,C1861063,6531.0,0.4,SLC6A3,"Tobacco addiction, susceptibility to",348778,MedGen
+793,"[Digestive System Diseases (C06), Otorhinolaryngologic Diseases (C09)]",Deglutition Disorders,disease,C0011168,6531.0,0.4,SLC6A3,Dysphagia,41440,MedGen
+800,"[Pathological Conditions, Signs and Symptoms (C23)]",Ambulation Difficulty,phenotype,C0311394,6531.0,0.4,SLC6A3,Difficulty walking,86319,MedGen
+801,[],Gait imbalance,phenotype,C1836150,6531.0,0.4,SLC6A3,Gait imbalance,373028,MedGen
+805,[],"NICOTINE DEPENDENCE, PROTECTION AGAINST",phenotype,C4016025,6531.0,0.4,SLC6A3,"Nicotine dependence, protection against",864462,MedGen
+808,"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]",Cocaine Related Disorders,disease,C0236736,6531.0,0.4,SLC6A3,Cocaine-Related Disorders,66741,MedGen
+810,"[Pathological Conditions, Signs and Symptoms (C23)]","Degeneration, Nerve",phenotype,C0027746,6531.0,0.4,SLC6A3,Neurodegeneration,17999,MedGen
+817,"[Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23)]",Speech and language delay,phenotype,C0454644,6531.0,0.4,SLC6A3,Delayed speech and language development,105318,MedGen
+823,"[Nutritional and Metabolic Diseases (C18), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16), Nervous System Diseases (C10)]",Gaucher Disease,disease,C0017205,2629.0,1.0,GBA1,Gaucher disease,42164,MedGen
+828,[Nervous System Diseases (C10)],Parkinson Disease,disease,C0030567,2629.0,1.0,GBA1,Parkinson disease,10590,MedGen
+835,"[Nervous System Diseases (C10), Mental Disorders (F03)]",Lewy Body Disease,disease,C0752347,2629.0,1.0,GBA1,Lewy body dementia,199874,MedGen
+844,"[Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16), Nutritional and Metabolic Diseases (C18), Nervous System Diseases (C10)]","GAUCHER DISEASE, TYPE I",disease,C1961835,2629.0,1.0,GBA1,Gaucher disease type I,409531,MedGen
+855,"[Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16), Nutritional and Metabolic Diseases (C18), Nervous System Diseases (C10)]","GAUCHER DISEASE, TYPE III",disease,C0268251,2629.0,1.0,GBA1,Gaucher disease type III,78653,MedGen
+856,"[Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16), Nutritional and Metabolic Diseases (C18), Nervous System Diseases (C10)]","GAUCHER DISEASE, TYPE II",disease,C0268250,2629.0,0.95,GBA1,Gaucher disease type II,78652,MedGen
+864,[Nervous System Diseases (C10)],Parkinsonism,disease,C0242422,2629.0,0.9000000000000001,GBA1,Parkinsonian disorder,66079,MedGen
+873,"[Nervous System Diseases (C10), Mental Disorders (F03)]",Dementia,disease,C0497327,2629.0,0.9,GBA1,Dementia,99229,MedGen
+879,"[Nutritional and Metabolic Diseases (C18), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16), Nervous System Diseases (C10)]","GAUCHER DISEASE, PERINATAL LETHAL",disease,C1842704,2629.0,0.8999999999999999,GBA1,Gaucher disease perinatal lethal,374996,MedGen
+882,[Hemic and Lymphatic Diseases (C15)],Thrombocytopenia,disease,C0040034,2629.0,0.8,GBA1,Thrombocytopenia,52737,MedGen
+886,[Nervous System Diseases (C10)],Movement Disorders,disease,C0026650,2629.0,0.65,GBA1,Movement disorder,10113,MedGen
+892,"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Tremors,phenotype,C0040822,2629.0,0.65,GBA1,Tremor,21635,MedGen
+896,[Nervous System Diseases (C10)],PD,disease,C3160718,2629.0,0.6,GBA1,"Parkinson disease, late-onset",463618,MedGen
+900,"[Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16), Nutritional and Metabolic Diseases (C18), Nervous System Diseases (C10)]",Pseudo Gaucher disease,disease,C2931585,2629.0,0.6,GBA1,Gaucher disease with ophthalmoplegia and cardiovascular calcification,419117,MedGen
+903,"[Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16), Nutritional and Metabolic Diseases (C18), Nervous System Diseases (C10)]","GAUCHER DISEASE, TYPE IIIC",disease,C1856476,2629.0,0.6,GBA1,Gaucher disease-ophthalmoplegia-cardiovascular calcification syndrome,341563,MedGen
+911,"[Musculoskeletal Diseases (C05), Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23)]",Muscle Rigidity,phenotype,C0026837,2629.0,0.55,GBA1,Rigidity,7752,MedGen
+915,"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Resting tremor,phenotype,C0234379,2629.0,0.55,GBA1,Resting tremor,66697,MedGen
+917,[Nutritional and Metabolic Diseases (C18)],Other sphingolipidosis,disease,C0348489,2629.0,0.5,GBA1,Other Sphingolipidosis,1826267,MedGen
+918,[Nervous System Diseases (C10)],Hereditary late onset Parkinson disease,disease,C4274355,2629.0,0.5,GBA1,Autosomal dominant late onset Parkinson disease,896543,MedGen
+921,[],Abnormal vocalization (finding),phenotype,C3687424,2629.0,0.45,GBA1,Abnormal speech pattern,1853271,MedGen
+923,"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Akinesia,phenotype,C0085623,2629.0,0.45,GBA1,Akinesia,43218,MedGen
+926,[Hemic and Lymphatic Diseases (C15)],Bleeding tendency,phenotype,C1458140,2629.0,0.45,GBA1,Abnormal bleeding,264316,MedGen
+930,"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Expressionless face,phenotype,C0813217,2629.0,0.45,GBA1,Hypomimic face,208827,MedGen
+934,[Cardiovascular Diseases (C14)],High blood pressure,disease,C0020538,2629.0,0.45,GBA1,Hypertensive disorder,6969,MedGen
+942,[Neoplasms (C04)],Hepatoblastoma,disease,C0206624,2629.0,0.4,GBA1,Hepatoblastoma,61644,MedGen
+950,[Nutritional and Metabolic Diseases (C18)],Hyperlipemias,disease,C0020473,2629.0,0.4,GBA1,Hyperlipidemia,5692,MedGen
+958,"[Pathological Conditions, Signs and Symptoms (C23), Musculoskeletal Diseases (C05), Nervous System Diseases (C10)]",Cogwheel rigidity,phenotype,C0151564,2629.0,0.4,GBA1,Cogwheel rigidity,57469,MedGen
+960,"[Cardiovascular Diseases (C14), Respiratory Tract Diseases (C08)]","Hypertension, Pulmonary",phenotype,C0020542,2629.0,0.4,GBA1,Pulmonary hypertension,9376,MedGen
+964,[Musculoskeletal Diseases (C05)],Thoracolumbar scoliosis,disease,C0749379,2629.0,0.4,GBA1,Thoracolumbar scoliosis,196671,MedGen
+965,"[Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16), Hemic and Lymphatic Diseases (C15), Nervous System Diseases (C10)]",ATRX,disease,C1845055,2629.0,0.4,GBA1,Alpha thalassemia-X-linked intellectual disability syndrome,337145,MedGen
+972,"[Pathological Conditions, Signs and Symptoms (C23), Musculoskeletal Diseases (C05), Nervous System Diseases (C10)]",Lower extremity weakness,phenotype,C1836296,2629.0,0.4,GBA1,Lower limb muscle weakness,324478,MedGen
+974,[],"DEMENTIA, LEWY BODY, SUSCEPTIBILITY TO",phenotype,C2676021,2629.0,0.4,GBA1,"Dementia, Lewy body, susceptibility to",382750,MedGen
+978,"[Skin and Connective Tissue Diseases (C17), Neoplasms (C04)]",Breast Neoplasms,disease,C1458155,207.0,1.0,AKT1,Breast neoplasm,264172,MedGen
+983,"[Neoplasms (C04), Respiratory Tract Diseases (C08)]","Carcinoma, Non Small Cell Lung",disease,C0007131,207.0,1.0,AKT1,Non-small cell lung carcinoma,40104,MedGen
+997,"[Nutritional and Metabolic Diseases (C18), Endocrine System Diseases (C19)]",Adult-Onset Diabetes Mellitus,disease,C0011860,207.0,1.0,AKT1,Type 2 diabetes mellitus,41523,MedGen
+999,"[Neoplasms (C04), Respiratory Tract Diseases (C08)]",Lung Neoplasm,disease,C0024121,207.0,1.0,AKT1,Neoplasm of lung,7400,MedGen
+1005,"[Neoplasms (C04), Urogenital Diseases (C12)]","Neoplasm, Prostatic",disease,C0033578,207.0,1.0,AKT1,Prostate neoplasm,18697,MedGen
+1010,"[Neoplasms (C04), Musculoskeletal Diseases (C05), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16)]",Proteus Syndrome,disease,C0085261,207.0,1.0,AKT1,Proteus syndrome,39008,MedGen
+1021,"[Urogenital Diseases (C12), Neoplasms (C04), Endocrine System Diseases (C19)]","Cancer, Ovarian",disease,C1140680,207.0,1.0,AKT1,Ovarian cancer,216027,MedGen
+1024,"[Urogenital Diseases (C12), Neoplasms (C04), Endocrine System Diseases (C19)]","Neoplasm, Ovarian",disease,C0919267,207.0,1.0,AKT1,Ovarian neoplasm,181539,MedGen
+1030,"[Digestive System Diseases (C06), Neoplasms (C04)]",Colorectal Neoplasm,disease,C0009404,207.0,1.0,AKT1,Neoplasm of the large intestine,3171,MedGen
+1036,"[Endocrine System Diseases (C19), Neoplasms (C04), Digestive System Diseases (C06)]","Neoplasm, Pancreatic",disease,C0030297,207.0,0.95,AKT1,Neoplasm of the pancreas,18279,MedGen
+1041,"[Skin and Connective Tissue Diseases (C17), Neoplasms (C04)]","Cancer, Breast",disease,C0006142,207.0,0.95,AKT1,Malignant tumor of breast,651,MedGen
+1052,[Mental Disorders (F03)],Schizophrenias,disease,C0036341,207.0,0.95,AKT1,Schizophrenia,48574,MedGen
+1060,"[Digestive System Diseases (C06), Neoplasms (C04)]",Liver cell carcinoma,disease,C2239176,207.0,0.9,AKT1,Hepatocellular carcinoma,389187,MedGen
+1070,"[Neoplasms (C04), Skin and Connective Tissue Diseases (C17)]",Melanoma,disease,C0025202,207.0,0.9,AKT1,Melanoma,9944,MedGen
+1074,"[Pathological Conditions, Signs and Symptoms (C23)]",Inflammations,phenotype,C0021368,207.0,0.9,AKT1,Inflammation,7072,MedGen
+1077,"[Nutritional and Metabolic Diseases (C18), Pathological Conditions, Signs and Symptoms (C23)]",Obesity,disease,C0028754,207.0,0.9,AKT1,Obesity,18127,MedGen
+1091,"[Neoplasms (C04), Endocrine System Diseases (C19)]","Neoplasm, Thyroid",disease,C0040136,207.0,0.9,AKT1,Thyroid tumor,21546,MedGen
+1096,"[Neoplasms (C04), Digestive System Diseases (C06)]",Malignant neoplasm of colon,disease,C0007102,207.0,0.9,AKT1,Colon cancer,2839,MedGen
+1098,[Nervous System Diseases (C10)],Parkinson Disease,disease,C0030567,207.0,0.9,AKT1,Parkinson disease,10590,MedGen
+1108,"[Urogenital Diseases (C12), Neoplasms (C04)]",Malignant neoplasm of bladder,disease,C0005684,207.0,0.8500000000000001,AKT1,Malignant tumor of urinary bladder,14150,MedGen
+1118,[Neoplasms (C04)],Lung adenocarcinoma,disease,C0152013,207.0,0.8500000000000001,AKT1,Lung adenocarcinoma,57744,MedGen
+1129,"[Urogenital Diseases (C12), Neoplasms (C04)]","Neoplasm, Bladder",disease,C0005695,207.0,0.8500000000000001,AKT1,Bladder neoplasm,594,MedGen
+1137,"[Nervous System Diseases (C10), Neoplasms (C04)]",Meningiomas,disease,C0025286,207.0,0.8500000000000001,AKT1,Meningioma,7532,MedGen
+1140,"[Neoplasms (C04), Pathological Conditions, Signs and Symptoms (C23)]",carcinogenesis,disease,C0596263,207.0,0.8500000000000001,AKT1,Carcinogenesis,154544,MedGen
+1143,[Mental Disorders (F03)],Bipolar Disorders,disease,C0005586,207.0,0.8500000000000001,AKT1,Bipolar affective disorder,2649,MedGen
+1149,"[Neoplasms (C04), Musculoskeletal Diseases (C05)]",Osteosarcoma of Bone,disease,C0585442,207.0,0.8500000000000001,AKT1,Bone osteosarcoma,108437,MedGen
+1160,"[Neoplasms (C04), Digestive System Diseases (C06)]",CARCINOMA OF COLON,disease,C0699790,207.0,0.8500000000000001,AKT1,Carcinoma of colon,147065,MedGen
+1189,"[Urogenital Diseases (C12), Neoplasms (C04)]",Cervical Neoplasm,disease,C0007873,207.0,0.8500000000000001,AKT1,Neoplasm of uterine cervix,40201,MedGen
+1192,"[Neoplasms (C04), Urogenital Diseases (C12)]",Malignant neoplasm of prostate,disease,C0376358,207.0,0.8500000000000001,AKT1,Malignant tumor of prostate,138169,MedGen
+1198,[Neoplasms (C04)],Adenocarcinoma,disease,C0001418,207.0,0.85,AKT1,Adenocarcinoma,122,MedGen
+1201,[Neoplasms (C04)],Squamous cell carcinoma,disease,C0007137,207.0,0.8,AKT1,Squamous cell carcinoma,2874,MedGen
+1212,"[Neoplasms (C04), Hemic and Lymphatic Diseases (C15), Pathological Conditions, Signs and Symptoms (C23)]",Chronic myeloid leukemia,disease,C0279543,207.0,0.8,AKT1,"Chronic myelogenous leukemia, BCR-ABL1 positive",75993,MedGen
+1217,[Neoplasms (C04)],"SQUAMOUS CELL CARCINOMA, HEAD AND NECK",disease,C1168401,207.0,0.8,AKT1,Squamous cell carcinoma of the head and neck,257911,MedGen
+1224,[Nervous System Diseases (C10)],Epilepsies,disease,C0014544,207.0,0.8,AKT1,Epilepsy,4506,MedGen
+1228,"[Skin and Connective Tissue Diseases (C17), Neoplasms (C04)]","Neoplasm, Skin",disease,C0037286,207.0,0.8,AKT1,Neoplasm of the skin,19993,MedGen
+1234,"[Pathological Conditions, Signs and Symptoms (C23)]",Hyperplasias,phenotype,C0020507,207.0,0.75,AKT1,Hyperplasia,43784,MedGen
+1242,"[Neoplasms (C04), Digestive System Diseases (C06)]",Gastric adenocarcinoma,disease,C0278701,207.0,0.75,AKT1,Gastric adenocarcinoma,82961,MedGen
+1243,[Mental Disorders (F03)],Depressive neurosis,disease,C0011581,207.0,0.75,AKT1,Depression,4229,MedGen
+1248,"[Neoplasms (C04), Respiratory Tract Diseases (C08)]",small cell carcinoma of lung,disease,C0149925,207.0,0.75,AKT1,Small cell lung carcinoma,57450,MedGen
+1261,"[Neoplasms (C04), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16)]",Cowdens Disease,disease,C0018553,207.0,0.75,AKT1,Cowden syndrome,5420,MedGen
+1267,"[Pathological Conditions, Signs and Symptoms (C23)]",Fibroses,phenotype,C0016059,207.0,0.75,AKT1,Fibrosis,5179,MedGen
+1271,"[Psychological Phenomena (F02), Pathological Conditions, Signs and Symptoms (C23)]",Pain,phenotype,C0030193,207.0,0.75,AKT1,Pain,45282,MedGen
+1281,"[Neoplasms (C04), Skin and Connective Tissue Diseases (C17)]",Malignant melanoma of skin,disease,C0151779,207.0,0.7,AKT1,Malignant melanoma of skin,57486,MedGen
+1289,"[Neoplasms (C04), Respiratory Tract Diseases (C08)]",squamous cell carcinoma of lung (diagnosis),disease,C0149782,207.0,0.7,AKT1,Squamous cell lung carcinoma,56202,MedGen
+1293,"[Neoplasms (C04), Urogenital Diseases (C12)]",adenocarcinoma of prostate gland,disease,C0007112,207.0,0.7,AKT1,Prostate adenocarcinoma,764,MedGen
+1295,"[Neoplasms (C04), Urogenital Diseases (C12)]",Bladder transitional cell carcinoma,disease,C0279680,207.0,0.65,AKT1,Transitional cell carcinoma of the bladder,76013,MedGen
+1299,"[Pathological Conditions, Signs and Symptoms (C23), Digestive System Diseases (C06)]",Hepatomegaly,phenotype,C0019209,207.0,0.65,AKT1,Hepatomegaly,42428,MedGen
+1308,"[Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16), Neoplasms (C04), Digestive System Diseases (C06)]",Adenomatous Polyposis Coli,disease,C0032580,207.0,0.65,AKT1,Familial multiple polyposis syndrome,46010,MedGen
+1317,"[Neoplasms (C04), Hemic and Lymphatic Diseases (C15), Immune System Diseases (C20)]","Lymphoma, T Cell",disease,C0079772,207.0,0.65,AKT1,T-cell lymphoma,86957,MedGen
+1322,[Cardiovascular Diseases (C14)],Cardiomyopathy,disease,C0878544,207.0,0.65,AKT1,Cardiomyopathy,209232,MedGen
+1330,[Mental Disorders (F03)],Affective Disorders,disease,C0525045,207.0,0.6000000000000001,AKT1,Mood disorder,99866,MedGen
+1334,"[Neoplasms (C04), Skin and Connective Tissue Diseases (C17)]",adenocarcinoma of breast (diagnosis),disease,C0858252,207.0,0.6000000000000001,AKT1,Breast adenocarcinoma,167809,MedGen
+1353,"[Hemic and Lymphatic Diseases (C15), Neoplasms (C04)]",Acute promyelocytic leukemia,disease,C0023487,207.0,0.6000000000000001,AKT1,Acute promyelocytic leukemia,44127,MedGen
+1357,[Neoplasms (C04)],"Cancer, Squamous Cell",disease,C0751688,207.0,0.6000000000000001,AKT1,Malignant squamous cell neoplasm,148367,MedGen
+1361,[],CWS6,disease,C3554519,207.0,0.6,AKT1,Cowden syndrome 6,767433,MedGen
+1365,"[Digestive System Diseases (C06), Chemically-Induced Disorders (C25)]","Fatty Liver, Alcoholic",disease,C0015696,207.0,0.55,AKT1,Alcoholic fatty liver disease,4666,MedGen
+1368,"[Infections (C01), Respiratory Tract Diseases (C08)]","Tuberculosis, Pulmonary",disease,C0041327,207.0,0.55,AKT1,Pulmonary tuberculosis,11947,MedGen
+1378,"[Neoplasms (C04), Skin and Connective Tissue Diseases (C17)]",familial cancer of breast,disease,C0346153,207.0,0.5,AKT1,Familial cancer of breast,87542,MedGen
+1384,"[Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23)]","Atrophies, Muscular",phenotype,C0026846,207.0,0.5,AKT1,Muscle atrophy,7754,MedGen
+1427,"[Neoplasms (C04), Digestive System Diseases (C06)]",Malignant neoplasm of large intestine,disease,C0346629,207.0,0.5,AKT1,Colorectal cancer,83428,MedGen
+1428,[Mental Disorders (F03)],Bipolar Depression,disease,C0005587,207.0,0.45,AKT1,Bipolar depression,585,MedGen
+1433,[Neoplasms (C04)],Intraductal papillary mucinous tumour with intermediate dysplasia,disease,C1266071,207.0,0.45,AKT1,Intraductal papillary-mucinous adenoma,690087,MedGen
+1436,[Neoplasms (C04)],Breast cancer (ductal),disease,C1527349,207.0,0.45,AKT1,Breast ductal adenocarcinoma,315942,MedGen
+1438,[Mental Disorders (F03)],Manic Disorders,disease,C0024713,207.0,0.45,AKT1,Manic bipolar affective disorder,7460,MedGen
+1444,[Mental Disorders (F03)],"Mixed bipolar disorder, NOS",disease,C0236780,207.0,0.45,AKT1,Mixed bipolar I disorder,536627,MedGen
+1446,"[Cardiovascular Diseases (C14), Pathological Conditions, Signs and Symptoms (C23)]",Cardiomegaly,phenotype,C0018800,207.0,0.45,AKT1,Cardiomegaly,5459,MedGen
+1449,"[Neoplasms (C04), Endocrine System Diseases (C19), Digestive System Diseases (C06)]",Malignant neoplasm of head of pancreas,disease,C0153458,207.0,0.4,AKT1,Malignant Neoplasm of Head of Pancreas,509298,MedGen
+1454,[Cardiovascular Diseases (C14)],"Disease, Primary Myocardial",disease,C0033141,207.0,0.4,AKT1,Idiopathic cardiomyopathy,18634,MedGen
+1457,[],"Endometrial Endometrioid Adenocarcinoma, Variant with Squamous Differentiation",disease,C0279763,207.0,0.4,AKT1,"Endometrial Endometrioid Adenocarcinoma, Variant with Squamous Differentiation",76025,MedGen
+1459,"[Neoplasms (C04), Endocrine System Diseases (C19), Digestive System Diseases (C06)]",Malignant neoplasm of body of pancreas,disease,C0153459,207.0,0.4,AKT1,Malignant Neoplasm of Body of Pancreas,509299,MedGen
+1461,[],Meningothelial Cell Neoplasm,disease,C1334698,207.0,0.4,AKT1,Meningothelial Cell Neoplasm,235318,MedGen
+1464,"[Nutritional and Metabolic Diseases (C18), Cardiovascular Diseases (C14)]",Aortic valve calcification,disease,C0428791,207.0,0.4,AKT1,Aortic valve calcification,140899,MedGen
+1468,"[Neoplasms (C04), Endocrine System Diseases (C19), Digestive System Diseases (C06)]",Malignant neoplasm of tail of pancreas,disease,C0153460,207.0,0.4,AKT1,Malignant Neoplasm of Tail of Pancreas,509300,MedGen
+1469,"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]","Abuse, Cannabis",disease,C0006868,207.0,0.4,AKT1,Cannabis abuse,2807,MedGen
+1473,"[Nervous System Diseases (C10), Neoplasms (C04)]",Meningeal Neoplasm,disease,C0025284,207.0,0.4,AKT1,Tumor of meninges,44353,MedGen
+1479,"[Nervous System Diseases (C10), Mental Disorders (F03)]",Lewy Body Disease,disease,C0752347,6622.0,1.0,SNCA,Lewy body dementia,199874,MedGen
+1487,[Nervous System Diseases (C10)],Parkinson Disease,disease,C0030567,6622.0,1.0,SNCA,Parkinson disease,10590,MedGen
+1498,"[Mental Disorders (F03), Nervous System Diseases (C10)]",Alzheimer Disease,disease,C0002395,6622.0,1.0,SNCA,Alzheimer disease,1853,MedGen
+1505,[Nervous System Diseases (C10)],Parkinsonism,disease,C0242422,6622.0,1.0,SNCA,Parkinsonian disorder,66079,MedGen
+1512,"[Nutritional and Metabolic Diseases (C18), Nervous System Diseases (C10)]",Synucleinopathy,disease,C5191670,6622.0,0.95,SNCA,Synucleinopathy,1682194,MedGen
+1514,[Nervous System Diseases (C10)],"Degenerative disease of nervous system, unspecified",disease,C0524851,6622.0,0.95,SNCA,"Degenerative Disease of Nervous System, Unspecified",101195,MedGen
+1515,[],PARK1,disease,C1868595,6622.0,0.8500000000000001,SNCA,Autosomal dominant Parkinson disease 1,357008,MedGen
+1522,"[Nutritional and Metabolic Diseases (C18), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16), Nervous System Diseases (C10)]",Gaucher Disease,disease,C0017205,6622.0,0.85,SNCA,Gaucher disease,42164,MedGen
+1527,"[Pathological Conditions, Signs and Symptoms (C23)]",degenerative disorders,disease,C1285162,6622.0,0.75,SNCA,Degenerative disorder,224837,MedGen
+1531,"[Mental Disorders (F03), Nervous System Diseases (C10)]",PARK4,disease,C1854182,6622.0,0.75,SNCA,Autosomal dominant Parkinson disease 4,381361,MedGen
+1535,[Nervous System Diseases (C10)],Early onset Parkinson's disease,disease,C4275179,6622.0,0.75,SNCA,Young-onset Parkinson disease,907947,MedGen
+1546,"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]",Alcoholism,disease,C0001973,6622.0,0.75,SNCA,Alcohol dependence,1801,MedGen
+1552,"[Pathological Conditions, Signs and Symptoms (C23)]","Losses, Weight",phenotype,C1262477,6622.0,0.7,SNCA,Weight loss,853198,MedGen
+1553,[Nervous System Diseases (C10)],Symptomatic Parkinsonism,disease,C0030569,6622.0,0.65,SNCA,Secondary Parkinson disease,10592,MedGen
+1562,"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]","Abuse, Alcohol",disease,C0085762,6622.0,0.65,SNCA,Alcohol abuse,39339,MedGen
+1564,"[Mental Disorders (F03), Cardiovascular Diseases (C14), Nervous System Diseases (C10)]","Dementia, Vascular",disease,C0011269,6622.0,0.65,SNCA,Vascular dementia,41447,MedGen
+1568,"[Eye Diseases (C11), Nervous System Diseases (C10)]",PARK15,disease,C1850100,6622.0,0.6000000000000001,SNCA,Parkinsonian-pyramidal syndrome,337969,MedGen
+1578,[Nervous System Diseases (C10)],Hereditary late onset Parkinson disease,disease,C4274355,6622.0,0.5,SNCA,Autosomal dominant late onset Parkinson disease,896543,MedGen
+1582,"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]",Cocaine Related Disorders,disease,C0236736,6622.0,0.45,SNCA,Cocaine-Related Disorders,66741,MedGen
+1587,"[Nervous System Diseases (C10), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16), Nutritional and Metabolic Diseases (C18), Digestive System Diseases (C06)]","Degeneration, Progressive Lenticular",disease,C0019202,6622.0,0.4,SNCA,Wilson disease,42426,MedGen
+1595,[Cardiovascular Diseases (C14)],Heart failure,disease,C0018801,6622.0,0.4,SNCA,Heart failure,6749,MedGen
+1596,[Cardiovascular Diseases (C14)],Congestive heart failure,disease,C0018802,6622.0,0.4,SNCA,Congestive heart failure,9169,MedGen
+1601,"[Pathological Conditions, Signs and Symptoms (C23)]","Degeneration, Nerve",phenotype,C0027746,6622.0,0.4,SNCA,Neurodegeneration,17999,MedGen
+1604,"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Ataxia,phenotype,C0004134,6622.0,0.4,SNCA,Dyssynergia,13945,MedGen
+1609,[Nervous System Diseases (C10)],Parkinson Disease,disease,C0030567,4929.0,1.0,NR4A2,Parkinson disease,10590,MedGen
+1623,[Mental Disorders (F03)],Schizophrenias,disease,C0036341,4929.0,0.8,NR4A2,Schizophrenia,48574,MedGen
+1624,[Mental Disorders (F03)],AUTISM SPECTRUM DISORDER,disease,C1510586,4929.0,0.7,NR4A2,Autism spectrum disorder,307153,MedGen
+1630,[Nervous System Diseases (C10)],Epilepsies,disease,C0014544,4929.0,0.7,NR4A2,Epilepsy,4506,MedGen
+1634,"[Digestive System Diseases (C06), Neoplasms (C04)]",Colorectal Neoplasm,disease,C0009404,4929.0,0.65,NR4A2,Neoplasm of the large intestine,3171,MedGen
+1642,"[Skin and Connective Tissue Diseases (C17), Musculoskeletal Diseases (C05)]",Arthritic Psoriasis,disease,C0003872,4929.0,0.6000000000000001,NR4A2,Psoriatic arthritis,2077,MedGen
+1645,[Mental Disorders (F03)],Bipolar Disorders,disease,C0005586,4929.0,0.6000000000000001,NR4A2,Bipolar affective disorder,2649,MedGen
+1656,"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]",Alcoholism,disease,C0001973,4929.0,0.6000000000000001,NR4A2,Alcohol dependence,1801,MedGen
+1657,[Mental Disorders (F03)],Neurodevelopmental Disorder,disease,C1535926,4929.0,0.6000000000000001,NR4A2,Neurodevelopmental disorder,453059,MedGen
+1661,[Mental Disorders (F03)],MAJOR DEPRESSIVE DISORDER,disease,C1269683,4929.0,0.6000000000000001,NR4A2,Major depressive disorder,266123,MedGen
+1666,[Mental Disorders (F03)],"Depressions, Unipolar",disease,C0041696,4929.0,0.6000000000000001,NR4A2,Unipolar Depression,22552,MedGen
+1670,[],IDLDP,disease,C5677001,4929.0,0.6,NR4A2,Intellectual developmental disorder with language impairment and early-onset DOPA-responsive dystonia-parkinsonism,1805453,MedGen
+1671,"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]",Cocaine abuse,disease,C0009171,4929.0,0.5,NR4A2,Cocaine abuse,3136,MedGen
+1675,"[Nervous System Diseases (C10), Mental Disorders (F03), Behavior and Behavior Mechanisms (F01), Pathological Conditions, Signs and Symptoms (C23)]",Global developmental delay,disease,C0557874,4929.0,0.45,NR4A2,Global developmental delay,107838,MedGen
+1680,"[Pathological Conditions, Signs and Symptoms (C23), Behavior and Behavior Mechanisms (F01), Mental Disorders (F03), Nervous System Diseases (C10)]",Non-specific syndromic intellectual disability,disease,C5568766,4929.0,0.45,NR4A2,Complex neurodevelopmental disorder,1800189,MedGen
+1682,"[Musculoskeletal Diseases (C05), Immune System Diseases (C20), Skin and Connective Tissue Diseases (C17)]",Pauciarticular juvenile arthritis,disease,C0157917,4929.0,0.4,NR4A2,Oligoarticular Still Disease,510419,MedGen
+1685,[Nervous System Diseases (C10)],PD,disease,C3160718,4929.0,0.4,NR4A2,"Parkinson disease, late-onset",463618,MedGen
+1691,[Nervous System Diseases (C10)],DRD,disease,C1851920,4929.0,0.4,NR4A2,Dystonia 5,342121,MedGen
+1699,[],Neurodevelopmental delay,phenotype,C4022738,4929.0,0.4,NR4A2,Neurodevelopmental delay,868344,MedGen
+1701,"[Immune System Diseases (C20), Musculoskeletal Diseases (C05), Skin and Connective Tissue Diseases (C17)]",Juvenile Chronic Polyarthritis,disease,C0409667,4929.0,0.4,NR4A2,Juvenile chronic polyarthritis,140816,MedGen
+1702,[Skin and Connective Tissue Diseases (C17)],Skin Disease,disease,C0037274,4929.0,0.4,NR4A2,Skin disorder,20777,MedGen
+1706,"[Musculoskeletal Diseases (C05), Immune System Diseases (C20), Skin and Connective Tissue Diseases (C17)]",Acute polyarticular juvenile rheumatoid arthritis,disease,C0157916,4929.0,0.4,NR4A2,Acute polyarticular juvenile idiopathic arthritis,510418,MedGen
+1709,"[Skin and Connective Tissue Diseases (C17), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16)]","Skin Diseases, Genetic",disease,C0037277,4929.0,0.4,NR4A2,Genodermatosis,20779,MedGen
+1717,"[Pathological Conditions, Signs and Symptoms (C23)]",Deletion 2q24,phenotype,C2931816,4929.0,0.4,NR4A2,2q24 microdeletion syndrome,419168,MedGen
+1719,[Mental Disorders (F03)],Child Development Disorder,disease,C0008073,4929.0,0.4,NR4A2,Developmental disorder,3367,MedGen
+1723,[Nervous System Diseases (C10)],PARK7,disease,C1853445,11315.0,1.0,PARK7,Autosomal recessive early-onset Parkinson disease 7,344049,MedGen
+1725,[Nervous System Diseases (C10)],Parkinson Disease,disease,C0030567,11315.0,1.0,PARK7,Parkinson disease,10590,MedGen
+1733,[Nervous System Diseases (C10)],Parkinsonism,disease,C0242422,11315.0,0.95,PARK7,Parkinsonian disorder,66079,MedGen
+1738,[Nervous System Diseases (C10)],Early onset Parkinson's disease,disease,C4275179,11315.0,0.8,PARK7,Young-onset Parkinson disease,907947,MedGen
+1742,"[Cardiovascular Diseases (C14), Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Cerebral Infarction,disease,C0007785,11315.0,0.7,PARK7,Cerebral infarction,3321,MedGen
+1754,"[Digestive System Diseases (C06), Neoplasms (C04)]",Liver cell carcinoma,disease,C2239176,11315.0,0.6000000000000001,PARK7,Hepatocellular carcinoma,389187,MedGen
+1760,[Nervous System Diseases (C10)],Motor Neuron Disease,disease,C0085084,11315.0,0.55,PARK7,Motor neuron disease,38785,MedGen
+1764,[Nervous System Diseases (C10)],PARK6,disease,C1853833,11315.0,0.55,PARK7,Autosomal recessive early-onset Parkinson disease 6,342982,MedGen
+1771,[Nervous System Diseases (C10)],PD,disease,C3160718,11315.0,0.5,PARK7,"Parkinson disease, late-onset",463618,MedGen
+1777,"[Pathological Conditions, Signs and Symptoms (C23)]",Reticulocytosis,phenotype,C0206160,11315.0,0.4,PARK7,Reticulocytosis,60089,MedGen
+1779,[Digestive System Diseases (C06)],"Enterocolitis, Necrotizing",disease,C0520459,11315.0,0.4,PARK7,Necrotizing enterocolitis,105440,MedGen
+1786,"[Pathological Conditions, Signs and Symptoms (C23), Cardiovascular Diseases (C14), Nervous System Diseases (C10)]",MCA INFARCT,disease,C0740392,11315.0,0.4,PARK7,Middle cerebral artery infarction,152845,MedGen
+1792,"[Nutritional and Metabolic Diseases (C18), Musculoskeletal Diseases (C05)]",Osteoporoses,disease,C0029456,11315.0,0.4,PARK7,Osteoporosis,14535,MedGen
+1798,"[Pathological Conditions, Signs and Symptoms (C23)]","Degeneration, Nerve",phenotype,C0027746,11315.0,0.4,PARK7,Neurodegeneration,17999,MedGen
+1801,[Nervous System Diseases (C10)],JUVENILE PARKINSON DIS,disease,C0752105,11315.0,0.4,PARK7,Juvenile-onset Parkinson disease,155699,MedGen
+1809,"[Nervous System Diseases (C10), Nutritional and Metabolic Diseases (C18)]",AMYOTROPHIC LATERAL SCLEROSIS-PARKINSONISM/DEMENTIA COMPLEX 1,disease,C0543859,11315.0,0.4,PARK7,Amyotrophic lateral sclerosis-parkinsonism-dementia complex,107775,MedGen

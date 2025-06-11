@@ -1,0 +1,30 @@
+MSH_normalised_name,MSH,score
+"Parkinsonism-Dystonia, Infantile",C567730,0.95
+Parkinson Disease,D010300,0.95
+Schizophrenia,D012559,0.9
+Depressive Disorder,D003866,0.85
+Depression,D003863,0.85
+Alcoholism,D000437,0.85
+Hyperkinesis,D006948,0.8
+Nervous System Diseases,D009422,0.75
+Anxiety Disorders,D001008,0.75
+Cocaine-Related Disorders,D019970,0.75
+Attention Deficit Disorder with Hyperactivity,D001289,0.75
+Bipolar Disorder,D001714,0.75
+Obesity,D009765,0.75
+Tobacco Use Disorder,D014029,0.7
+Cognitive Dysfunction,D060825,0.65
+Anhedonia,D059445,0.65
+Mood Disorders,D019964,0.65
+Tic Disorders,D013981,0.65
+Dyslexia,D004410,0.6
+Alcohol Withdrawal Seizures,D020270,0.6
+Breast Neoplasms,D001943,0.6
+Paranoid Disorders,D010259,0.6
+Alcohol Withdrawal Delirium,D000430,0.6
+Delirium,D003693,0.6
+Dystonia,D004421,0.45
+Mobility Limitation,D051346,0.4
+Memory Disorders,D008569,0.4
+Deglutition Disorders,D003680,0.4
+Nerve Degeneration,D009410,0.4

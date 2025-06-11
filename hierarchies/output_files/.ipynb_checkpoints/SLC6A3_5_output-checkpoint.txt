@@ -1,0 +1,335 @@
+
+Merged hierarchy for Parkinsonism-Dystonia, Infantile (C567730)
+
+(0.95)-Parkinsonism-Dystonia, Infantile; C567730
+
+C567730 AVERAGE = 0.95
+
+Merged hierarchy for Parkinson Disease (D010300)
+
+(0.95)-Parkinson Disease; D010300
+(NaN)	-Parkinsonian Disorders; D020734
+(NaN)		-Basal Ganglia Diseases; D001480
+(NaN)			-Brain Diseases; D001927
+(NaN)				-Central Nervous System Diseases; D002493
+(0.75)					-Nervous System Diseases; D009422
+(NaN)		-Movement Disorders; D009069
+(NaN)	-Synucleinopathies; D000080874
+(NaN)		-Neurodegenerative Diseases; D019636
+(NaN)		-Proteostasis Deficiencies; D057165
+(NaN)			-Metabolic Diseases; D008659
+(NaN)				-Nutritional and Metabolic Diseases; D009750
+
+D010300 AVERAGE = 0.85
+
+Merged hierarchy for Schizophrenia (D012559)
+
+(0.90)-Schizophrenia; D012559
+(NaN)	-Schizophrenia Spectrum and Other Psychotic Disorders; D019967
+(NaN)		-Mental Disorders; D001523
+
+D012559 AVERAGE = 0.90
+
+Merged hierarchy for Depressive Disorder (D003866)
+
+(0.85)-Depressive Disorder; D003866
+(0.65)	-Mood Disorders; D019964
+(NaN)		-Mental Disorders; D001523
+
+D003866 AVERAGE = 0.75
+
+Merged hierarchy for Depression (D003863)
+
+(0.85)-Depression; D003863
+(NaN)	-Emotions; D004644
+(NaN)		-Behavior and Behavior Mechanisms; D001520
+(NaN)	-Behavioral Symptoms; D001526
+(NaN)		-Behavior; D001519
+
+D003863 AVERAGE = 0.85
+
+Merged hierarchy for Alcoholism (D000437)
+
+(0.85)-Alcoholism; D000437
+(NaN)	-Alcohol-Related Disorders; D019973
+(NaN)		-Substance-Related Disorders; D019966
+(NaN)			-Mental Disorders; D001523
+(NaN)			-Chemically-Induced Disorders; D064419
+
+D000437 AVERAGE = 0.85
+
+Merged hierarchy for Hyperkinesis (D006948)
+
+(0.80)-Hyperkinesis; D006948
+(NaN)	-Dyskinesias; D020820
+(NaN)		-Movement Disorders; D009069
+(NaN)			-Central Nervous System Diseases; D002493
+(0.75)				-Nervous System Diseases; D009422
+(NaN)		-Neurologic Manifestations; D009461
+(NaN)			-Signs and Symptoms; D012816
+(NaN)				-Pathological Conditions, Signs and Symptoms; D013568
+
+D006948 AVERAGE = 0.78
+
+Merged hierarchy for Nervous System Diseases (D009422)
+
+(0.75)-Nervous System Diseases; D009422
+
+D009422 AVERAGE = 0.75
+
+Merged hierarchy for Anxiety Disorders (D001008)
+
+(0.75)-Anxiety Disorders; D001008
+(NaN)	-Mental Disorders; D001523
+
+D001008 AVERAGE = 0.75
+
+Merged hierarchy for Cocaine-Related Disorders (D019970)
+
+(0.75)-Cocaine-Related Disorders; D019970
+(NaN)	-Substance-Related Disorders; D019966
+(NaN)		-Mental Disorders; D001523
+(NaN)		-Chemically-Induced Disorders; D064419
+
+D019970 AVERAGE = 0.75
+
+Merged hierarchy for Attention Deficit Disorder with Hyperactivity (D001289)
+
+(0.75)-Attention Deficit Disorder with Hyperactivity; D001289
+(NaN)	-Attention Deficit and Disruptive Behavior Disorders; D019958
+(NaN)		-Neurodevelopmental Disorders; D065886
+(NaN)			-Mental Disorders; D001523
+
+D001289 AVERAGE = 0.75
+
+Merged hierarchy for Bipolar Disorder (D001714)
+
+(0.75)-Bipolar Disorder; D001714
+(NaN)	-Bipolar and Related Disorders; D000068105
+(0.65)		-Mood Disorders; D019964
+(NaN)			-Mental Disorders; D001523
+
+D001714 AVERAGE = 0.70
+
+Merged hierarchy for Obesity (D009765)
+
+(0.75)-Obesity; D009765
+(NaN)	-Overweight; D050177
+(NaN)		-Body Weight; D001835
+(NaN)			-Signs and Symptoms; D012816
+(NaN)				-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)			-Physical Appearance, Body; D000067029
+(NaN)				-Body Constitution; D001824
+(NaN)					-Physical Examination; D010808
+(NaN)						-Diagnostic Techniques and Procedures; D019937
+(NaN)							-Diagnosis; D003933
+(NaN)					-Physiological Phenomena; D010829
+(NaN)			-Body Size; D049628
+(NaN)				-Growth; D006128
+(NaN)					-Growth and Development; D048788
+(NaN)				-Body Weights and Measures; D001837
+(NaN)					-Anthropometry; D000886
+(NaN)						-Biometry; D001699
+(NaN)							-Epidemiologic Measurements; D015991
+(NaN)								-Public Health; D011634
+(NaN)									-Health; D006262
+(NaN)										-Population Characteristics; D011154
+(NaN)									-Medicine; D008511
+(NaN)										-Health Occupations; D006281
+(NaN)									-Environment and Public Health; D004778
+(NaN)							-Statistics as Topic; D013223
+(NaN)								-Epidemiologic Methods; D004812
+(NaN)									-Investigative Techniques; D008919
+(NaN)								-Mathematics; D008433
+(NaN)									-Natural Science Disciplines; D010811
+(NaN)								-Health Care Evaluation Mechanisms; D017531
+(NaN)									-Quality of Health Care; D011787
+(NaN)										-Health Services Administration; D006298
+(NaN)										-Health Care Quality, Access, and Evaluation; D017530
+(NaN)		-Overnutrition; D044343
+(NaN)			-Nutrition Disorders; D009748
+(NaN)				-Nutritional and Metabolic Diseases; D009750
+
+D009765 AVERAGE = 0.75
+
+Merged hierarchy for Tobacco Use Disorder (D014029)
+
+(0.70)-Tobacco Use Disorder; D014029
+(NaN)	-Substance-Related Disorders; D019966
+(NaN)		-Mental Disorders; D001523
+(NaN)		-Chemically-Induced Disorders; D064419
+
+D014029 AVERAGE = 0.70
+
+Merged hierarchy for Cognitive Dysfunction (D060825)
+
+(0.65)-Cognitive Dysfunction; D060825
+(NaN)	-Cognition Disorders; D003072
+(NaN)		-Neurocognitive Disorders; D019965
+(NaN)			-Mental Disorders; D001523
+
+D060825 AVERAGE = 0.65
+
+Merged hierarchy for Anhedonia (D059445)
+
+(0.65)-Anhedonia; D059445
+(NaN)	-Neurobehavioral Manifestations; D019954
+(NaN)		-Neurologic Manifestations; D009461
+(0.75)			-Nervous System Diseases; D009422
+(NaN)			-Signs and Symptoms; D012816
+(NaN)				-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)		-Behavior and Behavior Mechanisms; D001520
+
+D059445 AVERAGE = 0.70
+
+Merged hierarchy for Tic Disorders (D013981)
+
+(0.65)-Tic Disorders; D013981
+(NaN)	-Movement Disorders; D009069
+(NaN)		-Central Nervous System Diseases; D002493
+(0.75)			-Nervous System Diseases; D009422
+(NaN)	-Neurodevelopmental Disorders; D065886
+(NaN)		-Mental Disorders; D001523
+
+D013981 AVERAGE = 0.70
+
+Merged hierarchy for Dyslexia (D004410)
+
+(0.60)-Dyslexia; D004410
+(NaN)	-Language Disorders; D007806
+(NaN)		-Communication Disorders; D003147
+(NaN)			-Neurobehavioral Manifestations; D019954
+(NaN)				-Neurologic Manifestations; D009461
+(0.75)					-Nervous System Diseases; D009422
+(NaN)					-Signs and Symptoms; D012816
+(NaN)						-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)				-Behavior and Behavior Mechanisms; D001520
+(NaN)			-Neurodevelopmental Disorders; D065886
+(NaN)				-Mental Disorders; D001523
+(NaN)	-Specific Learning Disorder; D000067559
+(NaN)		-Learning Disabilities; D007859
+
+D004410 AVERAGE = 0.68
+
+Merged hierarchy for Alcohol Withdrawal Seizures (D020270)
+
+(0.60)-Alcohol Withdrawal Seizures; D020270
+(NaN)	-Seizures; D012640
+(NaN)		-Neurologic Manifestations; D009461
+(0.75)			-Nervous System Diseases; D009422
+(NaN)			-Signs and Symptoms; D012816
+(NaN)				-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)	-Substance Withdrawal Syndrome; D013375
+(NaN)		-Substance-Related Disorders; D019966
+(NaN)			-Mental Disorders; D001523
+(NaN)			-Chemically-Induced Disorders; D064419
+(NaN)	-Alcohol-Induced Disorders, Nervous System; D020268
+(NaN)		-Alcohol-Induced Disorders; D020751
+(NaN)			-Alcohol-Related Disorders; D019973
+(NaN)		-Neurotoxicity Syndromes; D020258
+(NaN)			-Poisoning; D011041
+
+D020270 AVERAGE = 0.68
+
+Merged hierarchy for Breast Neoplasms (D001943)
+
+(0.60)-Breast Neoplasms; D001943
+(NaN)	-Breast Diseases; D001941
+(NaN)		-Skin Diseases; D012871
+(NaN)			-Skin and Connective Tissue Diseases; D017437
+(NaN)	-Neoplasms by Site; D009371
+(NaN)		-Neoplasms; D009369
+
+D001943 AVERAGE = 0.60
+
+Merged hierarchy for Paranoid Disorders (D010259)
+
+(0.60)-Paranoid Disorders; D010259
+(NaN)	-Schizophrenia Spectrum and Other Psychotic Disorders; D019967
+(NaN)		-Mental Disorders; D001523
+
+D010259 AVERAGE = 0.60
+
+Merged hierarchy for Alcohol Withdrawal Delirium (D000430)
+
+(0.60)-Alcohol Withdrawal Delirium; D000430
+(NaN)	-Substance Withdrawal Syndrome; D013375
+(NaN)		-Substance-Related Disorders; D019966
+(NaN)			-Mental Disorders; D001523
+(NaN)			-Chemically-Induced Disorders; D064419
+(NaN)	-Alcohol-Related Disorders; D019973
+(NaN)	-Alcohol-Induced Disorders, Nervous System; D020268
+(NaN)		-Alcohol-Induced Disorders; D020751
+(NaN)		-Neurotoxicity Syndromes; D020258
+(0.75)			-Nervous System Diseases; D009422
+(NaN)			-Poisoning; D011041
+
+D000430 AVERAGE = 0.68
+
+Merged hierarchy for Delirium (D003693)
+
+(0.60)-Delirium; D003693
+(NaN)	-Confusion; D003221
+(NaN)		-Neurobehavioral Manifestations; D019954
+(NaN)			-Neurologic Manifestations; D009461
+(0.75)				-Nervous System Diseases; D009422
+(NaN)				-Signs and Symptoms; D012816
+(NaN)					-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)			-Behavior and Behavior Mechanisms; D001520
+(NaN)	-Neurocognitive Disorders; D019965
+(NaN)		-Mental Disorders; D001523
+
+D003693 AVERAGE = 0.68
+
+Merged hierarchy for Dystonia (D004421)
+
+(0.45)-Dystonia; D004421
+(NaN)	-Dyskinesias; D020820
+(NaN)		-Movement Disorders; D009069
+(NaN)			-Central Nervous System Diseases; D002493
+(0.75)				-Nervous System Diseases; D009422
+(NaN)		-Neurologic Manifestations; D009461
+(NaN)			-Signs and Symptoms; D012816
+(NaN)				-Pathological Conditions, Signs and Symptoms; D013568
+
+D004421 AVERAGE = 0.60
+
+Merged hierarchy for Mobility Limitation (D051346)
+
+(0.40)-Mobility Limitation; D051346
+(NaN)	-Signs and Symptoms; D012816
+(NaN)		-Pathological Conditions, Signs and Symptoms; D013568
+
+D051346 AVERAGE = 0.40
+
+Merged hierarchy for Memory Disorders (D008569)
+
+(0.40)-Memory Disorders; D008569
+(NaN)	-Neurobehavioral Manifestations; D019954
+(NaN)		-Neurologic Manifestations; D009461
+(0.75)			-Nervous System Diseases; D009422
+(NaN)			-Signs and Symptoms; D012816
+(NaN)				-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)		-Behavior and Behavior Mechanisms; D001520
+
+D008569 AVERAGE = 0.57
+
+Merged hierarchy for Deglutition Disorders (D003680)
+
+(0.40)-Deglutition Disorders; D003680
+(NaN)	-Esophageal Diseases; D004935
+(NaN)		-Gastrointestinal Diseases; D005767
+(NaN)			-Digestive System Diseases; D004066
+(NaN)	-Pharyngeal Diseases; D010608
+(NaN)		-Otorhinolaryngologic Diseases; D010038
+(NaN)		-Stomatognathic Diseases; D009057
+
+D003680 AVERAGE = 0.40
+
+Merged hierarchy for Nerve Degeneration (D009410)
+
+(0.40)-Nerve Degeneration; D009410
+(NaN)	-Pathologic Processes; D010335
+(NaN)		-Pathological Conditions, Signs and Symptoms; D013568
+
+D009410 AVERAGE = 0.40

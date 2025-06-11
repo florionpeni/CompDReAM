@@ -1,0 +1,207 @@
+
+Merged hierarchy for Alzheimer Disease (D000544)
+
+(1.00)-Alzheimer Disease; D000544
+(NaN)	-Dementia; D003704
+(NaN)		-Brain Diseases; D001927
+(NaN)			-Central Nervous System Diseases; D002493
+(NaN)				-Nervous System Diseases; D009422
+(NaN)		-Neurocognitive Disorders; D019965
+(NaN)			-Mental Disorders; D001523
+(NaN)	-Tauopathies; D024801
+(0.95)		-Neurodegenerative Diseases; D019636
+
+D000544 AVERAGE = 0.97
+
+Merged hierarchy for Lewy Body Disease (D020961)
+
+(1.00)-Lewy Body Disease; D020961
+(NaN)	-Dementia; D003704
+(NaN)		-Brain Diseases; D001927
+(NaN)			-Central Nervous System Diseases; D002493
+(NaN)				-Nervous System Diseases; D009422
+(NaN)		-Neurocognitive Disorders; D019965
+(NaN)			-Mental Disorders; D001523
+(1.00)	-Parkinsonian Disorders; D020734
+(NaN)		-Basal Ganglia Diseases; D001480
+(NaN)		-Movement Disorders; D009069
+(0.95)	-Synucleinopathies; D000080874
+
+D020961 AVERAGE = 0.98
+
+Merged hierarchy for Parkinson Disease (D010300)
+
+(1.00)-Parkinson Disease; D010300
+(1.00)	-Parkinsonian Disorders; D020734
+(NaN)		-Basal Ganglia Diseases; D001480
+(NaN)			-Brain Diseases; D001927
+(NaN)				-Central Nervous System Diseases; D002493
+(NaN)					-Nervous System Diseases; D009422
+(NaN)		-Movement Disorders; D009069
+(0.95)	-Synucleinopathies; D000080874
+(0.95)		-Neurodegenerative Diseases; D019636
+(NaN)		-Proteostasis Deficiencies; D057165
+(NaN)			-Metabolic Diseases; D008659
+(NaN)				-Nutritional and Metabolic Diseases; D009750
+
+D010300 AVERAGE = 0.98
+
+Merged hierarchy for Gaucher Disease (D005776)
+
+(0.85)-Gaucher Disease; D005776
+(NaN)	-Sphingolipidoses; D013106
+(NaN)		-Lipidoses; D008064
+(NaN)			-Lipid Metabolism, Inborn Errors; D008052
+(NaN)				-Metabolism, Inborn Errors; D008661
+(NaN)					-Metabolic Diseases; D008659
+(NaN)						-Nutritional and Metabolic Diseases; D009750
+(NaN)					-Genetic Diseases, Inborn; D030342
+(NaN)						-Congenital, Hereditary, and Neonatal Diseases and Abnormalities; D009358
+(NaN)				-Lipid Metabolism Disorders; D052439
+(NaN)		-Lysosomal Storage Diseases, Nervous System; D020140
+(NaN)			-Lysosomal Storage Diseases; D016464
+(NaN)			-Brain Diseases, Metabolic, Inborn; D020739
+(NaN)				-Brain Diseases, Metabolic; D001928
+(NaN)					-Brain Diseases; D001927
+(NaN)						-Central Nervous System Diseases; D002493
+(NaN)							-Nervous System Diseases; D009422
+
+D005776 AVERAGE = 0.85
+
+Merged hierarchy for Alcoholism (D000437)
+
+(0.75)-Alcoholism; D000437
+(NaN)	-Alcohol-Related Disorders; D019973
+(NaN)		-Substance-Related Disorders; D019966
+(NaN)			-Mental Disorders; D001523
+(NaN)			-Chemically-Induced Disorders; D064419
+
+D000437 AVERAGE = 0.75
+
+Merged hierarchy for Parkinson Disease 4, Autosomal Dominant Lewy Body (C565324)
+
+(0.75)-Parkinson Disease 4, Autosomal Dominant Lewy Body; C565324
+
+C565324 AVERAGE = 0.75
+
+Merged hierarchy for Weight Loss (D015431)
+
+(0.70)-Weight Loss; D015431
+(NaN)	-Body Weight Changes; D001836
+(NaN)		-Body Weight; D001835
+(NaN)			-Signs and Symptoms; D012816
+(NaN)				-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)			-Physical Appearance, Body; D000067029
+(NaN)				-Body Constitution; D001824
+(NaN)					-Physical Examination; D010808
+(NaN)					-Physiological Phenomena; D010829
+(NaN)			-Body Size; D049628
+
+D015431 AVERAGE = 0.70
+
+Merged hierarchy for Neurobehavioral Manifestations (D019954)
+
+(0.65)-Neurobehavioral Manifestations; D019954
+
+D019954 AVERAGE = 0.65
+
+Merged hierarchy for Parkinson Disease, Secondary (D010302)
+
+(0.65)-Parkinson Disease, Secondary; D010302
+(1.00)	-Parkinsonian Disorders; D020734
+
+D010302 AVERAGE = 0.82
+
+Merged hierarchy for Dementia, Vascular (D015140)
+
+(0.65)-Dementia, Vascular; D015140
+(NaN)	-Cerebrovascular Disorders; D002561
+(NaN)		-Brain Diseases; D001927
+(NaN)			-Central Nervous System Diseases; D002493
+(NaN)				-Nervous System Diseases; D009422
+(NaN)		-Vascular Diseases; D014652
+(NaN)			-Cardiovascular Diseases; D002318
+(NaN)	-Dementia; D003704
+(NaN)		-Neurocognitive Disorders; D019965
+(NaN)			-Mental Disorders; D001523
+(NaN)	-Intracranial Arteriosclerosis; D002537
+(NaN)		-Arteriosclerosis; D001161
+(NaN)			-Arterial Occlusive Diseases; D001157
+(NaN)		-Intracranial Arterial Diseases; D020765
+(NaN)	-Leukoencephalopathies; D056784
+
+D015140 AVERAGE = 0.65
+
+Merged hierarchy for Manganese Poisoning (D020149)
+
+(0.60)-Manganese Poisoning; D020149
+(NaN)	-Heavy Metal Poisoning, Nervous System; D020260
+(NaN)		-Neurotoxicity Syndromes; D020258
+(NaN)			-Nervous System Diseases; D009422
+(NaN)			-Poisoning; D011041
+(NaN)				-Chemically-Induced Disorders; D064419
+(NaN)	-Heavy Metal Poisoning; D000075322
+
+D020149 AVERAGE = 0.60
+
+Merged hierarchy for Pallidopyramidal syndrome (C538104)
+
+(0.60)-Pallidopyramidal syndrome; C538104
+
+C538104 AVERAGE = 0.60
+
+Merged hierarchy for Nerve Degeneration (D009410)
+
+(0.50)-Nerve Degeneration; D009410
+(NaN)	-Pathologic Processes; D010335
+(NaN)		-Pathological Conditions, Signs and Symptoms; D013568
+
+D009410 AVERAGE = 0.50
+
+Merged hierarchy for Cocaine-Related Disorders (D019970)
+
+(0.45)-Cocaine-Related Disorders; D019970
+(NaN)	-Substance-Related Disorders; D019966
+(NaN)		-Mental Disorders; D001523
+(NaN)		-Chemically-Induced Disorders; D064419
+
+D019970 AVERAGE = 0.45
+
+Merged hierarchy for Heart Failure (D006333)
+
+(0.40)-Heart Failure; D006333
+(NaN)	-Heart Diseases; D006331
+(NaN)		-Cardiovascular Diseases; D002318
+
+D006333 AVERAGE = 0.40
+
+Merged hierarchy for Ataxia (D001259)
+
+(0.40)-Ataxia; D001259
+(NaN)	-Dyskinesias; D020820
+(NaN)		-Movement Disorders; D009069
+(NaN)		-Neurologic Manifestations; D009461
+
+D001259 AVERAGE = 0.40
+
+Merged hierarchy for Hepatolenticular Degeneration (D006527)
+
+(0.40)-Hepatolenticular Degeneration; D006527
+(NaN)	-Basal Ganglia Diseases; D001480
+(NaN)		-Brain Diseases; D001927
+(NaN)			-Central Nervous System Diseases; D002493
+(NaN)				-Nervous System Diseases; D009422
+(NaN)	-Liver Diseases; D008107
+(NaN)		-Digestive System Diseases; D004066
+(NaN)	-Metal Metabolism, Inborn Errors; D008664
+(NaN)		-Metabolism, Inborn Errors; D008661
+(NaN)			-Metabolic Diseases; D008659
+(NaN)				-Nutritional and Metabolic Diseases; D009750
+(NaN)			-Genetic Diseases, Inborn; D030342
+(NaN)				-Congenital, Hereditary, and Neonatal Diseases and Abnormalities; D009358
+(NaN)	-Movement Disorders; D009069
+(NaN)	-Brain Diseases, Metabolic, Inborn; D020739
+(NaN)	-Heredodegenerative Disorders, Nervous System; D020271
+(0.95)		-Neurodegenerative Diseases; D019636
+
+D006527 AVERAGE = 0.68

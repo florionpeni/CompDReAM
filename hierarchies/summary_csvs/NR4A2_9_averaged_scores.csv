@@ -1,0 +1,16 @@
+Disease,MeSH_ID,Average_Score,Rank
+Parkinson Disease,D010300,1.0,1.0
+Schizophrenia,D012559,0.8,2.0
+Epilepsy,D004827,0.7,3.0
+Autism Spectrum Disorder,D000067877,0.65,4.0
+Colorectal Neoplasms,D015179,0.65,4.0
+Alcoholism,D000437,0.6,6.0
+"Depressive Disorder, Major",D003865,0.6,6.0
+Bipolar Disorder,D001714,0.6,6.0
+"Arthritis, Psoriatic",D015535,0.5,9.0
+Cocaine-Related Disorders,D019970,0.5,9.0
+Developmental Disabilities,D002658,0.5,9.0
+"Dystonia, Dopa-responsive",C538007,0.4,12.0
+"Chromosome 2, monosomy 2q24",C538316,0.4,12.0
+Arsenic Poisoning,D020261,0.4,12.0
+"Skin Diseases, Genetic",D012873,0.4,12.0

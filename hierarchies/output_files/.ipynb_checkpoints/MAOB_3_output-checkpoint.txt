@@ -1,0 +1,188 @@
+
+Merged hierarchy for Parkinson Disease (D010300)
+
+(1.00)-Parkinson Disease; D010300
+(NaN)	-Parkinsonian Disorders; D020734
+(NaN)		-Basal Ganglia Diseases; D001480
+(NaN)			-Brain Diseases; D001927
+(NaN)				-Central Nervous System Diseases; D002493
+(NaN)					-Nervous System Diseases; D009422
+(NaN)		-Movement Disorders; D009069
+(NaN)	-Synucleinopathies; D000080874
+(NaN)		-Neurodegenerative Diseases; D019636
+(NaN)		-Proteostasis Deficiencies; D057165
+(NaN)			-Metabolic Diseases; D008659
+(NaN)				-Nutritional and Metabolic Diseases; D009750
+
+D010300 AVERAGE = 1.00
+
+Merged hierarchy for Alzheimer Disease (D000544)
+
+(0.95)-Alzheimer Disease; D000544
+(NaN)	-Dementia; D003704
+(NaN)		-Brain Diseases; D001927
+(NaN)			-Central Nervous System Diseases; D002493
+(NaN)				-Nervous System Diseases; D009422
+(NaN)		-Neurocognitive Disorders; D019965
+(NaN)			-Mental Disorders; D001523
+(NaN)	-Tauopathies; D024801
+(NaN)		-Neurodegenerative Diseases; D019636
+
+D000544 AVERAGE = 0.95
+
+Merged hierarchy for Depression (D003863)
+
+(0.85)-Depression; D003863
+(NaN)	-Emotions; D004644
+(NaN)		-Behavior and Behavior Mechanisms; D001520
+(NaN)	-Behavioral Symptoms; D001526
+(NaN)		-Behavior; D001519
+
+D003863 AVERAGE = 0.85
+
+Merged hierarchy for Depressive Disorder, Major (D003865)
+
+(0.75)-Depressive Disorder, Major; D003865
+(0.85)	-Depressive Disorder; D003866
+(0.60)		-Mood Disorders; D019964
+(NaN)			-Mental Disorders; D001523
+
+D003865 AVERAGE = 0.73
+
+Merged hierarchy for Schizophrenia (D012559)
+
+(0.75)-Schizophrenia; D012559
+(NaN)	-Schizophrenia Spectrum and Other Psychotic Disorders; D019967
+(NaN)		-Mental Disorders; D001523
+
+D012559 AVERAGE = 0.75
+
+Merged hierarchy for Bipolar Disorder (D001714)
+
+(0.70)-Bipolar Disorder; D001714
+
+D001714 AVERAGE = 0.70
+
+Merged hierarchy for Alcoholism (D000437)
+
+(0.70)-Alcoholism; D000437
+(NaN)	-Alcohol-Related Disorders; D019973
+(NaN)		-Substance-Related Disorders; D019966
+(NaN)			-Mental Disorders; D001523
+(NaN)			-Chemically-Induced Disorders; D064419
+
+D000437 AVERAGE = 0.70
+
+Merged hierarchy for Autistic Disorder (D001321)
+
+(0.65)-Autistic Disorder; D001321
+(NaN)	-Autism Spectrum Disorder; D000067877
+(NaN)		-Child Development Disorders, Pervasive; D002659
+(NaN)			-Neurodevelopmental Disorders; D065886
+(NaN)				-Mental Disorders; D001523
+
+D001321 AVERAGE = 0.65
+
+Merged hierarchy for Hepatic Encephalopathy (D006501)
+
+(0.55)-Hepatic Encephalopathy; D006501
+(NaN)	-Brain Diseases, Metabolic; D001928
+(NaN)		-Brain Diseases; D001927
+(NaN)			-Central Nervous System Diseases; D002493
+(NaN)				-Nervous System Diseases; D009422
+(NaN)		-Metabolic Diseases; D008659
+(NaN)			-Nutritional and Metabolic Diseases; D009750
+(NaN)	-Liver Failure; D017093
+(NaN)		-Hepatic Insufficiency; D048550
+(NaN)			-Liver Diseases; D008107
+(NaN)				-Digestive System Diseases; D004066
+
+D006501 AVERAGE = 0.55
+
+Merged hierarchy for Plaque, Amyloid (D058225)
+
+(0.50)-Plaque, Amyloid; D058225
+(NaN)	-Pathological Conditions, Anatomical; D020763
+
+D058225 AVERAGE = 0.50
+
+Merged hierarchy for Huntington Disease (D006816)
+
+(0.50)-Huntington Disease; D006816
+(NaN)	-Basal Ganglia Diseases; D001480
+(NaN)		-Brain Diseases; D001927
+(NaN)			-Central Nervous System Diseases; D002493
+(NaN)				-Nervous System Diseases; D009422
+(NaN)	-Chorea; D002819
+(NaN)		-Dyskinesias; D020820
+(NaN)			-Movement Disorders; D009069
+(NaN)			-Neurologic Manifestations; D009461
+(NaN)	-Cognition Disorders; D003072
+(NaN)		-Neurocognitive Disorders; D019965
+(NaN)			-Mental Disorders; D001523
+(NaN)	-Dementia; D003704
+(NaN)	-Heredodegenerative Disorders, Nervous System; D020271
+(NaN)		-Neurodegenerative Diseases; D019636
+(NaN)		-Genetic Diseases, Inborn; D030342
+(NaN)			-Congenital, Hereditary, and Neonatal Diseases and Abnormalities; D009358
+
+D006816 AVERAGE = 0.50
+
+Merged hierarchy for Colonic Neoplasms (D003110)
+
+(0.40)-Colonic Neoplasms; D003110
+(NaN)	-Colorectal Neoplasms; D015179
+(NaN)		-Colonic Diseases; D003108
+(NaN)			-Intestinal Diseases; D007410
+(NaN)				-Gastrointestinal Diseases; D005767
+(NaN)					-Digestive System Diseases; D004066
+(NaN)		-Intestinal Neoplasms; D007414
+(NaN)			-Gastrointestinal Neoplasms; D005770
+(NaN)				-Digestive System Neoplasms; D004067
+(NaN)					-Neoplasms by Site; D009371
+(NaN)						-Neoplasms; D009369
+(NaN)		-Rectal Diseases; D012002
+
+D003110 AVERAGE = 0.40
+
+Merged hierarchy for Pheochromocytoma (D010673)
+
+(0.40)-Pheochromocytoma; D010673
+(NaN)	-Paraganglioma; D010235
+(NaN)		-Neuroendocrine Tumors; D018358
+(NaN)			-Neuroectodermal Tumors; D017599
+(NaN)				-Neoplasms, Germ Cell and Embryonal; D009373
+(NaN)					-Neoplasms by Histologic Type; D009370
+(NaN)						-Neoplasms; D009369
+(NaN)				-Neoplasms, Nerve Tissue; D009380
+
+D010673 AVERAGE = 0.40
+
+Merged hierarchy for Anemia, Megaloblastic (D000749)
+
+(0.40)-Anemia, Megaloblastic; D000749
+(NaN)	-Anemia, Macrocytic; D000748
+(NaN)		-Anemia; D000740
+(NaN)			-Hematologic Diseases; D006402
+(NaN)				-Hemic and Lymphatic Diseases; D006425
+
+D000749 AVERAGE = 0.40
+
+Merged hierarchy for Hypotension (D007022)
+
+(0.40)-Hypotension; D007022
+(NaN)	-Vascular Diseases; D014652
+(NaN)		-Cardiovascular Diseases; D002318
+
+D007022 AVERAGE = 0.40
+
+Merged hierarchy for Endometriosis (D004715)
+
+(0.40)-Endometriosis; D004715
+(NaN)	-Genital Diseases, Female; D005831
+(NaN)		-Female Urogenital Diseases; D052776
+(NaN)			-Female Urogenital Diseases and Pregnancy Complications; D005261
+(NaN)		-Genital Diseases; D000091662
+(NaN)			-Urogenital Diseases; D000091642
+
+D004715 AVERAGE = 0.40

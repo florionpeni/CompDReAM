@@ -1,0 +1,19 @@
+MSH_normalised_name,MSH,score
+Parkinson Disease,D010300,1.0
+Alzheimer Disease,D000544,0.95
+Depression,D003863,0.85
+Depressive Disorder,D003866,0.85
+"Depressive Disorder, Major",D003865,0.75
+Schizophrenia,D012559,0.75
+Alcoholism,D000437,0.7
+Bipolar Disorder,D001714,0.7
+Autistic Disorder,D001321,0.65
+Mood Disorders,D019964,0.6
+Hepatic Encephalopathy,D006501,0.55
+Huntington Disease,D006816,0.5
+"Plaque, Amyloid",D058225,0.5
+Pheochromocytoma,D010673,0.4
+Endometriosis,D004715,0.4
+Colonic Neoplasms,D003110,0.4
+"Anemia, Megaloblastic",D000749,0.4
+Hypotension,D007022,0.4

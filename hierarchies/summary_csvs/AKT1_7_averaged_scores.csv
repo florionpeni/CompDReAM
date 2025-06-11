@@ -1,0 +1,41 @@
+Disease,MeSH_ID,Average_Score,Rank
+Ovarian Neoplasms,D010051,1.0,1.0
+Breast Neoplasms,D001943,1.0,1.0
+Prostatic Neoplasms,D011471,0.9,3.0
+"Diabetes Mellitus, Type 2",D003924,0.9,3.0
+Inflammation,D007249,0.9,3.0
+Colonic Neoplasms,D003110,0.88,6.0
+Schizophrenia,D012559,0.85,7.0
+Pancreatic Neoplasms,D010190,0.85,7.0
+Meningioma,D008579,0.85,7.0
+Obesity,D009765,0.85,7.0
+Proteus Syndrome,D016715,0.8,11.0
+Marijuana Abuse,D002189,0.8,11.0
+Parkinson Disease,D010300,0.8,11.0
+Adenocarcinoma of Lung,D000077192,0.78,14.0
+Depression,D003863,0.75,15.0
+Carcinogenesis,D063646,0.75,15.0
+Adenomatous Polyposis Coli,D011125,0.72,17.0
+"Carcinoma, Hepatocellular",D006528,0.72,17.0
+"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",D015464,0.7,19.0
+Skin Neoplasms,D012878,0.7,19.0
+Urinary Bladder Neoplasms,D001749,0.7,19.0
+Bipolar Disorder,D001714,0.7,19.0
+Epilepsy,D004827,0.7,19.0
+Depressive Disorder,D003866,0.68,24.0
+Squamous Cell Carcinoma of Head and Neck,D000077195,0.67,25.0
+Pain,D010146,0.65,26.0
+Fibrosis,D005355,0.65,26.0
+Hyperplasia,D006965,0.65,26.0
+Non-alcoholic Fatty Liver Disease,D065626,0.6,29.0
+"Tuberculosis, Pulmonary",D014397,0.55,30.0
+"Breast Cancer, Familial",C562840,0.5,31.0
+Muscular Atrophy,D009133,0.5,31.0
+Cardiomyopathies,D009202,0.5,31.0
+"Fatty Liver, Alcoholic",D005235,0.45,34.0
+Cardiomegaly,D006332,0.45,34.0
+Hepatomegaly,D006529,0.4,36.0
+Hypertriglyceridemia,D015228,0.4,36.0
+"Lymphoma, T-Cell",D016399,0.4,36.0
+"Aortic Valve, Calcification of",C562942,0.4,36.0
+"Leukemia, Promyelocytic, Acute",D015473,0.4,36.0

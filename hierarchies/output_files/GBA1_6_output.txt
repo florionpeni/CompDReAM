@@ -1,0 +1,151 @@
+
+Merged hierarchy for Parkinson Disease (D010300)
+
+(1.00)-Parkinson Disease; D010300
+(1.00)	-Parkinsonian Disorders; D020734
+(NaN)		-Basal Ganglia Diseases; D001480
+(NaN)			-Brain Diseases; D001927
+(NaN)				-Central Nervous System Diseases; D002493
+(NaN)					-Nervous System Diseases; D009422
+(0.65)		-Movement Disorders; D009069
+(NaN)	-Synucleinopathies; D000080874
+(NaN)		-Neurodegenerative Diseases; D019636
+(NaN)		-Proteostasis Deficiencies; D057165
+(NaN)			-Metabolic Diseases; D008659
+(NaN)				-Nutritional and Metabolic Diseases; D009750
+
+D010300 AVERAGE = 0.88
+
+Merged hierarchy for Gaucher Disease (D005776)
+
+(1.00)-Gaucher Disease; D005776
+(NaN)	-Sphingolipidoses; D013106
+(NaN)		-Lipidoses; D008064
+(NaN)			-Lipid Metabolism, Inborn Errors; D008052
+(NaN)				-Metabolism, Inborn Errors; D008661
+(NaN)					-Metabolic Diseases; D008659
+(NaN)						-Nutritional and Metabolic Diseases; D009750
+(NaN)					-Genetic Diseases, Inborn; D030342
+(NaN)						-Congenital, Hereditary, and Neonatal Diseases and Abnormalities; D009358
+(NaN)				-Lipid Metabolism Disorders; D052439
+(NaN)		-Lysosomal Storage Diseases, Nervous System; D020140
+(NaN)			-Lysosomal Storage Diseases; D016464
+(NaN)			-Brain Diseases, Metabolic, Inborn; D020739
+(NaN)				-Brain Diseases, Metabolic; D001928
+(NaN)					-Brain Diseases; D001927
+(NaN)						-Central Nervous System Diseases; D002493
+(NaN)							-Nervous System Diseases; D009422
+
+D005776 AVERAGE = 1.00
+
+Merged hierarchy for Lewy Body Disease (D020961)
+
+(1.00)-Lewy Body Disease; D020961
+(1.00)	-Dementia; D003704
+(NaN)		-Brain Diseases; D001927
+(NaN)			-Central Nervous System Diseases; D002493
+(NaN)				-Nervous System Diseases; D009422
+(NaN)		-Neurocognitive Disorders; D019965
+(NaN)			-Mental Disorders; D001523
+(1.00)	-Parkinsonian Disorders; D020734
+(NaN)		-Basal Ganglia Diseases; D001480
+(0.65)		-Movement Disorders; D009069
+(NaN)	-Synucleinopathies; D000080874
+(NaN)		-Neurodegenerative Diseases; D019636
+(NaN)		-Proteostasis Deficiencies; D057165
+(NaN)			-Metabolic Diseases; D008659
+(NaN)				-Nutritional and Metabolic Diseases; D009750
+
+D020961 AVERAGE = 0.91
+
+Merged hierarchy for Gaucher Disease, Perinatal Lethal (C564306)
+
+(0.90)-Gaucher Disease, Perinatal Lethal; C564306
+
+C564306 AVERAGE = 0.90
+
+Merged hierarchy for Thrombocytopenia (D013921)
+
+(0.80)-Thrombocytopenia; D013921
+(NaN)	-Blood Platelet Disorders; D001791
+(NaN)		-Hematologic Diseases; D006402
+(NaN)			-Hemic and Lymphatic Diseases; D006425
+(NaN)	-Cytopenia; D000095542
+
+D013921 AVERAGE = 0.80
+
+Merged hierarchy for Tremor (D014202)
+
+(0.65)-Tremor; D014202
+(NaN)	-Dyskinesias; D020820
+(0.65)		-Movement Disorders; D009069
+(NaN)			-Central Nervous System Diseases; D002493
+(NaN)				-Nervous System Diseases; D009422
+(NaN)		-Neurologic Manifestations; D009461
+(NaN)			-Signs and Symptoms; D012816
+(NaN)				-Pathological Conditions, Signs and Symptoms; D013568
+
+D014202 AVERAGE = 0.65
+
+Merged hierarchy for Gaucher-like disease (C537675)
+
+(0.60)-Gaucher-like disease; C537675
+
+C537675 AVERAGE = 0.60
+
+Merged hierarchy for Gaucher Disease, Type Iiic (C565553)
+
+(0.60)-Gaucher Disease, Type Iiic; C565553
+
+C565553 AVERAGE = 0.60
+
+Merged hierarchy for Muscle Rigidity (D009127)
+
+(0.55)-Muscle Rigidity; D009127
+(NaN)	-Muscle Hypertonia; D009122
+(NaN)		-Neuromuscular Manifestations; D020879
+(NaN)			-Neurologic Manifestations; D009461
+(NaN)				-Nervous System Diseases; D009422
+(NaN)				-Signs and Symptoms; D012816
+(NaN)					-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)	-Muscular Diseases; D009135
+(NaN)		-Musculoskeletal Diseases; D009140
+(NaN)		-Neuromuscular Diseases; D009468
+
+D009127 AVERAGE = 0.55
+
+Merged hierarchy for ATR-X syndrome (C538258)
+
+(0.40)-ATR-X syndrome; C538258
+
+C538258 AVERAGE = 0.40
+
+Merged hierarchy for Hyperlipidemias (D006949)
+
+(0.40)-Hyperlipidemias; D006949
+(NaN)	-Dyslipidemias; D050171
+(NaN)		-Lipid Metabolism Disorders; D052439
+(NaN)			-Metabolic Diseases; D008659
+(NaN)				-Nutritional and Metabolic Diseases; D009750
+
+D006949 AVERAGE = 0.40
+
+Merged hierarchy for Hepatoblastoma (D018197)
+
+(0.40)-Hepatoblastoma; D018197
+(NaN)	-Neoplasms, Complex and Mixed; D018193
+(NaN)		-Neoplasms by Histologic Type; D009370
+(NaN)			-Neoplasms; D009369
+
+D018197 AVERAGE = 0.40
+
+Merged hierarchy for Hypertension, Pulmonary (D006976)
+
+(0.40)-Hypertension, Pulmonary; D006976
+(0.45)	-Hypertension; D006973
+(NaN)		-Vascular Diseases; D014652
+(NaN)			-Cardiovascular Diseases; D002318
+(NaN)	-Lung Diseases; D008171
+(NaN)		-Respiratory Tract Diseases; D012140
+
+D006976 AVERAGE = 0.43

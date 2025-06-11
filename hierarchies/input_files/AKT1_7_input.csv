@@ -1,0 +1,49 @@
+MSH_normalised_name,MSH,score
+Ovarian Neoplasms,D010051,1.0
+Breast Neoplasms,D001943,1.0
+Proteus Syndrome,D016715,1.0
+Colorectal Neoplasms,D015179,0.95
+Prostatic Neoplasms,D011471,0.9
+"Diabetes Mellitus, Type 2",D003924,0.9
+Inflammation,D007249,0.9
+Lung Neoplasms,D008175,0.9
+Meningioma,D008579,0.85
+Obesity,D009765,0.85
+Schizophrenia,D012559,0.85
+Pancreatic Neoplasms,D010190,0.85
+Colonic Neoplasms,D003110,0.8
+Marijuana Abuse,D002189,0.8
+"Carcinoma, Squamous Cell",D002294,0.8
+Parkinson Disease,D010300,0.8
+Bipolar Disorder,D001714,0.8
+Adenocarcinoma of Lung,D000077192,0.75
+Depressive Disorder,D003866,0.75
+"Carcinoma, Hepatocellular",D006528,0.75
+Carcinogenesis,D063646,0.75
+Depression,D003863,0.75
+Urinary Bladder Neoplasms,D001749,0.7
+Epilepsy,D004827,0.7
+Skin Neoplasms,D012878,0.7
+Adenocarcinoma,D000230,0.7
+Squamous Cell Carcinoma of Head and Neck,D000077195,0.7
+"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",D015464,0.7
+Non-alcoholic Fatty Liver Disease,D065626,0.7
+Pain,D010146,0.65
+Fibrosis,D005355,0.65
+Hyperplasia,D006965,0.65
+Mood Disorders,D019964,0.6
+"Hamartoma Syndrome, Multiple",D006223,0.6
+"Tuberculosis, Pulmonary",D014397,0.55
+"Breast Cancer, Familial",C562840,0.5
+Adenomatous Polyposis Coli,D011125,0.5
+"Neoplasms, Squamous Cell",D018307,0.5
+Muscular Atrophy,D009133,0.5
+Cardiomyopathies,D009202,0.5
+Fatty Liver,D005234,0.5
+Cardiomegaly,D006332,0.45
+Hepatomegaly,D006529,0.4
+Hypertriglyceridemia,D015228,0.4
+"Lymphoma, T-Cell",D016399,0.4
+"Aortic Valve, Calcification of",C562942,0.4
+"Fatty Liver, Alcoholic",D005235,0.4
+"Leukemia, Promyelocytic, Acute",D015473,0.4

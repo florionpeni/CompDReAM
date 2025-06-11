@@ -1,0 +1,36 @@
+diseaseClasses_MSH,diseaseName,diseaseType,CUI,geneNcbiID,score,symbolOfGene,pref_name,MSH,MSH_normalised_name
+[Nervous System Diseases (C10)],tauopathy,disease,C0949664,4137.0,1.0,MAPT,Tauopathy,D024801,Tauopathies
+"[Mental Disorders (F03), Nervous System Diseases (C10)]",Pick's disease,disease,C0236642,4137.0,1.0,MAPT,Pick disease,D020774,Pick Disease of the Brain
+"[Nervous System Diseases (C10), Mental Disorders (F03)]",Dementia,disease,C0497327,4137.0,1.0,MAPT,Dementia,D003704,Dementia
+"[Mental Disorders (F03), Nervous System Diseases (C10)]",Alzheimer Disease,disease,C0002395,4137.0,1.0,MAPT,Alzheimer disease,D000544,Alzheimer Disease
+[Nervous System Diseases (C10)],Parkinson Disease,disease,C0030567,4137.0,1.0,MAPT,Parkinson disease,D010300,Parkinson Disease
+"[Eye Diseases (C11), Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23)]",Progressive supranuclear palsy,disease,C0038868,4137.0,1.0,MAPT,Progressive supranuclear palsy,D013494,"Supranuclear Palsy, Progressive"
+"[Mental Disorders (F03), Nutritional and Metabolic Diseases (C18), Nervous System Diseases (C10)]",Frontotemporal dementia,disease,C0338451,4137.0,1.0,MAPT,Frontotemporal dementia,D057180,Frontotemporal Dementia
+[Nervous System Diseases (C10)],Parkinsonism,disease,C0242422,4137.0,1.0,MAPT,Parkinsonian disorder,D020734,Parkinsonian Disorders
+[Nervous System Diseases (C10)],"Degenerative disease of nervous system, unspecified",disease,C0524851,4137.0,0.95,MAPT,"Degenerative Disease of Nervous System, Unspecified",D019636,Neurodegenerative Diseases
+"[Behavior and Behavior Mechanisms (F01), Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Memory impairment,disease,C0233794,4137.0,0.9,MAPT,Memory impairment,D008569,Memory Disorders
+[Mental Disorders (F03)],Progressive cognitive decline,disease,C0234985,4137.0,0.9,MAPT,Mental deterioration,D060825,Cognitive Dysfunction
+[Nervous System Diseases (C10)],"Atrophy, Multiple System",phenotype,C0393571,4137.0,0.85,MAPT,Multiple system atrophy,D019578,Multiple System Atrophy
+[Nervous System Diseases (C10)],Temporal lobe epilepsy,disease,C0014556,4137.0,0.8,MAPT,Temporal lobe epilepsy,D004833,"Epilepsy, Temporal Lobe"
+"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10), Nutritional and Metabolic Diseases (C18), Mental Disorders (F03)]",Progressive Nonfluent Aphasias,disease,C0751706,4137.0,0.7999999999999999,MAPT,Primary progressive non fluent aphasia,D057178,Primary Progressive Nonfluent Aphasia
+[Mental Disorders (F03)],Anxiety Disorder,disease,C0003469,4137.0,0.75,MAPT,Anxiety disorder,D001008,Anxiety Disorders
+"[Mental Disorders (F03), Nutritional and Metabolic Diseases (C18), Nervous System Diseases (C10)]",Semantic Dementias,disease,C0338462,4137.0,0.75,MAPT,Semantic dementia,D057180,Frontotemporal Dementia
+"[Neoplasms (C04), Urogenital Diseases (C12)]",Malignant neoplasm of prostate,disease,C0376358,4137.0,0.75,MAPT,Malignant tumor of prostate,D011471,Prostatic Neoplasms
+"[Digestive System Diseases (C06), Neoplasms (C04)]",Liver cell carcinoma,disease,C2239176,4137.0,0.7000000000000001,MAPT,Hepatocellular carcinoma,D006528,"Carcinoma, Hepatocellular"
+"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Ataxia,phenotype,C0004134,4137.0,0.65,MAPT,Dyssynergia,D001259,Ataxia
+"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10), Mental Disorders (F03)]",Learning disability,disease,C0751265,4137.0,0.65,MAPT,Learning disability,D007859,Learning Disabilities
+"[Cardiovascular Diseases (C14), Pathological Conditions, Signs and Symptoms (C23)]",Atrial Fibrillation,disease,C0004238,4137.0,0.65,MAPT,Atrial fibrillation,D001281,Atrial Fibrillation
+"[Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23), Behavior and Behavior Mechanisms (F01)]",Memory Disorder,disease,C0025261,4137.0,0.55,MAPT,Memory Disorder,D008569,Memory Disorders
+"[Eye Diseases (C11), Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",PSNP1,disease,C4551863,4137.0,0.5,MAPT,"Supranuclear palsy, progressive, 1",D013494,"Supranuclear Palsy, Progressive"
+"[Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23), Eye Diseases (C11)]","STEELE-RICHARDSON-OLSZEWSKI SYNDROME, ATYPICAL",disease,C1850077,4137.0,0.45,MAPT,Progressive supranuclear palsy-parkinsonism syndrome,C537240,Progressive supranuclear palsy atypical
+[Musculoskeletal Diseases (C05)],Coxarthroses,disease,C0029410,4137.0,0.45,MAPT,"Osteoarthritis, hip",D015207,"Osteoarthritis, Hip"
+[Mental Disorders (F03)],"Disorders, Organic Mental",disease,C0029227,4137.0,0.45,MAPT,Organic mental disorder,D019965,Neurocognitive Disorders
+"[Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23), Mental Disorders (F03)]",learning disorder,disease,C0023186,4137.0,0.4,MAPT,Learning disorder,D007859,Learning Disabilities
+"[Pathological Conditions, Signs and Symptoms (C23)]","Losses, Weight",phenotype,C1262477,4137.0,0.4,MAPT,Weight loss,D015431,Weight Loss
+"[Pathological Conditions, Signs and Symptoms (C23)]","Gains, Weight",phenotype,C0043094,4137.0,0.4,MAPT,Increased body weight,D015430,Weight Gain
+"[Pathological Conditions, Signs and Symptoms (C23)]",Splenomegaly,phenotype,C0038002,4137.0,0.4,MAPT,Splenomegaly,D013163,Splenomegaly
+"[Behavior and Behavior Mechanisms (F01), Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23)]",Psychomotor Agitation,phenotype,C3887612,4137.0,0.4,MAPT,psychomotor agitation,D011595,Psychomotor Agitation
+"[Eye Diseases (C11), Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Progressive supranuclear ophthalmoplegia [Steele-Richardson-Olszewski],disease,C4551862,4137.0,0.4,MAPT,Progressive supranuclear ophthalmoplegia,D013494,"Supranuclear Palsy, Progressive"
+[Cardiovascular Diseases (C14)],"Disease, Secondary Myocardial",disease,C0036529,4137.0,0.4,MAPT,"Disease, Secondary Myocardial",D009202,Cardiomyopathies
+[Cardiovascular Diseases (C14)],Cardiomyopathy,disease,C0878544,4137.0,0.4,MAPT,Cardiomyopathy,D009202,Cardiomyopathies
+[Cardiovascular Diseases (C14)],"Disease, Primary Myocardial",disease,C0033141,4137.0,0.4,MAPT,Idiopathic cardiomyopathy,D009202,Cardiomyopathies

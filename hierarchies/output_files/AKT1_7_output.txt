@@ -1,0 +1,540 @@
+
+Merged hierarchy for Ovarian Neoplasms (D010051)
+
+(1.00)-Ovarian Neoplasms; D010051
+(NaN)	-Endocrine Gland Neoplasms; D004701
+(NaN)		-Neoplasms by Site; D009371
+(NaN)			-Neoplasms; D009369
+(NaN)		-Endocrine System Diseases; D004700
+(NaN)	-Genital Neoplasms, Female; D005833
+(NaN)		-Genital Diseases, Female; D005831
+(NaN)			-Female Urogenital Diseases; D052776
+(NaN)				-Female Urogenital Diseases and Pregnancy Complications; D005261
+(NaN)					-Urogenital Diseases; D000091642
+(NaN)			-Genital Diseases; D000091662
+(NaN)		-Urogenital Neoplasms; D014565
+(NaN)			-Male Urogenital Diseases; D052801
+(NaN)	-Ovarian Diseases; D010049
+(NaN)		-Adnexal Diseases; D000291
+(NaN)		-Gonadal Disorders; D006058
+
+D010051 AVERAGE = 1.00
+
+Merged hierarchy for Breast Neoplasms (D001943)
+
+(1.00)-Breast Neoplasms; D001943
+(NaN)	-Breast Diseases; D001941
+(NaN)		-Skin Diseases; D012871
+(NaN)			-Skin and Connective Tissue Diseases; D017437
+(NaN)	-Neoplasms by Site; D009371
+(NaN)		-Neoplasms; D009369
+
+D001943 AVERAGE = 1.00
+
+Merged hierarchy for Proteus Syndrome (D016715)
+
+(1.00)-Proteus Syndrome; D016715
+(NaN)	-Abnormalities, Multiple; D000015
+(NaN)		-Congenital Abnormalities; D000013
+(NaN)			-Congenital, Hereditary, and Neonatal Diseases and Abnormalities; D009358
+(NaN)	-Bone Diseases, Developmental; D001848
+(NaN)		-Bone Diseases; D001847
+(NaN)			-Musculoskeletal Diseases; D009140
+(0.60)	-Hamartoma Syndrome, Multiple; D006223
+(NaN)		-Hamartoma; D006222
+(NaN)			-Neoplasms; D009369
+(NaN)		-Neoplasms, Multiple Primary; D009378
+(NaN)		-Neoplastic Syndromes, Hereditary; D009386
+(NaN)			-Genetic Diseases, Inborn; D030342
+(NaN)	-Limb Deformities, Congenital; D017880
+(NaN)		-Musculoskeletal Abnormalities; D009139
+
+D016715 AVERAGE = 0.80
+
+Merged hierarchy for Prostatic Neoplasms (D011471)
+
+(0.90)-Prostatic Neoplasms; D011471
+(NaN)	-Genital Neoplasms, Male; D005834
+(NaN)		-Genital Diseases, Male; D005832
+(NaN)			-Male Urogenital Diseases; D052801
+(NaN)				-Urogenital Diseases; D000091642
+(NaN)			-Genital Diseases; D000091662
+(NaN)		-Urogenital Neoplasms; D014565
+(NaN)			-Neoplasms by Site; D009371
+(NaN)				-Neoplasms; D009369
+(NaN)			-Female Urogenital Diseases; D052776
+(NaN)				-Female Urogenital Diseases and Pregnancy Complications; D005261
+(NaN)	-Prostatic Diseases; D011469
+
+D011471 AVERAGE = 0.90
+
+Merged hierarchy for Diabetes Mellitus, Type 2 (D003924)
+
+(0.90)-Diabetes Mellitus, Type 2; D003924
+(NaN)	-Diabetes Mellitus; D003920
+(NaN)		-Glucose Metabolism Disorders; D044882
+(NaN)			-Metabolic Diseases; D008659
+(NaN)				-Nutritional and Metabolic Diseases; D009750
+(NaN)		-Endocrine System Diseases; D004700
+
+D003924 AVERAGE = 0.90
+
+Merged hierarchy for Inflammation (D007249)
+
+(0.90)-Inflammation; D007249
+(NaN)	-Pathologic Processes; D010335
+(NaN)		-Pathological Conditions, Signs and Symptoms; D013568
+
+D007249 AVERAGE = 0.90
+
+Merged hierarchy for Meningioma (D008579)
+
+(0.85)-Meningioma; D008579
+(NaN)	-Meningeal Neoplasms; D008577
+(NaN)		-Central Nervous System Neoplasms; D016543
+(NaN)			-Nervous System Neoplasms; D009423
+(NaN)				-Nervous System Diseases; D009422
+(NaN)				-Neoplasms by Site; D009371
+(NaN)					-Neoplasms; D009369
+(NaN)	-Neoplasms, Vascular Tissue; D009383
+(NaN)		-Neoplasms by Histologic Type; D009370
+(NaN)	-Neoplasms, Nerve Tissue; D009380
+
+D008579 AVERAGE = 0.85
+
+Merged hierarchy for Obesity (D009765)
+
+(0.85)-Obesity; D009765
+(NaN)	-Overweight; D050177
+(NaN)		-Body Weight; D001835
+(NaN)			-Signs and Symptoms; D012816
+(NaN)				-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)			-Physical Appearance, Body; D000067029
+(NaN)				-Body Constitution; D001824
+(NaN)					-Physical Examination; D010808
+(NaN)						-Diagnostic Techniques and Procedures; D019937
+(NaN)							-Diagnosis; D003933
+(NaN)					-Physiological Phenomena; D010829
+(NaN)			-Body Size; D049628
+(NaN)				-Growth; D006128
+(NaN)					-Growth and Development; D048788
+(NaN)				-Body Weights and Measures; D001837
+(NaN)					-Anthropometry; D000886
+(NaN)						-Biometry; D001699
+(NaN)							-Epidemiologic Measurements; D015991
+(NaN)								-Public Health; D011634
+(NaN)									-Health; D006262
+(NaN)										-Population Characteristics; D011154
+(NaN)									-Medicine; D008511
+(NaN)										-Health Occupations; D006281
+(NaN)									-Environment and Public Health; D004778
+(NaN)							-Statistics as Topic; D013223
+(NaN)								-Epidemiologic Methods; D004812
+(NaN)									-Investigative Techniques; D008919
+(NaN)								-Mathematics; D008433
+(NaN)									-Natural Science Disciplines; D010811
+(NaN)								-Health Care Evaluation Mechanisms; D017531
+(NaN)									-Quality of Health Care; D011787
+(NaN)										-Health Services Administration; D006298
+(NaN)										-Health Care Quality, Access, and Evaluation; D017530
+(NaN)		-Overnutrition; D044343
+(NaN)			-Nutrition Disorders; D009748
+(NaN)				-Nutritional and Metabolic Diseases; D009750
+
+D009765 AVERAGE = 0.85
+
+Merged hierarchy for Schizophrenia (D012559)
+
+(0.85)-Schizophrenia; D012559
+(NaN)	-Schizophrenia Spectrum and Other Psychotic Disorders; D019967
+(NaN)		-Mental Disorders; D001523
+
+D012559 AVERAGE = 0.85
+
+Merged hierarchy for Pancreatic Neoplasms (D010190)
+
+(0.85)-Pancreatic Neoplasms; D010190
+(NaN)	-Digestive System Neoplasms; D004067
+(NaN)		-Digestive System Diseases; D004066
+(NaN)		-Neoplasms by Site; D009371
+(NaN)			-Neoplasms; D009369
+(NaN)	-Endocrine Gland Neoplasms; D004701
+(NaN)		-Endocrine System Diseases; D004700
+(NaN)	-Pancreatic Diseases; D010182
+
+D010190 AVERAGE = 0.85
+
+Merged hierarchy for Colonic Neoplasms (D003110)
+
+(0.80)-Colonic Neoplasms; D003110
+(0.95)	-Colorectal Neoplasms; D015179
+(NaN)		-Colonic Diseases; D003108
+(NaN)			-Intestinal Diseases; D007410
+(NaN)				-Gastrointestinal Diseases; D005767
+(NaN)					-Digestive System Diseases; D004066
+(NaN)		-Intestinal Neoplasms; D007414
+(NaN)			-Gastrointestinal Neoplasms; D005770
+(NaN)				-Digestive System Neoplasms; D004067
+(NaN)					-Neoplasms by Site; D009371
+(NaN)						-Neoplasms; D009369
+(NaN)		-Rectal Diseases; D012002
+
+D003110 AVERAGE = 0.88
+
+Merged hierarchy for Marijuana Abuse (D002189)
+
+(0.80)-Marijuana Abuse; D002189
+(NaN)	-Substance-Related Disorders; D019966
+(NaN)		-Mental Disorders; D001523
+(NaN)		-Chemically-Induced Disorders; D064419
+
+D002189 AVERAGE = 0.80
+
+Merged hierarchy for Parkinson Disease (D010300)
+
+(0.80)-Parkinson Disease; D010300
+(NaN)	-Parkinsonian Disorders; D020734
+(NaN)		-Basal Ganglia Diseases; D001480
+(NaN)			-Brain Diseases; D001927
+(NaN)				-Central Nervous System Diseases; D002493
+(NaN)					-Nervous System Diseases; D009422
+(NaN)		-Movement Disorders; D009069
+(NaN)	-Synucleinopathies; D000080874
+(NaN)		-Neurodegenerative Diseases; D019636
+(NaN)		-Proteostasis Deficiencies; D057165
+(NaN)			-Metabolic Diseases; D008659
+(NaN)				-Nutritional and Metabolic Diseases; D009750
+
+D010300 AVERAGE = 0.80
+
+Merged hierarchy for Bipolar Disorder (D001714)
+
+(0.80)-Bipolar Disorder; D001714
+(NaN)	-Bipolar and Related Disorders; D000068105
+(0.60)		-Mood Disorders; D019964
+(NaN)			-Mental Disorders; D001523
+
+D001714 AVERAGE = 0.70
+
+Merged hierarchy for Adenocarcinoma of Lung (D000077192)
+
+(0.75)-Adenocarcinoma of Lung; D000077192
+(0.70)	-Adenocarcinoma; D000230
+(NaN)		-Carcinoma; D002277
+(NaN)			-Neoplasms, Glandular and Epithelial; D009375
+(NaN)				-Neoplasms by Histologic Type; D009370
+(NaN)					-Neoplasms; D009369
+(0.90)	-Lung Neoplasms; D008175
+(NaN)		-Lung Diseases; D008171
+(NaN)			-Respiratory Tract Diseases; D012140
+(NaN)		-Respiratory Tract Neoplasms; D012142
+(NaN)			-Thoracic Neoplasms; D013899
+(NaN)				-Neoplasms by Site; D009371
+
+D000077192 AVERAGE = 0.78
+
+Merged hierarchy for Depressive Disorder (D003866)
+
+(0.75)-Depressive Disorder; D003866
+(0.60)	-Mood Disorders; D019964
+(NaN)		-Mental Disorders; D001523
+
+D003866 AVERAGE = 0.68
+
+Merged hierarchy for Carcinoma, Hepatocellular (D006528)
+
+(0.75)-Carcinoma, Hepatocellular; D006528
+(0.70)	-Adenocarcinoma; D000230
+(NaN)		-Carcinoma; D002277
+(NaN)			-Neoplasms, Glandular and Epithelial; D009375
+(NaN)				-Neoplasms by Histologic Type; D009370
+(NaN)					-Neoplasms; D009369
+(NaN)	-Liver Neoplasms; D008113
+(NaN)		-Digestive System Neoplasms; D004067
+(NaN)			-Digestive System Diseases; D004066
+(NaN)			-Neoplasms by Site; D009371
+(NaN)		-Liver Diseases; D008107
+
+D006528 AVERAGE = 0.72
+
+Merged hierarchy for Carcinogenesis (D063646)
+
+(0.75)-Carcinogenesis; D063646
+(NaN)	-Neoplastic Processes; D009385
+(NaN)		-Neoplasms; D009369
+(NaN)		-Pathologic Processes; D010335
+(NaN)			-Pathological Conditions, Signs and Symptoms; D013568
+
+D063646 AVERAGE = 0.75
+
+Merged hierarchy for Depression (D003863)
+
+(0.75)-Depression; D003863
+(NaN)	-Emotions; D004644
+(NaN)		-Behavior and Behavior Mechanisms; D001520
+(NaN)	-Behavioral Symptoms; D001526
+(NaN)		-Behavior; D001519
+
+D003863 AVERAGE = 0.75
+
+Merged hierarchy for Urinary Bladder Neoplasms (D001749)
+
+(0.70)-Urinary Bladder Neoplasms; D001749
+(NaN)	-Urologic Neoplasms; D014571
+(NaN)		-Urogenital Neoplasms; D014565
+(NaN)			-Neoplasms by Site; D009371
+(NaN)				-Neoplasms; D009369
+(NaN)			-Female Urogenital Diseases; D052776
+(NaN)				-Female Urogenital Diseases and Pregnancy Complications; D005261
+(NaN)					-Urogenital Diseases; D000091642
+(NaN)			-Male Urogenital Diseases; D052801
+(NaN)		-Urologic Diseases; D014570
+(NaN)	-Urinary Bladder Diseases; D001745
+
+D001749 AVERAGE = 0.70
+
+Merged hierarchy for Epilepsy (D004827)
+
+(0.70)-Epilepsy; D004827
+(NaN)	-Brain Diseases; D001927
+(NaN)		-Central Nervous System Diseases; D002493
+(NaN)			-Nervous System Diseases; D009422
+
+D004827 AVERAGE = 0.70
+
+Merged hierarchy for Skin Neoplasms (D012878)
+
+(0.70)-Skin Neoplasms; D012878
+(NaN)	-Skin Diseases; D012871
+(NaN)		-Skin and Connective Tissue Diseases; D017437
+(NaN)	-Neoplasms by Site; D009371
+(NaN)		-Neoplasms; D009369
+
+D012878 AVERAGE = 0.70
+
+Merged hierarchy for Squamous Cell Carcinoma of Head and Neck (D000077195)
+
+(0.70)-Squamous Cell Carcinoma of Head and Neck; D000077195
+(0.80)	-Carcinoma, Squamous Cell; D002294
+(NaN)		-Carcinoma; D002277
+(NaN)			-Neoplasms, Glandular and Epithelial; D009375
+(NaN)				-Neoplasms by Histologic Type; D009370
+(NaN)					-Neoplasms; D009369
+(0.50)		-Neoplasms, Squamous Cell; D018307
+(NaN)	-Head and Neck Neoplasms; D006258
+(NaN)		-Neoplasms by Site; D009371
+
+D000077195 AVERAGE = 0.67
+
+Merged hierarchy for Leukemia, Myelogenous, Chronic, BCR-ABL Positive (D015464)
+
+(0.70)-Leukemia, Myelogenous, Chronic, BCR-ABL Positive; D015464
+(NaN)	-Chronic Disease; D002908
+(NaN)		-Disease Attributes; D020969
+(NaN)			-Pathologic Processes; D010335
+(NaN)				-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)	-Leukemia, Myeloid; D007951
+(NaN)		-Leukemia; D007938
+(NaN)			-Hematologic Diseases; D006402
+(NaN)				-Hemic and Lymphatic Diseases; D006425
+(NaN)			-Neoplasms by Histologic Type; D009370
+(NaN)				-Neoplasms; D009369
+(NaN)	-Myeloproliferative Disorders; D009196
+(NaN)		-Bone Marrow Diseases; D001855
+
+D015464 AVERAGE = 0.70
+
+Merged hierarchy for Non-alcoholic Fatty Liver Disease (D065626)
+
+(0.70)-Non-alcoholic Fatty Liver Disease; D065626
+(0.50)	-Fatty Liver; D005234
+(NaN)		-Liver Diseases; D008107
+(NaN)			-Digestive System Diseases; D004066
+
+D065626 AVERAGE = 0.60
+
+Merged hierarchy for Pain (D010146)
+
+(0.65)-Pain; D010146
+(NaN)	-Neurologic Manifestations; D009461
+(NaN)		-Nervous System Diseases; D009422
+(NaN)		-Signs and Symptoms; D012816
+(NaN)			-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)	-Sensation; D012677
+(NaN)		-Psychophysiology; D011603
+(NaN)			-Behavioral Sciences; D001525
+(NaN)				-Behavioral Disciplines and Activities; D004191
+(NaN)			-Physiology; D010827
+(NaN)				-Biological Science Disciplines; D001690
+(NaN)					-Natural Science Disciplines; D010811
+(NaN)			-Psychological Phenomena; D011579
+(NaN)		-Nervous System Physiological Phenomena; D009424
+(NaN)			-Musculoskeletal and Neural Physiological Phenomena; D055687
+
+D010146 AVERAGE = 0.65
+
+Merged hierarchy for Fibrosis (D005355)
+
+(0.65)-Fibrosis; D005355
+(NaN)	-Pathologic Processes; D010335
+(NaN)		-Pathological Conditions, Signs and Symptoms; D013568
+
+D005355 AVERAGE = 0.65
+
+Merged hierarchy for Hyperplasia (D006965)
+
+(0.65)-Hyperplasia; D006965
+(NaN)	-Pathologic Processes; D010335
+(NaN)		-Pathological Conditions, Signs and Symptoms; D013568
+
+D006965 AVERAGE = 0.65
+
+Merged hierarchy for Tuberculosis, Pulmonary (D014397)
+
+(0.55)-Tuberculosis, Pulmonary; D014397
+(NaN)	-Lung Diseases; D008171
+(NaN)		-Respiratory Tract Diseases; D012140
+(NaN)	-Respiratory Tract Infections; D012141
+(NaN)		-Infections; D007239
+(NaN)	-Tuberculosis; D014376
+(NaN)		-Mycobacterium Infections; D009164
+(NaN)			-Actinomycetales Infections; D000193
+(NaN)				-Gram-Positive Bacterial Infections; D016908
+(NaN)					-Bacterial Infections; D001424
+(NaN)						-Bacterial Infections and Mycoses; D001423
+
+D014397 AVERAGE = 0.55
+
+Merged hierarchy for Breast Cancer, Familial (C562840)
+
+(0.50)-Breast Cancer, Familial; C562840
+
+C562840 AVERAGE = 0.50
+
+Merged hierarchy for Adenomatous Polyposis Coli (D011125)
+
+(0.50)-Adenomatous Polyposis Coli; D011125
+(0.95)	-Colorectal Neoplasms; D015179
+(NaN)		-Colonic Diseases; D003108
+(NaN)			-Intestinal Diseases; D007410
+(NaN)				-Gastrointestinal Diseases; D005767
+(NaN)					-Digestive System Diseases; D004066
+(NaN)		-Intestinal Neoplasms; D007414
+(NaN)			-Gastrointestinal Neoplasms; D005770
+(NaN)				-Digestive System Neoplasms; D004067
+(NaN)					-Neoplasms by Site; D009371
+(NaN)						-Neoplasms; D009369
+(NaN)		-Rectal Diseases; D012002
+(NaN)	-Neoplastic Syndromes, Hereditary; D009386
+(NaN)		-Genetic Diseases, Inborn; D030342
+(NaN)			-Congenital, Hereditary, and Neonatal Diseases and Abnormalities; D009358
+(NaN)	-Adenomatous Polyps; D018256
+(NaN)		-Adenoma; D000236
+(NaN)			-Neoplasms, Glandular and Epithelial; D009375
+(NaN)				-Neoplasms by Histologic Type; D009370
+(NaN)	-Intestinal Polyposis; D044483
+
+D011125 AVERAGE = 0.72
+
+Merged hierarchy for Muscular Atrophy (D009133)
+
+(0.50)-Muscular Atrophy; D009133
+(NaN)	-Atrophy; D001284
+(NaN)		-Pathological Conditions, Anatomical; D020763
+(NaN)			-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)	-Neuromuscular Manifestations; D020879
+(NaN)		-Neurologic Manifestations; D009461
+(NaN)			-Nervous System Diseases; D009422
+(NaN)			-Signs and Symptoms; D012816
+
+D009133 AVERAGE = 0.50
+
+Merged hierarchy for Cardiomyopathies (D009202)
+
+(0.50)-Cardiomyopathies; D009202
+(NaN)	-Heart Diseases; D006331
+(NaN)		-Cardiovascular Diseases; D002318
+
+D009202 AVERAGE = 0.50
+
+Merged hierarchy for Cardiomegaly (D006332)
+
+(0.45)-Cardiomegaly; D006332
+(NaN)	-Heart Diseases; D006331
+(NaN)		-Cardiovascular Diseases; D002318
+(NaN)	-Hypertrophy; D006984
+(NaN)		-Pathological Conditions, Anatomical; D020763
+(NaN)			-Pathological Conditions, Signs and Symptoms; D013568
+
+D006332 AVERAGE = 0.45
+
+Merged hierarchy for Hepatomegaly (D006529)
+
+(0.40)-Hepatomegaly; D006529
+(NaN)	-Hypertrophy; D006984
+(NaN)		-Pathological Conditions, Anatomical; D020763
+(NaN)			-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)	-Liver Diseases; D008107
+(NaN)		-Digestive System Diseases; D004066
+
+D006529 AVERAGE = 0.40
+
+Merged hierarchy for Hypertriglyceridemia (D015228)
+
+(0.40)-Hypertriglyceridemia; D015228
+(NaN)	-Hyperlipidemias; D006949
+(NaN)		-Dyslipidemias; D050171
+(NaN)			-Lipid Metabolism Disorders; D052439
+(NaN)				-Metabolic Diseases; D008659
+(NaN)					-Nutritional and Metabolic Diseases; D009750
+
+D015228 AVERAGE = 0.40
+
+Merged hierarchy for Lymphoma, T-Cell (D016399)
+
+(0.40)-Lymphoma, T-Cell; D016399
+(NaN)	-Lymphoma, Non-Hodgkin; D008228
+(NaN)		-Lymphoma; D008223
+(NaN)			-Lymphoproliferative Disorders; D008232
+(NaN)				-Immunoproliferative Disorders; D007160
+(NaN)					-Immune System Diseases; D007154
+(NaN)				-Lymphatic Diseases; D008206
+(NaN)					-Hemic and Lymphatic Diseases; D006425
+(NaN)			-Neoplasms by Histologic Type; D009370
+(NaN)				-Neoplasms; D009369
+
+D016399 AVERAGE = 0.40
+
+Merged hierarchy for Aortic Valve, Calcification of (C562942)
+
+(0.40)-Aortic Valve, Calcification of; C562942
+
+C562942 AVERAGE = 0.40
+
+Merged hierarchy for Fatty Liver, Alcoholic (D005235)
+
+(0.40)-Fatty Liver, Alcoholic; D005235
+(0.50)	-Fatty Liver; D005234
+(NaN)		-Liver Diseases; D008107
+(NaN)			-Digestive System Diseases; D004066
+(NaN)	-Liver Diseases, Alcoholic; D008108
+(NaN)		-Alcohol-Induced Disorders; D020751
+(NaN)			-Alcohol-Related Disorders; D019973
+(NaN)				-Substance-Related Disorders; D019966
+(NaN)					-Mental Disorders; D001523
+(NaN)					-Chemically-Induced Disorders; D064419
+
+D005235 AVERAGE = 0.45
+
+Merged hierarchy for Leukemia, Promyelocytic, Acute (D015473)
+
+(0.40)-Leukemia, Promyelocytic, Acute; D015473
+(NaN)	-Leukemia, Myeloid, Acute; D015470
+(NaN)		-Leukemia, Myeloid; D007951
+(NaN)			-Leukemia; D007938
+(NaN)				-Hematologic Diseases; D006402
+(NaN)					-Hemic and Lymphatic Diseases; D006425
+(NaN)				-Neoplasms by Histologic Type; D009370
+(NaN)					-Neoplasms; D009369
+
+D015473 AVERAGE = 0.40

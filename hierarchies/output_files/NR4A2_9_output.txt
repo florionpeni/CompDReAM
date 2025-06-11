@@ -1,0 +1,157 @@
+
+Merged hierarchy for Parkinson Disease (D010300)
+
+(1.00)-Parkinson Disease; D010300
+(NaN)	-Parkinsonian Disorders; D020734
+(NaN)		-Basal Ganglia Diseases; D001480
+(NaN)			-Brain Diseases; D001927
+(NaN)				-Central Nervous System Diseases; D002493
+(NaN)					-Nervous System Diseases; D009422
+(NaN)		-Movement Disorders; D009069
+(NaN)	-Synucleinopathies; D000080874
+(NaN)		-Neurodegenerative Diseases; D019636
+(NaN)		-Proteostasis Deficiencies; D057165
+(NaN)			-Metabolic Diseases; D008659
+(NaN)				-Nutritional and Metabolic Diseases; D009750
+
+D010300 AVERAGE = 1.00
+
+Merged hierarchy for Schizophrenia (D012559)
+
+(0.80)-Schizophrenia; D012559
+(NaN)	-Schizophrenia Spectrum and Other Psychotic Disorders; D019967
+(NaN)		-Mental Disorders; D001523
+
+D012559 AVERAGE = 0.80
+
+Merged hierarchy for Epilepsy (D004827)
+
+(0.70)-Epilepsy; D004827
+(NaN)	-Brain Diseases; D001927
+(NaN)		-Central Nervous System Diseases; D002493
+(NaN)			-Nervous System Diseases; D009422
+
+D004827 AVERAGE = 0.70
+
+Merged hierarchy for Autism Spectrum Disorder (D000067877)
+
+(0.70)-Autism Spectrum Disorder; D000067877
+(NaN)	-Child Development Disorders, Pervasive; D002659
+(0.60)		-Neurodevelopmental Disorders; D065886
+(NaN)			-Mental Disorders; D001523
+
+D000067877 AVERAGE = 0.65
+
+Merged hierarchy for Colorectal Neoplasms (D015179)
+
+(0.65)-Colorectal Neoplasms; D015179
+(NaN)	-Colonic Diseases; D003108
+(NaN)		-Intestinal Diseases; D007410
+(NaN)			-Gastrointestinal Diseases; D005767
+(NaN)				-Digestive System Diseases; D004066
+(NaN)	-Intestinal Neoplasms; D007414
+(NaN)		-Gastrointestinal Neoplasms; D005770
+(NaN)			-Digestive System Neoplasms; D004067
+(NaN)				-Neoplasms by Site; D009371
+(NaN)					-Neoplasms; D009369
+(NaN)	-Rectal Diseases; D012002
+
+D015179 AVERAGE = 0.65
+
+Merged hierarchy for Arthritis, Psoriatic (D015535)
+
+(0.60)-Arthritis, Psoriatic; D015535
+(NaN)	-Arthritis; D001168
+(NaN)		-Joint Diseases; D007592
+(NaN)			-Musculoskeletal Diseases; D009140
+(NaN)	-Psoriasis; D011565
+(NaN)		-Skin Diseases, Papulosquamous; D017444
+(0.40)			-Skin Diseases; D012871
+(NaN)				-Skin and Connective Tissue Diseases; D017437
+(NaN)	-Spondylarthropathies; D025242
+(NaN)		-Spondylarthritis; D025241
+(NaN)			-Spondylitis; D013166
+(NaN)				-Spinal Diseases; D013122
+(NaN)					-Bone Diseases; D001847
+(NaN)				-Bone Diseases, Infectious; D001850
+(NaN)					-Infections; D007239
+
+D015535 AVERAGE = 0.50
+
+Merged hierarchy for Alcoholism (D000437)
+
+(0.60)-Alcoholism; D000437
+(NaN)	-Alcohol-Related Disorders; D019973
+(NaN)		-Substance-Related Disorders; D019966
+(NaN)			-Mental Disorders; D001523
+(NaN)			-Chemically-Induced Disorders; D064419
+
+D000437 AVERAGE = 0.60
+
+Merged hierarchy for Depressive Disorder, Major (D003865)
+
+(0.60)-Depressive Disorder, Major; D003865
+(0.60)	-Depressive Disorder; D003866
+(NaN)		-Mood Disorders; D019964
+(NaN)			-Mental Disorders; D001523
+
+D003865 AVERAGE = 0.60
+
+Merged hierarchy for Bipolar Disorder (D001714)
+
+(0.60)-Bipolar Disorder; D001714
+(NaN)	-Bipolar and Related Disorders; D000068105
+(NaN)		-Mood Disorders; D019964
+(NaN)			-Mental Disorders; D001523
+
+D001714 AVERAGE = 0.60
+
+Merged hierarchy for Cocaine-Related Disorders (D019970)
+
+(0.50)-Cocaine-Related Disorders; D019970
+(NaN)	-Substance-Related Disorders; D019966
+(NaN)		-Mental Disorders; D001523
+(NaN)		-Chemically-Induced Disorders; D064419
+
+D019970 AVERAGE = 0.50
+
+Merged hierarchy for Dystonia, Dopa-responsive (C538007)
+
+(0.40)-Dystonia, Dopa-responsive; C538007
+
+C538007 AVERAGE = 0.40
+
+Merged hierarchy for Chromosome 2, monosomy 2q24 (C538316)
+
+(0.40)-Chromosome 2, monosomy 2q24; C538316
+
+C538316 AVERAGE = 0.40
+
+Merged hierarchy for Arsenic Poisoning (D020261)
+
+(0.40)-Arsenic Poisoning; D020261
+(NaN)	-Poisoning; D011041
+(NaN)		-Chemically-Induced Disorders; D064419
+(NaN)	-Heavy Metal Poisoning, Nervous System; D020260
+(NaN)		-Neurotoxicity Syndromes; D020258
+(NaN)			-Nervous System Diseases; D009422
+
+D020261 AVERAGE = 0.40
+
+Merged hierarchy for Skin Diseases, Genetic (D012873)
+
+(0.40)-Skin Diseases, Genetic; D012873
+(0.40)	-Skin Diseases; D012871
+(NaN)		-Skin and Connective Tissue Diseases; D017437
+(NaN)	-Genetic Diseases, Inborn; D030342
+(NaN)		-Congenital, Hereditary, and Neonatal Diseases and Abnormalities; D009358
+
+D012873 AVERAGE = 0.40
+
+Merged hierarchy for Developmental Disabilities (D002658)
+
+(0.40)-Developmental Disabilities; D002658
+(0.60)	-Neurodevelopmental Disorders; D065886
+(NaN)		-Mental Disorders; D001523
+
+D002658 AVERAGE = 0.50

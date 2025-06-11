@@ -1,0 +1,34 @@
+Disease,MeSH_ID,Average_Score
+Gaucher Disease,D005776,1.0
+Parkinson Disease,D010300,0.88
+Lewy Body Disease,D020961,0.91
+"Gaucher Disease, Perinatal Lethal (C564306)
+
+(0.90)-Gaucher Disease, Perinatal Lethal; C564306
+
+C564306 AVERAGE = 0.90
+
+Merged hierarchy for Thrombocytopenia",D013921,0.8
+Tremor,D014202,0.65
+"Gaucher-like disease (C537675)
+
+(0.60)-Gaucher-like disease; C537675
+
+C537675 AVERAGE = 0.60
+
+Merged hierarchy for nan (C565553)
+
+(0.60)-nan; C565553
+
+C565553 AVERAGE = 0.60
+
+Merged hierarchy for Muscle Rigidity",D009127,0.55
+Hepatoblastoma,D018197,0.4
+"Hypertension, Pulmonary",D006976,0.43
+"ATR-X syndrome (C538258)
+
+(0.40)-ATR-X syndrome; C538258
+
+C538258 AVERAGE = 0.40
+
+Merged hierarchy for Hyperlipidemias",D006949,0.4

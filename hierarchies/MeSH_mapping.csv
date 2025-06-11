@@ -1,0 +1,288 @@
+diseaseClasses_MSH,diseaseName,diseaseType,diseaseUMLSCUI,geneNcbiID,geneNcbiType,geneProteinClassNames,score,symbolOfGene,MSH,MSH_normalised_name
+[Nervous System Diseases (C10)],Parkinsonian Disorders,disease,C0242422,4137.0,protein-coding,[],1.0,MAPT,D020734,Parkinsonian Disorders
+"[Nervous System Diseases (C10), Mental Disorders (F03)]",Dementia,disease,C0497327,4137.0,protein-coding,[],1.0,MAPT,D003704,Dementia
+[Nervous System Diseases (C10)],Tauopathies,disease,C0949664,4137.0,protein-coding,[],1.0,MAPT,D024801,Tauopathies
+"[Mental Disorders (F03), Nervous System Diseases (C10)]",Pick Disease of the Brain,disease,C0236642,4137.0,protein-coding,[],1.0,MAPT,D020774,Pick Disease of the Brain
+"[Eye Diseases (C11), Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Progressive supranuclear palsy,disease,C0038868,4137.0,protein-coding,[],1.0,MAPT,D013494,"Supranuclear Palsy, Progressive"
+"[Nervous System Diseases (C10), Mental Disorders (F03)]",Alzheimer's Disease,disease,C0002395,4137.0,protein-coding,[],1.0,MAPT,D000544,Alzheimer Disease
+"[Nutritional and Metabolic Diseases (C18), Mental Disorders (F03), Nervous System Diseases (C10)]",Frontotemporal dementia,disease,C0338451,4137.0,protein-coding,[],1.0,MAPT,D057180,Frontotemporal Dementia
+[Nervous System Diseases (C10)],Parkinson Disease,disease,C0030567,4137.0,protein-coding,[],1.0,MAPT,D010300,Parkinson Disease
+[Nervous System Diseases (C10)],Neurodegenerative Disorders,disease,C0524851,4137.0,protein-coding,[],0.95,MAPT,D019636,Neurodegenerative Diseases
+[Mental Disorders (F03)],Mental deterioration,disease,C0234985,4137.0,protein-coding,[],0.9,MAPT,D060825,Cognitive Dysfunction
+"[Behavior and Behavior Mechanisms (F01), Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Memory impairment,disease,C0233794,4137.0,protein-coding,[],0.9,MAPT,D008569,Memory Disorders
+[Nervous System Diseases (C10)],Multiple System Atrophy,phenotype,C0393571,4137.0,protein-coding,[],0.85,MAPT,D019578,Multiple System Atrophy
+[Mental Disorders (F03)],Anxiety Disorders,disease,C0003469,4137.0,protein-coding,[],0.85,MAPT,D001008,Anxiety Disorders
+[Nervous System Diseases (C10)],"Epilepsy, Temporal Lobe",disease,C0014556,4137.0,protein-coding,[],0.8,MAPT,D004833,"Epilepsy, Temporal Lobe"
+"[Neoplasms (C04), Urogenital Diseases (C12)]",Malignant neoplasm of prostate,disease,C0376358,4137.0,protein-coding,[],0.8,MAPT,D011471,Prostatic Neoplasms
+"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10), Mental Disorders (F03), Nutritional and Metabolic Diseases (C18)]",Primary Progressive Nonfluent Aphasia,disease,C0751706,4137.0,protein-coding,[],0.8,MAPT,D057178,Primary Progressive Nonfluent Aphasia
+"[Nutritional and Metabolic Diseases (C18), Mental Disorders (F03), Nervous System Diseases (C10)]",Semantic dementia,disease,C0338462,4137.0,protein-coding,[],0.75,MAPT,D057180,Frontotemporal Dementia
+"[Digestive System Diseases (C06), Neoplasms (C04)]",Liver carcinoma,disease,C2239176,4137.0,protein-coding,[],0.7,MAPT,D006528,"Carcinoma, Hepatocellular"
+"[Nervous System Diseases (C10), Mental Disorders (F03), Nutritional and Metabolic Diseases (C18)]",Pallidopontonigral degeneration,disease,C0520716,4137.0,protein-coding,[],0.7,MAPT,C563003,Pallidopontonigral Degeneration
+"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10), Mental Disorders (F03)]",Learning Disabilities,disease,C0751265,4137.0,protein-coding,[],0.65,MAPT,D007859,Learning Disabilities
+"[Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23)]",Ataxia,phenotype,C0004134,4137.0,protein-coding,[],0.65,MAPT,D001259,Ataxia
+"[Cardiovascular Diseases (C14), Pathological Conditions, Signs and Symptoms (C23)]",Atrial Fibrillation,disease,C0004238,4137.0,protein-coding,[],0.65,MAPT,D001281,Atrial Fibrillation
+"[Behavior and Behavior Mechanisms (F01), Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Memory Disorders,disease,C0025261,4137.0,protein-coding,[],0.55,MAPT,D008569,Memory Disorders
+[Musculoskeletal Diseases (C05)],Osteoarthritis of hip,disease,C0029410,4137.0,protein-coding,[],0.55,MAPT,D015207,"Osteoarthritis, Hip"
+"[Pathological Conditions, Signs and Symptoms (C23)]",Weight Loss,phenotype,C1262477,4137.0,protein-coding,[],0.5,MAPT,D015431,Weight Loss
+"[Eye Diseases (C11), Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]","Supranuclear Palsy, Progressive, 1",disease,C4551863,4137.0,protein-coding,[],0.5,MAPT,D013494,"Supranuclear Palsy, Progressive"
+"[Pathological Conditions, Signs and Symptoms (C23)]",Weight Gain,phenotype,C0043094,4137.0,protein-coding,[],0.5,MAPT,D015430,Weight Gain
+[Mental Disorders (F03)],"Delirium, Dementia, Amnestic, Cognitive Disorders",disease,C0029227,4137.0,protein-coding,[],0.45,MAPT,D019965,Neurocognitive Disorders
+"[Eye Diseases (C11), Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]","Supranuclear Palsy, Progressive, 1, Atypical",disease,C1850077,4137.0,protein-coding,[],0.45,MAPT,C537240,Progressive supranuclear palsy atypical
+[Cardiovascular Diseases (C14)],Cardiomyopathies,disease,C0878544,4137.0,protein-coding,[],0.4,MAPT,D009202,Cardiomyopathies
+[Cardiovascular Diseases (C14)],Primary cardiomyopathy,disease,C0033141,4137.0,protein-coding,[],0.4,MAPT,D009202,Cardiomyopathies
+"[Eye Diseases (C11), Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]","Ophthalmoplegia, Progressive Supranuclear",disease,C4551862,4137.0,protein-coding,[],0.4,MAPT,D013494,"Supranuclear Palsy, Progressive"
+[Cardiovascular Diseases (C14)],"Myocardial Diseases, Secondary",disease,C0036529,4137.0,protein-coding,[],0.4,MAPT,D009202,Cardiomyopathies
+"[Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23), Behavior and Behavior Mechanisms (F01)]",Psychomotor Agitation,phenotype,C3887612,4137.0,protein-coding,[],0.4,MAPT,D011595,Psychomotor Agitation
+"[Pathological Conditions, Signs and Symptoms (C23)]",Splenomegaly,phenotype,C0038002,4137.0,protein-coding,[],0.4,MAPT,D013163,Splenomegaly
+"[Mental Disorders (F03), Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Learning Disorders,disease,C0023186,4137.0,protein-coding,[],0.4,MAPT,D007859,Learning Disabilities
+"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]","Alcoholic Intoxication, Chronic",disease,C0001973,1813.0,protein-coding,[G-protein coupled receptor],1.0,DRD2,D000437,Alcoholism
+[Mental Disorders (F03)],Schizophrenia,disease,C0036341,1813.0,protein-coding,[G-protein coupled receptor],1.0,DRD2,D012559,Schizophrenia
+[Behavior and Behavior Mechanisms (F01)],Mental Depression,disease,C0011570,1813.0,protein-coding,[G-protein coupled receptor],0.95,DRD2,D003863,Depression
+"[Nutritional and Metabolic Diseases (C18), Pathological Conditions, Signs and Symptoms (C23)]",Obesity,disease,C0028754,1813.0,protein-coding,[G-protein coupled receptor],0.95,DRD2,D009765,Obesity
+[Nervous System Diseases (C10)],Parkinson Disease,disease,C0030567,1813.0,protein-coding,[G-protein coupled receptor],0.9,DRD2,D010300,Parkinson Disease
+[Mental Disorders (F03)],Bipolar Disorder,disease,C0005586,1813.0,protein-coding,[G-protein coupled receptor],0.9,DRD2,D001714,Bipolar Disorder
+[Mental Disorders (F03)],Depressive disorder,disease,C0011581,1813.0,protein-coding,[G-protein coupled receptor],0.9,DRD2,D003866,Depressive Disorder
+[Nervous System Diseases (C10)],Movement Disorders,disease,C0026650,1813.0,protein-coding,[G-protein coupled receptor],0.85,DRD2,D009069,Movement Disorders
+"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",Cocaine dependence,disease,C0600427,1813.0,protein-coding,[G-protein coupled receptor],0.85,DRD2,D019970,Cocaine-Related Disorders
+[Mental Disorders (F03)],Anxiety Disorders,disease,C0003469,1813.0,protein-coding,[G-protein coupled receptor],0.85,DRD2,D001008,Anxiety Disorders
+[Mental Disorders (F03)],Mood Disorders,disease,C0525045,1813.0,protein-coding,[G-protein coupled receptor],0.8,DRD2,D019964,Mood Disorders
+"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Dystonia,phenotype,C0013421,1813.0,protein-coding,[G-protein coupled receptor],0.8,DRD2,D004421,Dystonia
+[Nervous System Diseases (C10)],Parkinsonian Disorders,disease,C0242422,1813.0,protein-coding,[G-protein coupled receptor],0.8,DRD2,D020734,Parkinsonian Disorders
+"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",Heroin Dependence,disease,C0019337,1813.0,protein-coding,[G-protein coupled receptor],0.8,DRD2,D006556,Heroin Dependence
+[Mental Disorders (F03)],Major Depressive Disorder,disease,C1269683,1813.0,protein-coding,[G-protein coupled receptor],0.8,DRD2,D003865,"Depressive Disorder, Major"
+"[Endocrine System Diseases (C19), Nutritional and Metabolic Diseases (C18)]","Diabetes Mellitus, Non-Insulin-Dependent",disease,C0011860,1813.0,protein-coding,[G-protein coupled receptor],0.8,DRD2,D003924,"Diabetes Mellitus, Type 2"
+"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",Nicotine Dependence,disease,C0028043,1813.0,protein-coding,[G-protein coupled receptor],0.8,DRD2,D014029,Tobacco Use Disorder
+"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",Opiate Addiction,disease,C0524662,1813.0,protein-coding,[G-protein coupled receptor],0.8,DRD2,D009293,Opioid-Related Disorders
+"[Psychological Phenomena (F02), Pathological Conditions, Signs and Symptoms (C23)]",Pain,phenotype,C0030193,1813.0,protein-coding,[G-protein coupled receptor],0.75,DRD2,D010146,Pain
+"[Neoplasms (C04), Nervous System Diseases (C10), Endocrine System Diseases (C19)]",Pituitary Neoplasms,disease,C0032019,1813.0,protein-coding,[G-protein coupled receptor],0.75,DRD2,D010911,Pituitary Neoplasms
+[Mental Disorders (F03)],Unipolar Depression,disease,C0041696,1813.0,protein-coding,[G-protein coupled receptor],0.75,DRD2,D003866,Depressive Disorder
+"[Pathological Conditions, Signs and Symptoms (C23)]",Weight Gain,phenotype,C0043094,1813.0,protein-coding,[G-protein coupled receptor],0.75,DRD2,D015430,Weight Gain
+"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Dyskinetic syndrome,disease,C0013384,1813.0,protein-coding,[G-protein coupled receptor],0.75,DRD2,D020820,Dyskinesias
+"[Endocrine System Diseases (C19), Nervous System Diseases (C10)]",Hyperprolactinemia,disease,C0020514,1813.0,protein-coding,[G-protein coupled receptor],0.75,DRD2,D006966,Hyperprolactinemia
+[Cardiovascular Diseases (C14)],Hypertensive disease,disease,C0020538,1813.0,protein-coding,[G-protein coupled receptor],0.75,DRD2,D006973,Hypertension
+"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",Alcohol abuse,disease,C0085762,1813.0,protein-coding,[G-protein coupled receptor],0.7,DRD2,D000437,Alcoholism
+"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",Marijuana Abuse,disease,C0024809,1813.0,protein-coding,[G-protein coupled receptor],0.7,DRD2,D002189,Marijuana Abuse
+"[Pathological Conditions, Signs and Symptoms (C23), Cardiovascular Diseases (C14)]",Tachycardia,phenotype,C0039231,1813.0,protein-coding,[G-protein coupled receptor],0.7,DRD2,D013610,Tachycardia
+"[Behavior and Behavior Mechanisms (F01), Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Anhedonia,disease,C0178417,1813.0,protein-coding,[G-protein coupled receptor],0.65,DRD2,D059445,Anhedonia
+[Cardiovascular Diseases (C14)],Hypotension,phenotype,C0020649,1813.0,protein-coding,[G-protein coupled receptor],0.65,DRD2,D007022,Hypotension
+"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Catalepsy,disease,C0007370,1813.0,protein-coding,[G-protein coupled receptor],0.65,DRD2,D002375,Catalepsy
+[Nervous System Diseases (C10)],Myoclonic dystonia,disease,C1834570,1813.0,protein-coding,[G-protein coupled receptor],0.65,DRD2,C536096,Myoclonic dystonia
+"[Cardiovascular Diseases (C14), Pathological Conditions, Signs and Symptoms (C23)]",Bradycardia,phenotype,C0428977,1813.0,protein-coding,[G-protein coupled receptor],0.65,DRD2,D001919,Bradycardia
+[Nervous System Diseases (C10)],Migraine with Aura,disease,C0154723,1813.0,protein-coding,[G-protein coupled receptor],0.65,DRD2,D020325,Migraine with Aura
+"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",Cocaine abuse,disease,C0009171,1813.0,protein-coding,[G-protein coupled receptor],0.65,DRD2,D019970,Cocaine-Related Disorders
+"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",Cannabis Dependence,disease,C0006870,1813.0,protein-coding,[G-protein coupled receptor],0.65,DRD2,D002189,Marijuana Abuse
+"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Language Disorders,disease,C0023015,1813.0,protein-coding,[G-protein coupled receptor],0.6,DRD2,D007806,Language Disorders
+[Mental Disorders (F03)],"Disruptive, Impulse Control, and Conduct Disorders",disease,C0021122,1813.0,protein-coding,[G-protein coupled receptor],0.6,DRD2,D007174,"Disruptive, Impulse Control, and Conduct Disorders"
+"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10), Mental Disorders (F03), Behavior and Behavior Mechanisms (F01)]",Delirium,disease,C0011206,1813.0,protein-coding,[G-protein coupled receptor],0.6,DRD2,D003693,Delirium
+[Mental Disorders (F03)],Attention Deficit Disorder,disease,C0041671,1813.0,protein-coding,[G-protein coupled receptor],0.6,DRD2,D001289,Attention Deficit Disorder with Hyperactivity
+"[Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23)]",Hyperkinesia,disease,C3887506,1813.0,protein-coding,[G-protein coupled receptor],0.55,DRD2,D006948,Hyperkinesis
+"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",Cocaine-Related Disorders,disease,C0236736,1813.0,protein-coding,[G-protein coupled receptor],0.55,DRD2,D019970,Cocaine-Related Disorders
+"[Pathological Conditions, Signs and Symptoms (C23), Urogenital Diseases (C12)]","Kidney Failure, Chronic",disease,C0022661,1813.0,protein-coding,[G-protein coupled receptor],0.55,DRD2,D007676,"Kidney Failure, Chronic"
+"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10), Chemically-Induced Disorders (C25)]","Dyskinesia, Drug-Induced",disease,C0013386,1813.0,protein-coding,[G-protein coupled receptor],0.45,DRD2,D004409,"Dyskinesia, Drug-Induced"
+"[Behavior and Behavior Mechanisms (F01), Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Memory Disorders,disease,C0025261,1813.0,protein-coding,[G-protein coupled receptor],0.4,DRD2,D008569,Memory Disorders
+[Mental Disorders (F03)],"Delirium, Dementia, Amnestic, Cognitive Disorders",disease,C0029227,1813.0,protein-coding,[G-protein coupled receptor],0.4,DRD2,D019965,Neurocognitive Disorders
+"[Urogenital Diseases (C12), Skin and Connective Tissue Diseases (C17)]",Chiari-Frommel Syndrome,disease,C0008043,1813.0,protein-coding,[G-protein coupled receptor],0.4,DRD2,D002640,Chiari-Frommel Syndrome
+[Mental Disorders (F03)],Developmental Disabilities,disease,C0008073,1813.0,protein-coding,[G-protein coupled receptor],0.4,DRD2,D002658,Developmental Disabilities
+"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",Substance-Related Disorders,disease,C0236969,1813.0,protein-coding,[G-protein coupled receptor],0.4,DRD2,D019966,Substance-Related Disorders
+[Nervous System Diseases (C10)],Basal Ganglia Diseases,disease,C0004782,1813.0,protein-coding,[G-protein coupled receptor],0.4,DRD2,D001480,Basal Ganglia Diseases
+[Nervous System Diseases (C10)],Parkinson Disease,disease,C0030567,4129.0,protein-coding,[],1.0,MAOB,D010300,Parkinson Disease
+"[Nervous System Diseases (C10), Mental Disorders (F03)]",Alzheimer's Disease,disease,C0002395,4129.0,protein-coding,[],0.95,MAOB,D000544,Alzheimer Disease
+[Behavior and Behavior Mechanisms (F01)],Mental Depression,disease,C0011570,4129.0,protein-coding,[],0.85,MAOB,D003863,Depression
+[Mental Disorders (F03)],Depressive disorder,disease,C0011581,4129.0,protein-coding,[],0.85,MAOB,D003866,Depressive Disorder
+[Mental Disorders (F03)],Major Depressive Disorder,disease,C1269683,4129.0,protein-coding,[],0.75,MAOB,D003865,"Depressive Disorder, Major"
+[Mental Disorders (F03)],Schizophrenia,disease,C0036341,4129.0,protein-coding,[],0.75,MAOB,D012559,Schizophrenia
+"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]","Alcoholic Intoxication, Chronic",disease,C0001973,4129.0,protein-coding,[],0.7,MAOB,D000437,Alcoholism
+[Mental Disorders (F03)],Bipolar Disorder,disease,C0005586,4129.0,protein-coding,[],0.7,MAOB,D001714,Bipolar Disorder
+[Mental Disorders (F03)],Autistic Disorder,disease,C0004352,4129.0,protein-coding,[],0.65,MAOB,D001321,Autistic Disorder
+[Mental Disorders (F03)],Unipolar Depression,disease,C0041696,4129.0,protein-coding,[],0.65,MAOB,D003866,Depressive Disorder
+[Mental Disorders (F03)],Mood Disorders,disease,C0525045,4129.0,protein-coding,[],0.6,MAOB,D019964,Mood Disorders
+"[Nutritional and Metabolic Diseases (C18), Digestive System Diseases (C06), Nervous System Diseases (C10)]",Hepatic Encephalopathy,disease,C0019151,4129.0,protein-coding,[],0.55,MAOB,D006501,Hepatic Encephalopathy
+"[Mental Disorders (F03), Nervous System Diseases (C10), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16)]",Huntington Disease,disease,C0020179,4129.0,protein-coding,[],0.5,MAOB,D006816,Huntington Disease
+"[Pathological Conditions, Signs and Symptoms (C23)]","Plaque, Amyloid",disease,C2936349,4129.0,protein-coding,[],0.5,MAOB,D058225,"Plaque, Amyloid"
+[Neoplasms (C04)],Extraadrenal pheochromocytoma,disease,C1257877,4129.0,protein-coding,[],0.4,MAOB,D010673,Pheochromocytoma
+[Urogenital Diseases (C12)],Endometriosis,disease,C0014175,4129.0,protein-coding,[],0.4,MAOB,D004715,Endometriosis
+"[Neoplasms (C04), Digestive System Diseases (C06)]",Colonic Neoplasms,disease,C0009375,4129.0,protein-coding,[],0.4,MAOB,D003110,Colonic Neoplasms
+[Hemic and Lymphatic Diseases (C15)],"Anemia, Megaloblastic",disease,C0002888,4129.0,protein-coding,[],0.4,MAOB,D000749,"Anemia, Megaloblastic"
+[Cardiovascular Diseases (C14)],Hypotension,phenotype,C0020649,4129.0,protein-coding,[],0.4,MAOB,D007022,Hypotension
+[Neoplasms (C04)],Pheochromocytoma,disease,C0031511,4129.0,protein-coding,[],0.4,MAOB,D010673,Pheochromocytoma
+[Nervous System Diseases (C10)],Parkinson Disease,disease,C0030567,120892.0,protein-coding,[Kinase],1.0,LRRK2,D010300,Parkinson Disease
+[Nervous System Diseases (C10)],Parkinsonian Disorders,disease,C0242422,120892.0,protein-coding,[Kinase],1.0,LRRK2,D020734,Parkinsonian Disorders
+"[Nutritional and Metabolic Diseases (C18), Mental Disorders (F03), Nervous System Diseases (C10)]",Frontotemporal dementia,disease,C0338451,120892.0,protein-coding,[Kinase],0.6,LRRK2,D057180,Frontotemporal Dementia
+"[Pathological Conditions, Signs and Symptoms (C23)]",Nerve Degeneration,phenotype,C0027746,120892.0,protein-coding,[Kinase],0.5,LRRK2,D009410,Nerve Degeneration
+"[Nervous System Diseases (C10), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16)]","Ataxia, Spinocerebellar",disease,C0087012,120892.0,protein-coding,[Kinase],0.5,LRRK2,D020754,Spinocerebellar Ataxias
+[Digestive System Diseases (C06)],Crohn's disease of large bowel,disease,C0156147,120892.0,protein-coding,[Kinase],0.45,LRRK2,D003424,Crohn Disease
+"[Pathological Conditions, Signs and Symptoms (C23)]",Weight Loss,phenotype,C1262477,120892.0,protein-coding,[Kinase],0.45,LRRK2,D015431,Weight Loss
+"[Musculoskeletal Diseases (C05), Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Muscle Rigidity,phenotype,C0026837,120892.0,protein-coding,[Kinase],0.45,LRRK2,D009127,Muscle Rigidity
+[Urogenital Diseases (C12)],Endometriosis,disease,C0014175,120892.0,protein-coding,[Kinase],0.4,LRRK2,D004715,Endometriosis
+"[Musculoskeletal Diseases (C05), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16)]","KLIPPEL-FEIL SYNDROME, AUTOSOMAL DOMINANT",disease,C1861689,120892.0,protein-coding,[Kinase],0.4,LRRK2,C536887,Klippel Feil syndrome dominant type
+"[Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23), Behavior and Behavior Mechanisms (F01)]",Psychomotor Disorders,disease,C0033922,120892.0,protein-coding,[Kinase],0.4,LRRK2,D011596,Psychomotor Disorders
+[Eye Diseases (C11)],Blepharoptosis,disease,C0005745,120892.0,protein-coding,[Kinase],0.4,LRRK2,D001763,Blepharoptosis
+[Mental Disorders (F03)],Motor Disorders,disease,C0221163,120892.0,protein-coding,[Kinase],0.4,LRRK2,D000068079,Motor Disorders
+"[Urogenital Diseases (C12), Neoplasms (C04)]",Renal Cell Carcinoma,disease,C0007134,120892.0,protein-coding,[Kinase],0.4,LRRK2,D002292,"Carcinoma, Renal Cell"
+[Nervous System Diseases (C10)],"Parkinsonism-Dystonia, Infantile",disease,C2751067,6531.0,protein-coding,[Transporter],0.95,SLC6A3,C567730,"Parkinsonism-Dystonia, Infantile"
+[Nervous System Diseases (C10)],Parkinson Disease,disease,C0030567,6531.0,protein-coding,[Transporter],0.95,SLC6A3,D010300,Parkinson Disease
+[Mental Disorders (F03)],Schizophrenia,disease,C0036341,6531.0,protein-coding,[Transporter],0.9,SLC6A3,D012559,Schizophrenia
+[Mental Disorders (F03)],Depressive disorder,disease,C0011581,6531.0,protein-coding,[Transporter],0.85,SLC6A3,D003866,Depressive Disorder
+[Behavior and Behavior Mechanisms (F01)],Mental Depression,disease,C0011570,6531.0,protein-coding,[Transporter],0.85,SLC6A3,D003863,Depression
+"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]","Alcoholic Intoxication, Chronic",disease,C0001973,6531.0,protein-coding,[Transporter],0.85,SLC6A3,D000437,Alcoholism
+"[Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23)]",Hyperkinesia,disease,C3887506,6531.0,protein-coding,[Transporter],0.8,SLC6A3,D006948,Hyperkinesis
+[Nervous System Diseases (C10)],nervous system disorder,disease,C0027765,6531.0,protein-coding,[Transporter],0.75,SLC6A3,D009422,Nervous System Diseases
+"[Nutritional and Metabolic Diseases (C18), Pathological Conditions, Signs and Symptoms (C23)]",Obesity,disease,C0028754,6531.0,protein-coding,[Transporter],0.75,SLC6A3,D009765,Obesity
+[Mental Disorders (F03)],Anxiety Disorders,disease,C0003469,6531.0,protein-coding,[Transporter],0.75,SLC6A3,D001008,Anxiety Disorders
+"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",Cocaine dependence,disease,C0600427,6531.0,protein-coding,[Transporter],0.75,SLC6A3,D019970,Cocaine-Related Disorders
+[Mental Disorders (F03)],Attention Deficit Disorder,disease,C0041671,6531.0,protein-coding,[Transporter],0.75,SLC6A3,D001289,Attention Deficit Disorder with Hyperactivity
+[Mental Disorders (F03)],Bipolar Disorder,disease,C0005586,6531.0,protein-coding,[Transporter],0.75,SLC6A3,D001714,Bipolar Disorder
+"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",Nicotine Dependence,disease,C0028043,6531.0,protein-coding,[Transporter],0.7,SLC6A3,D014029,Tobacco Use Disorder
+"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",Alcohol abuse,disease,C0085762,6531.0,protein-coding,[Transporter],0.7,SLC6A3,D000437,Alcoholism
+"[Nervous System Diseases (C10), Mental Disorders (F03)]",Tic disorder,disease,C0040188,6531.0,protein-coding,[Transporter],0.65,SLC6A3,D013981,Tic Disorders
+"[Behavior and Behavior Mechanisms (F01), Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Anhedonia,disease,C0178417,6531.0,protein-coding,[Transporter],0.65,SLC6A3,D059445,Anhedonia
+[Mental Disorders (F03)],Mood Disorders,disease,C0525045,6531.0,protein-coding,[Transporter],0.65,SLC6A3,D019964,Mood Disorders
+"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",Cocaine abuse,disease,C0009171,6531.0,protein-coding,[Transporter],0.65,SLC6A3,D019970,Cocaine-Related Disorders
+[Mental Disorders (F03)],Mild cognitive disorder,disease,C1270972,6531.0,protein-coding,[Transporter],0.65,SLC6A3,D060825,Cognitive Dysfunction
+"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10), Mental Disorders (F03)]",Dyslexia,disease,C0476254,6531.0,protein-coding,[Transporter],0.6,SLC6A3,D004410,Dyslexia
+"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10), Chemically-Induced Disorders (C25)]",Alcohol Withdrawal Seizures,disease,C0586323,6531.0,protein-coding,[Transporter],0.6,SLC6A3,D020270,Alcohol Withdrawal Seizures
+"[Skin and Connective Tissue Diseases (C17), Neoplasms (C04)]",Malignant neoplasm of breast,disease,C0006142,6531.0,protein-coding,[Transporter],0.6,SLC6A3,D001943,Breast Neoplasms
+[Mental Disorders (F03)],Paranoia,disease,C1456784,6531.0,protein-coding,[Transporter],0.6,SLC6A3,D010259,Paranoid Disorders
+"[Chemically-Induced Disorders (C25), Nervous System Diseases (C10), Mental Disorders (F03)]",Alcohol Withdrawal Delirium,disease,C0001957,6531.0,protein-coding,[Transporter],0.6,SLC6A3,D000430,Alcohol Withdrawal Delirium
+"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10), Mental Disorders (F03), Behavior and Behavior Mechanisms (F01)]",Delirium,disease,C0011206,6531.0,protein-coding,[Transporter],0.6,SLC6A3,D003693,Delirium
+"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Limb dystonia,phenotype,C0751093,6531.0,protein-coding,[Transporter],0.45,SLC6A3,D004421,Dystonia
+"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",Cocaine-Related Disorders,disease,C0236736,6531.0,protein-coding,[Transporter],0.4,SLC6A3,D019970,Cocaine-Related Disorders
+"[Pathological Conditions, Signs and Symptoms (C23)]",Difficulty walking,phenotype,C0311394,6531.0,protein-coding,[Transporter],0.4,SLC6A3,D051346,Mobility Limitation
+"[Behavior and Behavior Mechanisms (F01), Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Memory Disorders,disease,C0025261,6531.0,protein-coding,[Transporter],0.4,SLC6A3,D008569,Memory Disorders
+"[Otorhinolaryngologic Diseases (C09), Digestive System Diseases (C06)]",Deglutition Disorders,disease,C0011168,6531.0,protein-coding,[Transporter],0.4,SLC6A3,D003680,Deglutition Disorders
+"[Pathological Conditions, Signs and Symptoms (C23)]",Nerve Degeneration,phenotype,C0027746,6531.0,protein-coding,[Transporter],0.4,SLC6A3,D009410,Nerve Degeneration
+[Nervous System Diseases (C10)],Parkinson Disease,disease,C0030567,2629.0,protein-coding,[],1.0,GBA1,D010300,Parkinson Disease
+"[Nutritional and Metabolic Diseases (C18), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16), Nervous System Diseases (C10)]","Gaucher Disease, Type 1",disease,C1961835,2629.0,protein-coding,[],1.0,GBA1,D005776,Gaucher Disease
+"[Nervous System Diseases (C10), Nutritional and Metabolic Diseases (C18), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16)]",Gaucher Disease,disease,C0017205,2629.0,protein-coding,[],1.0,GBA1,D005776,Gaucher Disease
+"[Nutritional and Metabolic Diseases (C18), Nervous System Diseases (C10), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16)]","Gaucher Disease, Type 3",disease,C0268251,2629.0,protein-coding,[],1.0,GBA1,D005776,Gaucher Disease
+"[Mental Disorders (F03), Nervous System Diseases (C10)]",Lewy Body Disease,disease,C0752347,2629.0,protein-coding,[],1.0,GBA1,D020961,Lewy Body Disease
+"[Nervous System Diseases (C10), Mental Disorders (F03)]",Dementia,disease,C0497327,2629.0,protein-coding,[],1.0,GBA1,D003704,Dementia
+[Nervous System Diseases (C10)],Parkinsonian Disorders,disease,C0242422,2629.0,protein-coding,[],1.0,GBA1,D020734,Parkinsonian Disorders
+"[Nutritional and Metabolic Diseases (C18), Nervous System Diseases (C10), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16)]","Gaucher Disease, Type 2",disease,C0268250,2629.0,protein-coding,[],0.95,GBA1,D005776,Gaucher Disease
+"[Nervous System Diseases (C10), Nutritional and Metabolic Diseases (C18), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16)]","GAUCHER DISEASE, PERINATAL LETHAL",disease,C1842704,2629.0,protein-coding,[],0.9,GBA1,C564306,"Gaucher Disease, Perinatal Lethal"
+[Hemic and Lymphatic Diseases (C15)],Thrombocytopenia,disease,C0040034,2629.0,protein-coding,[],0.8,GBA1,D013921,Thrombocytopenia
+"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Tremor,phenotype,C0040822,2629.0,protein-coding,[],0.65,GBA1,D014202,Tremor
+[Nervous System Diseases (C10)],Movement Disorders,disease,C0026650,2629.0,protein-coding,[],0.65,GBA1,D009069,Movement Disorders
+"[Nutritional and Metabolic Diseases (C18), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16), Nervous System Diseases (C10)]",Gaucher-like disease,disease,C2931585,2629.0,protein-coding,[],0.6,GBA1,C537675,Gaucher-like disease
+"[Nutritional and Metabolic Diseases (C18), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16), Nervous System Diseases (C10)]","Gaucher Disease, Type Iiic",disease,C1856476,2629.0,protein-coding,[],0.6,GBA1,C565553,"Gaucher Disease, Type Iiic"
+"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Resting tremor,phenotype,C0234379,2629.0,protein-coding,[],0.55,GBA1,D014202,Tremor
+"[Musculoskeletal Diseases (C05), Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Muscle Rigidity,phenotype,C0026837,2629.0,protein-coding,[],0.55,GBA1,D009127,Muscle Rigidity
+[Cardiovascular Diseases (C14)],Hypertensive disease,disease,C0020538,2629.0,protein-coding,[],0.45,GBA1,D006973,Hypertension
+"[Nervous System Diseases (C10), Hemic and Lymphatic Diseases (C15), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16)]",Alpha thalassemia X-linked intellectual disability syndrome,disease,C1845055,2629.0,protein-coding,[],0.4,GBA1,C538258,ATR-X syndrome
+"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10), Musculoskeletal Diseases (C05)]",Cogwheel muscle rigidity,phenotype,C0151564,2629.0,protein-coding,[],0.4,GBA1,D009127,Muscle Rigidity
+[Nutritional and Metabolic Diseases (C18)],Hyperlipidemia,disease,C0020473,2629.0,protein-coding,[],0.4,GBA1,D006949,Hyperlipidemias
+[Neoplasms (C04)],Hepatoblastoma,disease,C0206624,2629.0,protein-coding,[],0.4,GBA1,D018197,Hepatoblastoma
+"[Respiratory Tract Diseases (C08), Cardiovascular Diseases (C14)]",Pulmonary Hypertension,phenotype,C0020542,2629.0,protein-coding,[],0.4,GBA1,D006976,"Hypertension, Pulmonary"
+"[Urogenital Diseases (C12), Endocrine System Diseases (C19), Neoplasms (C04)]",ovarian neoplasm,disease,C0919267,207.0,protein-coding,[Kinase],1.0,AKT1,D010051,Ovarian Neoplasms
+"[Neoplasms (C04), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16), Musculoskeletal Diseases (C05)]",Proteus Syndrome,disease,C0085261,207.0,protein-coding,[Kinase],1.0,AKT1,D016715,Proteus Syndrome
+"[Neoplasms (C04), Skin and Connective Tissue Diseases (C17)]",Mammary Neoplasms,disease,C1458155,207.0,protein-coding,[Kinase],1.0,AKT1,D001943,Breast Neoplasms
+"[Neoplasms (C04), Digestive System Diseases (C06)]",Colorectal Neoplasms,disease,C0009404,207.0,protein-coding,[Kinase],0.95,AKT1,D015179,Colorectal Neoplasms
+"[Skin and Connective Tissue Diseases (C17), Neoplasms (C04)]",Malignant neoplasm of breast,disease,C0006142,207.0,protein-coding,[Kinase],0.95,AKT1,D001943,Breast Neoplasms
+"[Neoplasms (C04), Urogenital Diseases (C12)]",Prostatic Neoplasms,disease,C0033578,207.0,protein-coding,[Kinase],0.9,AKT1,D011471,Prostatic Neoplasms
+"[Urogenital Diseases (C12), Endocrine System Diseases (C19), Neoplasms (C04)]",Malignant neoplasm of ovary,disease,C1140680,207.0,protein-coding,[Kinase],0.9,AKT1,D010051,Ovarian Neoplasms
+"[Endocrine System Diseases (C19), Nutritional and Metabolic Diseases (C18)]","Diabetes Mellitus, Non-Insulin-Dependent",disease,C0011860,207.0,protein-coding,[Kinase],0.9,AKT1,D003924,"Diabetes Mellitus, Type 2"
+"[Pathological Conditions, Signs and Symptoms (C23)]",Inflammation,phenotype,C0021368,207.0,protein-coding,[Kinase],0.9,AKT1,D007249,Inflammation
+"[Respiratory Tract Diseases (C08), Neoplasms (C04)]",Lung Neoplasms,disease,C0024121,207.0,protein-coding,[Kinase],0.9,AKT1,D008175,Lung Neoplasms
+"[Neoplasms (C04), Nervous System Diseases (C10)]",Meningioma,disease,C0025286,207.0,protein-coding,[Kinase],0.85,AKT1,D008579,Meningioma
+"[Nutritional and Metabolic Diseases (C18), Pathological Conditions, Signs and Symptoms (C23)]",Obesity,disease,C0028754,207.0,protein-coding,[Kinase],0.85,AKT1,D009765,Obesity
+[Mental Disorders (F03)],Schizophrenia,disease,C0036341,207.0,protein-coding,[Kinase],0.85,AKT1,D012559,Schizophrenia
+"[Neoplasms (C04), Digestive System Diseases (C06), Endocrine System Diseases (C19)]",Pancreatic Neoplasm,disease,C0030297,207.0,protein-coding,[Kinase],0.85,AKT1,D010190,Pancreatic Neoplasms
+[Neoplasms (C04)],Squamous cell carcinoma,disease,C0007137,207.0,protein-coding,[Kinase],0.8,AKT1,D002294,"Carcinoma, Squamous Cell"
+[Mental Disorders (F03)],Bipolar Disorder,disease,C0005586,207.0,protein-coding,[Kinase],0.8,AKT1,D001714,Bipolar Disorder
+[Nervous System Diseases (C10)],Parkinson Disease,disease,C0030567,207.0,protein-coding,[Kinase],0.8,AKT1,D010300,Parkinson Disease
+"[Neoplasms (C04), Digestive System Diseases (C06)]",Malignant tumor of colon,disease,C0007102,207.0,protein-coding,[Kinase],0.8,AKT1,D003110,Colonic Neoplasms
+"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",Marijuana Abuse,disease,C0024809,207.0,protein-coding,[Kinase],0.8,AKT1,D002189,Marijuana Abuse
+[Neoplasms (C04)],Adenocarcinoma of lung (disorder),disease,C0152013,207.0,protein-coding,[Kinase],0.75,AKT1,D000077192,Adenocarcinoma of Lung
+[Mental Disorders (F03)],Depressive disorder,disease,C0011581,207.0,protein-coding,[Kinase],0.75,AKT1,D003866,Depressive Disorder
+"[Digestive System Diseases (C06), Neoplasms (C04)]",Liver carcinoma,disease,C2239176,207.0,protein-coding,[Kinase],0.75,AKT1,D006528,"Carcinoma, Hepatocellular"
+"[Pathological Conditions, Signs and Symptoms (C23), Neoplasms (C04)]",Carcinogenesis,disease,C0596263,207.0,protein-coding,[Kinase],0.75,AKT1,D063646,Carcinogenesis
+"[Neoplasms (C04), Urogenital Diseases (C12)]",Malignant neoplasm of prostate,disease,C0376358,207.0,protein-coding,[Kinase],0.75,AKT1,D011471,Prostatic Neoplasms
+[Behavior and Behavior Mechanisms (F01)],Mental Depression,disease,C0011570,207.0,protein-coding,[Kinase],0.75,AKT1,D003863,Depression
+[Digestive System Diseases (C06)],Non-alcoholic Fatty Liver Disease,disease,C0400966,207.0,protein-coding,[Kinase],0.7,AKT1,D065626,Non-alcoholic Fatty Liver Disease
+"[Hemic and Lymphatic Diseases (C15), Neoplasms (C04), Pathological Conditions, Signs and Symptoms (C23)]",Philadelphia chromosome positive chronic myelogenous leukemia,disease,C0279543,207.0,protein-coding,[Kinase],0.7,AKT1,D015464,"Leukemia, Myelogenous, Chronic, BCR-ABL Positive"
+"[Neoplasms (C04), Urogenital Diseases (C12)]",Malignant neoplasm of urinary bladder,disease,C0005684,207.0,protein-coding,[Kinase],0.7,AKT1,D001749,Urinary Bladder Neoplasms
+[Neoplasms (C04)],Squamous cell carcinoma of the head and neck,disease,C1168401,207.0,protein-coding,[Kinase],0.7,AKT1,D000077195,Squamous Cell Carcinoma of Head and Neck
+[Neoplasms (C04)],Adenocarcinoma,disease,C0001418,207.0,protein-coding,[Kinase],0.7,AKT1,D000230,Adenocarcinoma
+"[Neoplasms (C04), Skin and Connective Tissue Diseases (C17)]",Skin Neoplasms,disease,C0037286,207.0,protein-coding,[Kinase],0.7,AKT1,D012878,Skin Neoplasms
+[Nervous System Diseases (C10)],Epilepsy,disease,C0014544,207.0,protein-coding,[Kinase],0.7,AKT1,D004827,Epilepsy
+"[Urogenital Diseases (C12), Neoplasms (C04)]",Bladder Neoplasm,disease,C0005695,207.0,protein-coding,[Kinase],0.7,AKT1,D001749,Urinary Bladder Neoplasms
+"[Psychological Phenomena (F02), Pathological Conditions, Signs and Symptoms (C23)]",Pain,phenotype,C0030193,207.0,protein-coding,[Kinase],0.65,AKT1,D010146,Pain
+"[Pathological Conditions, Signs and Symptoms (C23)]",Fibrosis,phenotype,C0016059,207.0,protein-coding,[Kinase],0.65,AKT1,D005355,Fibrosis
+"[Pathological Conditions, Signs and Symptoms (C23)]",Hyperplasia,phenotype,C0020507,207.0,protein-coding,[Kinase],0.65,AKT1,D006965,Hyperplasia
+[Digestive System Diseases (C06)],Nonalcoholic steatohepatitis,disease,C3241937,207.0,protein-coding,[Kinase],0.65,AKT1,D065626,Non-alcoholic Fatty Liver Disease
+[Mental Disorders (F03)],Mood Disorders,disease,C0525045,207.0,protein-coding,[Kinase],0.6,AKT1,D019964,Mood Disorders
+"[Neoplasms (C04), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16)]","Hamartoma Syndrome, Multiple",disease,C0018553,207.0,protein-coding,[Kinase],0.6,AKT1,D006223,"Hamartoma Syndrome, Multiple"
+"[Infections (C01), Respiratory Tract Diseases (C08)]","Tuberculosis, Pulmonary",disease,C0041327,207.0,protein-coding,[Kinase],0.55,AKT1,D014397,"Tuberculosis, Pulmonary"
+[Digestive System Diseases (C06)],Fatty Liver,disease,C0015695,207.0,protein-coding,[Kinase],0.5,AKT1,D005234,Fatty Liver
+[Cardiovascular Diseases (C14)],Cardiomyopathies,disease,C0878544,207.0,protein-coding,[Kinase],0.5,AKT1,D009202,Cardiomyopathies
+"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Muscular Atrophy,phenotype,C0026846,207.0,protein-coding,[Kinase],0.5,AKT1,D009133,Muscular Atrophy
+[Neoplasms (C04)],Malignant Squamous Cell Neoplasm,disease,C0751688,207.0,protein-coding,[Kinase],0.5,AKT1,D018307,"Neoplasms, Squamous Cell"
+"[Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16), Neoplasms (C04), Digestive System Diseases (C06)]",Adenomatous Polyposis Coli,disease,C0032580,207.0,protein-coding,[Kinase],0.5,AKT1,D011125,Adenomatous Polyposis Coli
+"[Neoplasms (C04), Skin and Connective Tissue Diseases (C17)]","Breast Cancer, Familial",disease,C0346153,207.0,protein-coding,[Kinase],0.5,AKT1,C562840,"Breast Cancer, Familial"
+[Mental Disorders (F03)],"Bipolar I disorder, most recent episode manic (disorder)",disease,C0024713,207.0,protein-coding,[Kinase],0.45,AKT1,D001714,Bipolar Disorder
+[Mental Disorders (F03)],"Depression, Bipolar",disease,C0005587,207.0,protein-coding,[Kinase],0.45,AKT1,D001714,Bipolar Disorder
+"[Pathological Conditions, Signs and Symptoms (C23), Cardiovascular Diseases (C14)]",Cardiomegaly,phenotype,C0018800,207.0,protein-coding,[Kinase],0.45,AKT1,D006332,Cardiomegaly
+"[Digestive System Diseases (C06), Pathological Conditions, Signs and Symptoms (C23)]",Hepatomegaly,phenotype,C0019209,207.0,protein-coding,[Kinase],0.4,AKT1,D006529,Hepatomegaly
+[Cardiovascular Diseases (C14)],Primary cardiomyopathy,disease,C0033141,207.0,protein-coding,[Kinase],0.4,AKT1,D009202,Cardiomyopathies
+[Nutritional and Metabolic Diseases (C18)],Hypertriglyceridemia,disease,C0020557,207.0,protein-coding,[Kinase],0.4,AKT1,D015228,Hypertriglyceridemia
+"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",Cannabis Abuse,disease,C0006868,207.0,protein-coding,[Kinase],0.4,AKT1,D002189,Marijuana Abuse
+"[Neoplasms (C04), Hemic and Lymphatic Diseases (C15), Immune System Diseases (C20)]",T-Cell Lymphoma,disease,C0079772,207.0,protein-coding,[Kinase],0.4,AKT1,D016399,"Lymphoma, T-Cell"
+"[Nutritional and Metabolic Diseases (C18), Cardiovascular Diseases (C14)]",Aortic valve calcification,disease,C0428791,207.0,protein-coding,[Kinase],0.4,AKT1,C562942,"Aortic Valve, Calcification of"
+"[Chemically-Induced Disorders (C25), Digestive System Diseases (C06)]","Fatty Liver, Alcoholic",disease,C0015696,207.0,protein-coding,[Kinase],0.4,AKT1,D005235,"Fatty Liver, Alcoholic"
+"[Hemic and Lymphatic Diseases (C15), Neoplasms (C04)]",Acute Promyelocytic Leukemia,disease,C0023487,207.0,protein-coding,[Kinase],0.4,AKT1,D015473,"Leukemia, Promyelocytic, Acute"
+[Cardiovascular Diseases (C14)],"Myocardial Diseases, Secondary",disease,C0036529,207.0,protein-coding,[Kinase],0.4,AKT1,D009202,Cardiomyopathies
+"[Mental Disorders (F03), Nervous System Diseases (C10)]",Lewy Body Disease,disease,C0752347,6622.0,protein-coding,[Transporter],1.0,SNCA,D020961,Lewy Body Disease
+[Nervous System Diseases (C10)],Parkinson Disease,disease,C0030567,6622.0,protein-coding,[Transporter],1.0,SNCA,D010300,Parkinson Disease
+[Nervous System Diseases (C10)],Parkinsonian Disorders,disease,C0242422,6622.0,protein-coding,[Transporter],1.0,SNCA,D020734,Parkinsonian Disorders
+"[Nervous System Diseases (C10), Mental Disorders (F03)]",Alzheimer's Disease,disease,C0002395,6622.0,protein-coding,[Transporter],1.0,SNCA,D000544,Alzheimer Disease
+"[Nervous System Diseases (C10), Nutritional and Metabolic Diseases (C18)]",Synucleinopathies,disease,C5191670,6622.0,protein-coding,[Transporter],0.95,SNCA,D000080874,Synucleinopathies
+[Nervous System Diseases (C10)],Neurodegenerative Disorders,disease,C0524851,6622.0,protein-coding,[Transporter],0.95,SNCA,D019636,Neurodegenerative Diseases
+"[Nervous System Diseases (C10), Nutritional and Metabolic Diseases (C18), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16)]",Gaucher Disease,disease,C0017205,6622.0,protein-coding,[Transporter],0.85,SNCA,D005776,Gaucher Disease
+"[Mental Disorders (F03), Nervous System Diseases (C10)]","Parkinson Disease 4, Autosomal Dominant Lewy Body",disease,C1854182,6622.0,protein-coding,[Transporter],0.75,SNCA,C565324,"Parkinson Disease 4, Autosomal Dominant Lewy Body"
+"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]","Alcoholic Intoxication, Chronic",disease,C0001973,6622.0,protein-coding,[Transporter],0.75,SNCA,D000437,Alcoholism
+"[Pathological Conditions, Signs and Symptoms (C23)]",Weight Loss,phenotype,C1262477,6622.0,protein-coding,[Transporter],0.7,SNCA,D015431,Weight Loss
+"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",Alcohol abuse,disease,C0085762,6622.0,protein-coding,[Transporter],0.65,SNCA,D000437,Alcoholism
+"[Nervous System Diseases (C10), Mental Disorders (F03), Cardiovascular Diseases (C14)]","Dementia, Vascular",disease,C0011269,6622.0,protein-coding,[Transporter],0.65,SNCA,D015140,"Dementia, Vascular"
+"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10), Behavior and Behavior Mechanisms (F01)]",Neurobehavioral Manifestations,phenotype,C0525041,6622.0,protein-coding,[Transporter],0.65,SNCA,D019954,Neurobehavioral Manifestations
+[Nervous System Diseases (C10)],Secondary Parkinson Disease,disease,C0030569,6622.0,protein-coding,[Transporter],0.65,SNCA,D010302,"Parkinson Disease, Secondary"
+"[Nervous System Diseases (C10), Chemically-Induced Disorders (C25)]",Manganese Poisoning,disease,C0677050,6622.0,protein-coding,[Transporter],0.6,SNCA,D020149,Manganese Poisoning
+"[Eye Diseases (C11), Nervous System Diseases (C10)]",Pallidopyramidal syndrome,disease,C1850100,6622.0,protein-coding,[Transporter],0.6,SNCA,C538104,Pallidopyramidal syndrome
+"[Pathological Conditions, Signs and Symptoms (C23)]",Nerve Degeneration,phenotype,C0027746,6622.0,protein-coding,[Transporter],0.5,SNCA,D009410,Nerve Degeneration
+"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",Cocaine-Related Disorders,disease,C0236736,6622.0,protein-coding,[Transporter],0.45,SNCA,D019970,Cocaine-Related Disorders
+[Cardiovascular Diseases (C14)],Congestive heart failure,disease,C0018802,6622.0,protein-coding,[Transporter],0.4,SNCA,D006333,Heart Failure
+[Cardiovascular Diseases (C14)],Heart failure,disease,C0018801,6622.0,protein-coding,[Transporter],0.4,SNCA,D006333,Heart Failure
+"[Nutritional and Metabolic Diseases (C18), Digestive System Diseases (C06), Nervous System Diseases (C10), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16)]",Hepatolenticular Degeneration,disease,C0019202,6622.0,protein-coding,[Transporter],0.4,SNCA,D006527,Hepatolenticular Degeneration
+"[Nervous System Diseases (C10), Pathological Conditions, Signs and Symptoms (C23)]",Ataxia,phenotype,C0004134,6622.0,protein-coding,[Transporter],0.4,SNCA,D001259,Ataxia
+[Nervous System Diseases (C10)],Parkinson Disease,disease,C0030567,4929.0,protein-coding,[Nuclear receptor],1.0,NR4A2,D010300,Parkinson Disease
+[Mental Disorders (F03)],Schizophrenia,disease,C0036341,4929.0,protein-coding,[Nuclear receptor],0.8,NR4A2,D012559,Schizophrenia
+[Nervous System Diseases (C10)],Epilepsy,disease,C0014544,4929.0,protein-coding,[Nuclear receptor],0.7,NR4A2,D004827,Epilepsy
+[Mental Disorders (F03)],Autism Spectrum Disorders,disease,C1510586,4929.0,protein-coding,[Nuclear receptor],0.7,NR4A2,D000067877,Autism Spectrum Disorder
+"[Neoplasms (C04), Digestive System Diseases (C06)]",Colorectal Neoplasms,disease,C0009404,4929.0,protein-coding,[Nuclear receptor],0.65,NR4A2,D015179,Colorectal Neoplasms
+[Mental Disorders (F03)],Neurodevelopmental Disorders,disease,C1535926,4929.0,protein-coding,[Nuclear receptor],0.6,NR4A2,D065886,Neurodevelopmental Disorders
+[Mental Disorders (F03)],Bipolar Disorder,disease,C0005586,4929.0,protein-coding,[Nuclear receptor],0.6,NR4A2,D001714,Bipolar Disorder
+[Mental Disorders (F03)],Major Depressive Disorder,disease,C1269683,4929.0,protein-coding,[Nuclear receptor],0.6,NR4A2,D003865,"Depressive Disorder, Major"
+[Mental Disorders (F03)],Unipolar Depression,disease,C0041696,4929.0,protein-coding,[Nuclear receptor],0.6,NR4A2,D003866,Depressive Disorder
+"[Chemically-Induced Disorders (C25), Mental Disorders (F03)]","Alcoholic Intoxication, Chronic",disease,C0001973,4929.0,protein-coding,[Nuclear receptor],0.6,NR4A2,D000437,Alcoholism
+"[Musculoskeletal Diseases (C05), Skin and Connective Tissue Diseases (C17)]","Arthritis, Psoriatic",disease,C0003872,4929.0,protein-coding,[Nuclear receptor],0.6,NR4A2,D015535,"Arthritis, Psoriatic"
+"[Mental Disorders (F03), Chemically-Induced Disorders (C25)]",Cocaine abuse,disease,C0009171,4929.0,protein-coding,[Nuclear receptor],0.5,NR4A2,D019970,Cocaine-Related Disorders
+[Nervous System Diseases (C10)],Dopa-Responsive Dystonia,disease,C1851920,4929.0,protein-coding,[Nuclear receptor],0.4,NR4A2,C538007,"Dystonia, Dopa-responsive"
+"[Pathological Conditions, Signs and Symptoms (C23)]","Chromosome 2, monosomy 2q24",phenotype,C2931816,4929.0,protein-coding,[Nuclear receptor],0.4,NR4A2,C538316,"Chromosome 2, monosomy 2q24"
+"[Chemically-Induced Disorders (C25), Nervous System Diseases (C10)]",Arsenic Poisoning,disease,C0311375,4929.0,protein-coding,[Nuclear receptor],0.4,NR4A2,D020261,Arsenic Poisoning
+"[Skin and Connective Tissue Diseases (C17), Congenital, Hereditary, and Neonatal Diseases and Abnormalities (C16)]","Skin Diseases, Genetic",disease,C0037277,4929.0,protein-coding,[Nuclear receptor],0.4,NR4A2,D012873,"Skin Diseases, Genetic"
+[Mental Disorders (F03)],Developmental Disabilities,disease,C0008073,4929.0,protein-coding,[Nuclear receptor],0.4,NR4A2,D002658,Developmental Disabilities
+[Skin and Connective Tissue Diseases (C17)],Dermatologic disorders,disease,C0037274,4929.0,protein-coding,[Nuclear receptor],0.4,NR4A2,D012871,Skin Diseases
+[Nervous System Diseases (C10)],Parkinson Disease,disease,C0030567,11315.0,protein-coding,[Enzyme],1.0,PARK7,D010300,Parkinson Disease
+[Nervous System Diseases (C10)],"PARKINSON DISEASE 7, AUTOSOMAL RECESSIVE EARLY-ONSET",disease,C1853445,11315.0,protein-coding,[Enzyme],1.0,PARK7,C565238,"Parkinson Disease 7, Autosomal Recessive Early-Onset"
+[Nervous System Diseases (C10)],Parkinsonian Disorders,disease,C0242422,11315.0,protein-coding,[Enzyme],0.95,PARK7,D020734,Parkinsonian Disorders
+"[Cardiovascular Diseases (C14), Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10)]",Cerebral Infarction,disease,C0007785,11315.0,protein-coding,[Enzyme],0.7,PARK7,D002544,Cerebral Infarction
+"[Digestive System Diseases (C06), Neoplasms (C04)]",Liver carcinoma,disease,C2239176,11315.0,protein-coding,[Enzyme],0.6,PARK7,D006528,"Carcinoma, Hepatocellular"
+[Nervous System Diseases (C10)],Motor Neuron Disease,disease,C0085084,11315.0,protein-coding,[Enzyme],0.55,PARK7,D016472,Motor Neuron Disease
+[Nervous System Diseases (C10)],"Parkinson Disease 6, Autosomal Recessive Early-Onset",disease,C1853833,11315.0,protein-coding,[Enzyme],0.55,PARK7,C565276,"Parkinson Disease 6, Autosomal Recessive Early-Onset"
+"[Pathological Conditions, Signs and Symptoms (C23)]",Nerve Degeneration,phenotype,C0027746,11315.0,protein-coding,[Enzyme],0.4,PARK7,D009410,Nerve Degeneration
+"[Chemically-Induced Disorders (C25), Digestive System Diseases (C06)]",Chemical and Drug Induced Liver Injury,disease,C4277682,11315.0,protein-coding,[Enzyme],0.4,PARK7,D056486,Chemical and Drug Induced Liver Injury
+[Digestive System Diseases (C06)],Necrotizing Enterocolitis,disease,C0520459,11315.0,protein-coding,[Enzyme],0.4,PARK7,D020345,"Enterocolitis, Necrotizing"
+"[Pathological Conditions, Signs and Symptoms (C23)]",Reticulocytosis,phenotype,C0206160,11315.0,protein-coding,[Enzyme],0.4,PARK7,D045262,Reticulocytosis
+"[Pathological Conditions, Signs and Symptoms (C23), Nervous System Diseases (C10), Cardiovascular Diseases (C14)]","Infarction, Middle Cerebral Artery",disease,C0740392,11315.0,protein-coding,[Enzyme],0.4,PARK7,D020244,"Infarction, Middle Cerebral Artery"
+[Nervous System Diseases (C10)],Juvenile Parkinson's disease,disease,C0752105,11315.0,protein-coding,[Enzyme],0.4,PARK7,D020734,Parkinsonian Disorders
+"[Nervous System Diseases (C10), Nutritional and Metabolic Diseases (C18)]","Amyotrophic lateral sclerosis, parkinsonism, dementia complex (disorder)",disease,C0543859,11315.0,protein-coding,[Enzyme],0.4,PARK7,D000690,Amyotrophic Lateral Sclerosis
+"[Musculoskeletal Diseases (C05), Nutritional and Metabolic Diseases (C18)]",Osteoporosis,disease,C0029456,11315.0,protein-coding,[Enzyme],0.4,PARK7,D010024,Osteoporosis

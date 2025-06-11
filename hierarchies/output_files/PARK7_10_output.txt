@@ -1,0 +1,135 @@
+
+Merged hierarchy for Parkinson Disease (D010300)
+
+(1.00)-Parkinson Disease; D010300
+(0.95)	-Parkinsonian Disorders; D020734
+(NaN)		-Basal Ganglia Diseases; D001480
+(NaN)			-Brain Diseases; D001927
+(NaN)				-Central Nervous System Diseases; D002493
+(NaN)					-Nervous System Diseases; D009422
+(NaN)		-Movement Disorders; D009069
+(NaN)	-Synucleinopathies; D000080874
+(NaN)		-Neurodegenerative Diseases; D019636
+(NaN)		-Proteostasis Deficiencies; D057165
+(NaN)			-Metabolic Diseases; D008659
+(NaN)				-Nutritional and Metabolic Diseases; D009750
+
+D010300 AVERAGE = 0.97
+
+Merged hierarchy for Parkinson Disease 7, Autosomal Recessive Early-Onset (C565238)
+
+(1.00)-Parkinson Disease 7, Autosomal Recessive Early-Onset; C565238
+
+C565238 AVERAGE = 1.00
+
+Merged hierarchy for Carcinoma, Hepatocellular (D006528)
+
+(0.60)-Carcinoma, Hepatocellular; D006528
+(NaN)	-Adenocarcinoma; D000230
+(NaN)		-Carcinoma; D002277
+(NaN)			-Neoplasms, Glandular and Epithelial; D009375
+(NaN)				-Neoplasms by Histologic Type; D009370
+(NaN)					-Neoplasms; D009369
+(NaN)	-Liver Neoplasms; D008113
+(NaN)		-Digestive System Neoplasms; D004067
+(NaN)			-Digestive System Diseases; D004066
+(NaN)			-Neoplasms by Site; D009371
+(NaN)		-Liver Diseases; D008107
+
+D006528 AVERAGE = 0.60
+
+Merged hierarchy for Parkinson Disease 6, Autosomal Recessive Early-Onset (C565276)
+
+(0.55)-Parkinson Disease 6, Autosomal Recessive Early-Onset; C565276
+
+C565276 AVERAGE = 0.55
+
+Merged hierarchy for Nerve Degeneration (D009410)
+
+(0.40)-Nerve Degeneration; D009410
+(NaN)	-Pathologic Processes; D010335
+(NaN)		-Pathological Conditions, Signs and Symptoms; D013568
+
+D009410 AVERAGE = 0.40
+
+Merged hierarchy for Chemical and Drug Induced Liver Injury (D056486)
+
+(0.40)-Chemical and Drug Induced Liver Injury; D056486
+(NaN)	-Liver Diseases; D008107
+(NaN)		-Digestive System Diseases; D004066
+(NaN)	-Poisoning; D011041
+(NaN)		-Chemically-Induced Disorders; D064419
+(NaN)	-Drug-Related Side Effects and Adverse Reactions; D064420
+
+D056486 AVERAGE = 0.40
+
+Merged hierarchy for Enterocolitis, Necrotizing (D020345)
+
+(0.40)-Enterocolitis, Necrotizing; D020345
+(NaN)	-Enterocolitis; D004760
+(NaN)		-Gastroenteritis; D005759
+(NaN)			-Gastrointestinal Diseases; D005767
+(NaN)				-Digestive System Diseases; D004066
+(NaN)		-Intestinal Diseases; D007410
+
+D020345 AVERAGE = 0.40
+
+Merged hierarchy for Reticulocytosis (D045262)
+
+(0.40)-Reticulocytosis; D045262
+(NaN)	-Signs and Symptoms; D012816
+(NaN)		-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)	-Blood Physiological Phenomena; D001790
+(NaN)		-Circulatory and Respiratory Physiological Phenomena; D002943
+
+D045262 AVERAGE = 0.40
+
+Merged hierarchy for Infarction, Middle Cerebral Artery (D020244)
+
+(0.40)-Infarction, Middle Cerebral Artery; D020244
+(0.70)	-Cerebral Infarction; D002544
+(NaN)		-Brain Infarction; D020520
+(NaN)			-Infarction; D007238
+(NaN)				-Ischemia; D007511
+(NaN)					-Pathologic Processes; D010335
+(NaN)						-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)				-Necrosis; D009336
+(NaN)			-Stroke; D020521
+(NaN)				-Cerebrovascular Disorders; D002561
+(NaN)					-Brain Diseases; D001927
+(NaN)						-Central Nervous System Diseases; D002493
+(NaN)							-Nervous System Diseases; D009422
+(NaN)					-Vascular Diseases; D014652
+(NaN)						-Cardiovascular Diseases; D002318
+(NaN)			-Brain Ischemia; D002545
+(NaN)	-Cerebral Arterial Diseases; D002539
+(NaN)		-Intracranial Arterial Diseases; D020765
+
+D020244 AVERAGE = 0.55
+
+Merged hierarchy for Amyotrophic Lateral Sclerosis (D000690)
+
+(0.40)-Amyotrophic Lateral Sclerosis; D000690
+(0.55)	-Motor Neuron Disease; D016472
+(NaN)		-Neuromuscular Diseases; D009468
+(NaN)			-Nervous System Diseases; D009422
+(NaN)		-Neurodegenerative Diseases; D019636
+(NaN)	-Spinal Cord Diseases; D013118
+(NaN)		-Central Nervous System Diseases; D002493
+(NaN)	-TDP-43 Proteinopathies; D057177
+(NaN)		-Proteostasis Deficiencies; D057165
+(NaN)			-Metabolic Diseases; D008659
+(NaN)				-Nutritional and Metabolic Diseases; D009750
+
+D000690 AVERAGE = 0.48
+
+Merged hierarchy for Osteoporosis (D010024)
+
+(0.40)-Osteoporosis; D010024
+(NaN)	-Bone Diseases, Metabolic; D001851
+(NaN)		-Bone Diseases; D001847
+(NaN)			-Musculoskeletal Diseases; D009140
+(NaN)		-Metabolic Diseases; D008659
+(NaN)			-Nutritional and Metabolic Diseases; D009750
+
+D010024 AVERAGE = 0.40

@@ -1,0 +1,52 @@
+Disease,MeSH_ID,Average_Score
+Ovarian Neoplasms,D010051,1.0
+Breast Neoplasms,D001943,1.0
+Proteus Syndrome,D016715,0.8
+"Diabetes Mellitus, Type 2",D003924,0.9
+Prostatic Neoplasms,D011471,0.9
+Lung Neoplasms,D008175,0.9
+Inflammation,D007249,0.9
+Meningioma,D008579,0.85
+nan,D009765,0.85
+Schizophrenia,D012559,0.85
+Pancreatic Neoplasms,D010190,0.85
+Colonic Neoplasms,D003110,0.88
+Bipolar Disorder,D001714,0.8
+Parkinson Disease,D010300,0.8
+Marijuana Abuse,D002189,0.8
+"Carcinoma, Hepatocellular",D006528,0.73
+Carcinogenesis,D063646,0.75
+Depression,D003863,0.75
+Adenocarcinoma of Lung,D000077192,0.75
+Depressive Disorder,D003866,0.68
+Epilepsy,D004827,0.7
+Skin Neoplasms,D012878,0.7
+Urinary Bladder Neoplasms,D001749,0.7
+Non-alcoholic Fatty Liver Disease,D065626,0.6
+Squamous Cell Carcinoma of Head and Neck,D000077195,0.67
+"Leukemia, Myelogenous, Chronic, BCR-ABL Positive",D015464,0.7
+Pain,D010146,0.65
+Hyperplasia,D006965,0.65
+Fibrosis,D005355,0.65
+"Tuberculosis, Pulmonary",D014397,0.55
+"nan (C562840)
+
+(0.50)-nan; C562840
+
+C562840 AVERAGE = 0.50
+
+Merged hierarchy for Cardiomyopathies",D009202,0.5
+Muscular Atrophy,D009133,0.5
+Adenomatous Polyposis Coli,D011125,0.72
+Cardiomegaly,D006332,0.45
+"Lymphoma, T-Cell",D016399,0.4
+"Fatty Liver, Alcoholic",D005235,0.45
+Hepatomegaly,D006529,0.4
+"Aortic Valve, Calcification of (C562942)
+
+(0.40)-Aortic Valve, Calcification of; C562942
+
+C562942 AVERAGE = 0.40
+
+Merged hierarchy for Hypertriglyceridemia",D015228,0.4
+"Leukemia, Promyelocytic, Acute",D015473,0.4

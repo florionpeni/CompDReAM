@@ -1,0 +1,29 @@
+Disease,MeSH_ID,Average_Score,Rank
+"Parkinsonism-Dystonia, Infantile",C567730,0.95,1.0
+Schizophrenia,D012559,0.9,2.0
+Parkinson Disease,D010300,0.85,3.0
+Depression,D003863,0.85,3.0
+Alcoholism,D000437,0.85,3.0
+Hyperkinesis,D006948,0.78,6.0
+Depressive Disorder,D003866,0.75,7.0
+Nervous System Diseases,D009422,0.75,7.0
+Anxiety Disorders,D001008,0.75,7.0
+Cocaine-Related Disorders,D019970,0.75,7.0
+Attention Deficit Disorder with Hyperactivity,D001289,0.75,7.0
+Obesity,D009765,0.75,7.0
+Tic Disorders,D013981,0.7,13.0
+Anhedonia,D059445,0.7,13.0
+Tobacco Use Disorder,D014029,0.7,13.0
+Bipolar Disorder,D001714,0.7,13.0
+Dyslexia,D004410,0.68,17.0
+Alcohol Withdrawal Seizures,D020270,0.68,17.0
+Alcohol Withdrawal Delirium,D000430,0.68,17.0
+Delirium,D003693,0.68,17.0
+Cognitive Dysfunction,D060825,0.65,21.0
+Breast Neoplasms,D001943,0.6,22.0
+Paranoid Disorders,D010259,0.6,22.0
+Dystonia,D004421,0.6,22.0
+Memory Disorders,D008569,0.57,25.0
+Deglutition Disorders,D003680,0.4,26.0
+Mobility Limitation,D051346,0.4,26.0
+Nerve Degeneration,D009410,0.4,26.0

@@ -1,0 +1,889 @@
+MAPT
+
+(1.0)-Tauopathies; D024801
+(0.95)	-Neurodegenerative Diseases; D019636
+(NaN)		-Nervous System Diseases; D009422
+(NaN)			-Diseases (MeSH Category); U000006
+(NaN)				-Topical Descriptor; U000019
+(NaN)					-MeSH Descriptors; U000017
+
+(1.0)-Dementia; D003704
+(NaN)	-Brain Diseases; D001927
+(NaN)		-Central Nervous System Diseases; D002493
+(NaN)			-Nervous System Diseases; D009422
+(NaN)				-Diseases (MeSH Category); U000006
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+
+(1.0)-Dementia; D003704
+(0.45)	-Neurocognitive Disorders; D019965
+(NaN)		-Mental Disorders; D001523
+(NaN)			-Psychiatry and Psychology (MeSH Category); U000014
+(NaN)				-Topical Descriptor; U000019
+(NaN)					-MeSH Descriptors; U000017
+
+(1.0)-Alzheimer Disease; D000544
+(1.0)	-Dementia; D003704
+(NaN)		-Brain Diseases; D001927
+(NaN)			-Central Nervous System Diseases; D002493
+(NaN)				-Nervous System Diseases; D009422
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(1.0)	-Dementia; D003704
+(0.45)		-Neurocognitive Disorders; D019965
+(NaN)			-Mental Disorders; D001523
+(NaN)				-Psychiatry and Psychology (MeSH Category); U000014
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+
+(1.0)-Alzheimer Disease; D000544
+(1.0)	-Tauopathies; D024801
+(0.95)		-Neurodegenerative Diseases; D019636
+(NaN)			-Nervous System Diseases; D009422
+(NaN)				-Diseases (MeSH Category); U000006
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+
+(1.0)-Parkinson Disease; D010300
+(1.0)	-Parkinsonian Disorders; D020734
+(NaN)		-Basal Ganglia Diseases; D001480
+(NaN)			-Brain Diseases; D001927
+(NaN)				-Central Nervous System Diseases; D002493
+(NaN)					-Nervous System Diseases; D009422
+(NaN)						-Diseases (MeSH Category); U000006
+(NaN)							-Topical Descriptor; U000019
+(NaN)								-MeSH Descriptors; U000017
+(1.0)	-Parkinsonian Disorders; D020734
+(NaN)		-Movement Disorders; D009069
+(NaN)			-Central Nervous System Diseases; D002493
+(NaN)				-Nervous System Diseases; D009422
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+
+(1.0)-Parkinson Disease; D010300
+(NaN)	-Synucleinopathies; D000080874
+(0.95)		-Neurodegenerative Diseases; D019636
+(NaN)			-Nervous System Diseases; D009422
+(NaN)				-Diseases (MeSH Category); U000006
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+(NaN)	-Synucleinopathies; D000080874
+(NaN)		-Proteostasis Deficiencies; D057165
+(NaN)			-Metabolic Diseases; D008659
+(NaN)				-Nutritional and Metabolic Diseases; D009750
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+
+(1.0)-Supranuclear Palsy, Progressive; D013494
+(NaN)	-Basal Ganglia Diseases; D001480
+(NaN)		-Brain Diseases; D001927
+(NaN)			-Central Nervous System Diseases; D002493
+(NaN)				-Nervous System Diseases; D009422
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+
+(1.0)-Supranuclear Palsy, Progressive; D013494
+(NaN)	-Movement Disorders; D009069
+(NaN)		-Central Nervous System Diseases; D002493
+(NaN)			-Nervous System Diseases; D009422
+(NaN)				-Diseases (MeSH Category); U000006
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+
+(1.0)-Supranuclear Palsy, Progressive; D013494
+(NaN)	-Ophthalmoplegia; D009886
+(NaN)		-Ocular Motility Disorders; D015835
+(NaN)			-Central Nervous System Diseases; D002493
+(NaN)				-Nervous System Diseases; D009422
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)		-Ocular Motility Disorders; D015835
+(NaN)			-Cranial Nerve Diseases; D003389
+(NaN)				-Nervous System Diseases; D009422
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)		-Ocular Motility Disorders; D015835
+(NaN)			-Eye Diseases; D005128
+(NaN)				-Diseases (MeSH Category); U000006
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+(NaN)	-Ophthalmoplegia; D009886
+(NaN)		-Paralysis; D010243
+(NaN)			-Neurologic Manifestations; D009461
+(NaN)				-Nervous System Diseases; D009422
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)			-Neurologic Manifestations; D009461
+(NaN)				-Signs and Symptoms; D012816
+(NaN)					-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)						-Diseases (MeSH Category); U000006
+(NaN)							-Topical Descriptor; U000019
+(NaN)								-MeSH Descriptors; U000017
+
+(1.0)-Supranuclear Palsy, Progressive; D013494
+(1.0)	-Tauopathies; D024801
+(0.95)		-Neurodegenerative Diseases; D019636
+(NaN)			-Nervous System Diseases; D009422
+(NaN)				-Diseases (MeSH Category); U000006
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+
+(1.0)-Frontotemporal Dementia; D057180
+(NaN)	-Frontotemporal Lobar Degeneration; D057174
+(1.0)		-Dementia; D003704
+(NaN)			-Brain Diseases; D001927
+(NaN)				-Central Nervous System Diseases; D002493
+(NaN)					-Nervous System Diseases; D009422
+(NaN)						-Diseases (MeSH Category); U000006
+(NaN)							-Topical Descriptor; U000019
+(NaN)								-MeSH Descriptors; U000017
+(1.0)		-Dementia; D003704
+(0.45)			-Neurocognitive Disorders; D019965
+(NaN)				-Mental Disorders; D001523
+(NaN)					-Psychiatry and Psychology (MeSH Category); U000014
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)	-Frontotemporal Lobar Degeneration; D057174
+(NaN)		-TDP-43 Proteinopathies; D057177
+(0.95)			-Neurodegenerative Diseases; D019636
+(NaN)				-Nervous System Diseases; D009422
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)		-TDP-43 Proteinopathies; D057177
+(NaN)			-Proteostasis Deficiencies; D057165
+(NaN)				-Metabolic Diseases; D008659
+(NaN)					-Nutritional and Metabolic Diseases; D009750
+(NaN)						-Diseases (MeSH Category); U000006
+(NaN)							-Topical Descriptor; U000019
+(NaN)								-MeSH Descriptors; U000017
+
+(1.0)-Parkinsonian Disorders; D020734
+(NaN)	-Basal Ganglia Diseases; D001480
+(NaN)		-Brain Diseases; D001927
+(NaN)			-Central Nervous System Diseases; D002493
+(NaN)				-Nervous System Diseases; D009422
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+
+(1.0)-Parkinsonian Disorders; D020734
+(NaN)	-Movement Disorders; D009069
+(NaN)		-Central Nervous System Diseases; D002493
+(NaN)			-Nervous System Diseases; D009422
+(NaN)				-Diseases (MeSH Category); U000006
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+
+(1.0)-Pick Disease of the Brain; D020774
+(1.0)	-Frontotemporal Dementia; D057180
+(NaN)		-Frontotemporal Lobar Degeneration; D057174
+(1.0)			-Dementia; D003704
+(NaN)				-Brain Diseases; D001927
+(NaN)					-Central Nervous System Diseases; D002493
+(NaN)						-Nervous System Diseases; D009422
+(NaN)							-Diseases (MeSH Category); U000006
+(NaN)								-Topical Descriptor; U000019
+(NaN)									-MeSH Descriptors; U000017
+(1.0)			-Dementia; D003704
+(0.45)				-Neurocognitive Disorders; D019965
+(NaN)					-Mental Disorders; D001523
+(NaN)						-Psychiatry and Psychology (MeSH Category); U000014
+(NaN)							-Topical Descriptor; U000019
+(NaN)								-MeSH Descriptors; U000017
+(NaN)		-Frontotemporal Lobar Degeneration; D057174
+(NaN)			-TDP-43 Proteinopathies; D057177
+(0.95)				-Neurodegenerative Diseases; D019636
+(NaN)					-Nervous System Diseases; D009422
+(NaN)						-Diseases (MeSH Category); U000006
+(NaN)							-Topical Descriptor; U000019
+(NaN)								-MeSH Descriptors; U000017
+(NaN)			-TDP-43 Proteinopathies; D057177
+(NaN)				-Proteostasis Deficiencies; D057165
+(NaN)					-Metabolic Diseases; D008659
+(NaN)						-Nutritional and Metabolic Diseases; D009750
+(NaN)							-Diseases (MeSH Category); U000006
+(NaN)								-Topical Descriptor; U000019
+(NaN)									-MeSH Descriptors; U000017
+
+(0.95)-Neurodegenerative Diseases; D019636
+(NaN)	-Nervous System Diseases; D009422
+(NaN)		-Diseases (MeSH Category); U000006
+(NaN)			-Topical Descriptor; U000019
+(NaN)				-MeSH Descriptors; U000017
+
+(0.9)-Cognitive Dysfunction; D060825
+(NaN)	-Cognition Disorders; D003072
+(0.45)		-Neurocognitive Disorders; D019965
+(NaN)			-Mental Disorders; D001523
+(NaN)				-Psychiatry and Psychology (MeSH Category); U000014
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+
+(0.9)-Memory Disorders; D008569
+(NaN)	-Neurobehavioral Manifestations; D019954
+(NaN)		-Neurologic Manifestations; D009461
+(NaN)			-Nervous System Diseases; D009422
+(NaN)				-Diseases (MeSH Category); U000006
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+(NaN)		-Neurologic Manifestations; D009461
+(NaN)			-Signs and Symptoms; D012816
+(NaN)				-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)	-Neurobehavioral Manifestations; D019954
+(NaN)		-Behavior and Behavior Mechanisms; D001520
+(NaN)			-Psychiatry and Psychology (MeSH Category); U000014
+(NaN)				-Topical Descriptor; U000019
+(NaN)					-MeSH Descriptors; U000017
+
+(0.85)-Multiple System Atrophy; D019578
+(NaN)	-Basal Ganglia Diseases; D001480
+(NaN)		-Brain Diseases; D001927
+(NaN)			-Central Nervous System Diseases; D002493
+(NaN)				-Nervous System Diseases; D009422
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+
+(0.85)-Multiple System Atrophy; D019578
+(NaN)	-Movement Disorders; D009069
+(NaN)		-Central Nervous System Diseases; D002493
+(NaN)			-Nervous System Diseases; D009422
+(NaN)				-Diseases (MeSH Category); U000006
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+
+(0.85)-Multiple System Atrophy; D019578
+(NaN)	-Primary Dysautonomias; D054969
+(NaN)		-Autonomic Nervous System Diseases; D001342
+(NaN)			-Nervous System Diseases; D009422
+(NaN)				-Diseases (MeSH Category); U000006
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+
+(0.85)-Multiple System Atrophy; D019578
+(NaN)	-Synucleinopathies; D000080874
+(0.95)		-Neurodegenerative Diseases; D019636
+(NaN)			-Nervous System Diseases; D009422
+(NaN)				-Diseases (MeSH Category); U000006
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+(NaN)	-Synucleinopathies; D000080874
+(NaN)		-Proteostasis Deficiencies; D057165
+(NaN)			-Metabolic Diseases; D008659
+(NaN)				-Nutritional and Metabolic Diseases; D009750
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+
+(0.8)-Epilepsy, Temporal Lobe; D004833
+(NaN)	-Epilepsies, Partial; D004828
+(NaN)		-Epilepsy; D004827
+(NaN)			-Brain Diseases; D001927
+(NaN)				-Central Nervous System Diseases; D002493
+(NaN)					-Nervous System Diseases; D009422
+(NaN)						-Diseases (MeSH Category); U000006
+(NaN)							-Topical Descriptor; U000019
+(NaN)								-MeSH Descriptors; U000017
+
+(0.8)-Epilepsy, Temporal Lobe; D004833
+(NaN)	-Epileptic Syndromes; D000073376
+(NaN)		-Epilepsy; D004827
+(NaN)			-Brain Diseases; D001927
+(NaN)				-Central Nervous System Diseases; D002493
+(NaN)					-Nervous System Diseases; D009422
+(NaN)						-Diseases (MeSH Category); U000006
+(NaN)							-Topical Descriptor; U000019
+(NaN)								-MeSH Descriptors; U000017
+
+(0.7999999999999999)-Primary Progressive Nonfluent Aphasia; D057178
+(NaN)	-Aphasia, Primary Progressive; D018888
+(NaN)		-Aphasia; D001037
+(NaN)			-Speech Disorders; D013064
+(NaN)				-Language Disorders; D007806
+(NaN)					-Communication Disorders; D003147
+(NaN)						-Neurobehavioral Manifestations; D019954
+(NaN)							-Neurologic Manifestations; D009461
+(NaN)								-Nervous System Diseases; D009422
+(NaN)									-Diseases (MeSH Category); U000006
+(NaN)										-Topical Descriptor; U000019
+(NaN)											-MeSH Descriptors; U000017
+(NaN)							-Neurologic Manifestations; D009461
+(NaN)								-Signs and Symptoms; D012816
+(NaN)									-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)										-Diseases (MeSH Category); U000006
+(NaN)											-Topical Descriptor; U000019
+(NaN)												-MeSH Descriptors; U000017
+(NaN)						-Neurobehavioral Manifestations; D019954
+(NaN)							-Behavior and Behavior Mechanisms; D001520
+(NaN)								-Psychiatry and Psychology (MeSH Category); U000014
+(NaN)									-Topical Descriptor; U000019
+(NaN)										-MeSH Descriptors; U000017
+(NaN)					-Communication Disorders; D003147
+(NaN)						-Neurodevelopmental Disorders; D065886
+(NaN)							-Mental Disorders; D001523
+(NaN)								-Psychiatry and Psychology (MeSH Category); U000014
+(NaN)									-Topical Descriptor; U000019
+(NaN)										-MeSH Descriptors; U000017
+(NaN)	-Aphasia, Primary Progressive; D018888
+(1.0)		-Dementia; D003704
+(NaN)			-Brain Diseases; D001927
+(NaN)				-Central Nervous System Diseases; D002493
+(NaN)					-Nervous System Diseases; D009422
+(NaN)						-Diseases (MeSH Category); U000006
+(NaN)							-Topical Descriptor; U000019
+(NaN)								-MeSH Descriptors; U000017
+(1.0)		-Dementia; D003704
+(0.45)			-Neurocognitive Disorders; D019965
+(NaN)				-Mental Disorders; D001523
+(NaN)					-Psychiatry and Psychology (MeSH Category); U000014
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+
+(0.7999999999999999)-Primary Progressive Nonfluent Aphasia; D057178
+(NaN)	-Frontotemporal Lobar Degeneration; D057174
+(1.0)		-Dementia; D003704
+(NaN)			-Brain Diseases; D001927
+(NaN)				-Central Nervous System Diseases; D002493
+(NaN)					-Nervous System Diseases; D009422
+(NaN)						-Diseases (MeSH Category); U000006
+(NaN)							-Topical Descriptor; U000019
+(NaN)								-MeSH Descriptors; U000017
+(1.0)		-Dementia; D003704
+(0.45)			-Neurocognitive Disorders; D019965
+(NaN)				-Mental Disorders; D001523
+(NaN)					-Psychiatry and Psychology (MeSH Category); U000014
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)	-Frontotemporal Lobar Degeneration; D057174
+(NaN)		-TDP-43 Proteinopathies; D057177
+(0.95)			-Neurodegenerative Diseases; D019636
+(NaN)				-Nervous System Diseases; D009422
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)		-TDP-43 Proteinopathies; D057177
+(NaN)			-Proteostasis Deficiencies; D057165
+(NaN)				-Metabolic Diseases; D008659
+(NaN)					-Nutritional and Metabolic Diseases; D009750
+(NaN)						-Diseases (MeSH Category); U000006
+(NaN)							-Topical Descriptor; U000019
+(NaN)								-MeSH Descriptors; U000017
+
+(0.75)-Anxiety Disorders; D001008
+(NaN)	-Mental Disorders; D001523
+(NaN)		-Psychiatry and Psychology (MeSH Category); U000014
+(NaN)			-Topical Descriptor; U000019
+(NaN)				-MeSH Descriptors; U000017
+
+(0.75)-Prostatic Neoplasms; D011471
+(NaN)	-Genital Neoplasms, Male; D005834
+(NaN)		-Genital Diseases, Male; D005832
+(NaN)			-Male Urogenital Diseases; D052801
+(NaN)				-Urogenital Diseases; D000091642
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)		-Genital Diseases, Male; D005832
+(NaN)			-Genital Diseases; D000091662
+(NaN)				-Urogenital Diseases; D000091642
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)	-Genital Neoplasms, Male; D005834
+(NaN)		-Urogenital Neoplasms; D014565
+(NaN)			-Neoplasms by Site; D009371
+(NaN)				-Neoplasms; D009369
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)		-Urogenital Neoplasms; D014565
+(NaN)			-Female Urogenital Diseases; D052776
+(NaN)				-Female Urogenital Diseases and Pregnancy Complications; D005261
+(NaN)					-Urogenital Diseases; D000091642
+(NaN)						-Diseases (MeSH Category); U000006
+(NaN)							-Topical Descriptor; U000019
+(NaN)								-MeSH Descriptors; U000017
+(NaN)		-Urogenital Neoplasms; D014565
+(NaN)			-Male Urogenital Diseases; D052801
+(NaN)				-Urogenital Diseases; D000091642
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)		-Urogenital Neoplasms; D014565
+(NaN)			-Urogenital Diseases; D000091642
+(NaN)				-Diseases (MeSH Category); U000006
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+
+(0.75)-Prostatic Neoplasms; D011471
+(NaN)	-Prostatic Diseases; D011469
+(NaN)		-Genital Diseases, Male; D005832
+(NaN)			-Male Urogenital Diseases; D052801
+(NaN)				-Urogenital Diseases; D000091642
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)		-Genital Diseases, Male; D005832
+(NaN)			-Genital Diseases; D000091662
+(NaN)				-Urogenital Diseases; D000091642
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+
+(0.7000000000000001)-Carcinoma, Hepatocellular; D006528
+(NaN)	-Adenocarcinoma; D000230
+(NaN)		-Carcinoma; D002277
+(NaN)			-Neoplasms, Glandular and Epithelial; D009375
+(NaN)				-Neoplasms by Histologic Type; D009370
+(NaN)					-Neoplasms; D009369
+(NaN)						-Diseases (MeSH Category); U000006
+(NaN)							-Topical Descriptor; U000019
+(NaN)								-MeSH Descriptors; U000017
+
+(0.7000000000000001)-Carcinoma, Hepatocellular; D006528
+(NaN)	-Liver Neoplasms; D008113
+(NaN)		-Digestive System Neoplasms; D004067
+(NaN)			-Digestive System Diseases; D004066
+(NaN)				-Diseases (MeSH Category); U000006
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+(NaN)		-Digestive System Neoplasms; D004067
+(NaN)			-Neoplasms by Site; D009371
+(NaN)				-Neoplasms; D009369
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)	-Liver Neoplasms; D008113
+(NaN)		-Liver Diseases; D008107
+(NaN)			-Digestive System Diseases; D004066
+(NaN)				-Diseases (MeSH Category); U000006
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+
+(0.7)-Pallidopontonigral Degeneration; C563003
+
+(0.65)-Ataxia; D001259
+(NaN)	-Dyskinesias; D020820
+(NaN)		-Movement Disorders; D009069
+(NaN)			-Central Nervous System Diseases; D002493
+(NaN)				-Nervous System Diseases; D009422
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)	-Dyskinesias; D020820
+(NaN)		-Neurologic Manifestations; D009461
+(NaN)			-Nervous System Diseases; D009422
+(NaN)				-Diseases (MeSH Category); U000006
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+(NaN)		-Neurologic Manifestations; D009461
+(NaN)			-Signs and Symptoms; D012816
+(NaN)				-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+
+(0.65)-Atrial Fibrillation; D001281
+(NaN)	-Arrhythmias, Cardiac; D001145
+(NaN)		-Heart Diseases; D006331
+(NaN)			-Cardiovascular Diseases; D002318
+(NaN)				-Diseases (MeSH Category); U000006
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+(NaN)	-Arrhythmias, Cardiac; D001145
+(NaN)		-Pathologic Processes; D010335
+(NaN)			-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)				-Diseases (MeSH Category); U000006
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+
+(0.65)-Learning Disabilities; D007859
+(NaN)	-Communication Disorders; D003147
+(NaN)		-Neurobehavioral Manifestations; D019954
+(NaN)			-Neurologic Manifestations; D009461
+(NaN)				-Nervous System Diseases; D009422
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)			-Neurologic Manifestations; D009461
+(NaN)				-Signs and Symptoms; D012816
+(NaN)					-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)						-Diseases (MeSH Category); U000006
+(NaN)							-Topical Descriptor; U000019
+(NaN)								-MeSH Descriptors; U000017
+(NaN)		-Neurobehavioral Manifestations; D019954
+(NaN)			-Behavior and Behavior Mechanisms; D001520
+(NaN)				-Psychiatry and Psychology (MeSH Category); U000014
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+(NaN)	-Communication Disorders; D003147
+(NaN)		-Neurodevelopmental Disorders; D065886
+(NaN)			-Mental Disorders; D001523
+(NaN)				-Psychiatry and Psychology (MeSH Category); U000014
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+
+(0.65)-Learning Disabilities; D007859
+(NaN)	-Neurodevelopmental Disorders; D065886
+(NaN)		-Mental Disorders; D001523
+(NaN)			-Psychiatry and Psychology (MeSH Category); U000014
+(NaN)				-Topical Descriptor; U000019
+(NaN)					-MeSH Descriptors; U000017
+
+(0.45)-Progressive supranuclear palsy atypical; C537240
+
+(0.45)-Osteoarthritis, Hip; D015207
+(NaN)	-Osteoarthritis; D010003
+(NaN)		-Arthritis; D001168
+(NaN)			-Joint Diseases; D007592
+(NaN)				-Musculoskeletal Diseases; D009140
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)	-Osteoarthritis; D010003
+(NaN)		-Rheumatic Diseases; D012216
+(NaN)			-Connective Tissue Diseases; D003240
+(NaN)				-Skin and Connective Tissue Diseases; D017437
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)		-Rheumatic Diseases; D012216
+(NaN)			-Musculoskeletal Diseases; D009140
+(NaN)				-Diseases (MeSH Category); U000006
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+
+(0.45)-Neurocognitive Disorders; D019965
+(NaN)	-Mental Disorders; D001523
+(NaN)		-Psychiatry and Psychology (MeSH Category); U000014
+(NaN)			-Topical Descriptor; U000019
+(NaN)				-MeSH Descriptors; U000017
+
+(0.4)-Psychomotor Agitation; D011595
+(NaN)	-Dyskinesias; D020820
+(NaN)		-Movement Disorders; D009069
+(NaN)			-Central Nervous System Diseases; D002493
+(NaN)				-Nervous System Diseases; D009422
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)	-Dyskinesias; D020820
+(NaN)		-Neurologic Manifestations; D009461
+(NaN)			-Nervous System Diseases; D009422
+(NaN)				-Diseases (MeSH Category); U000006
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+(NaN)		-Neurologic Manifestations; D009461
+(NaN)			-Signs and Symptoms; D012816
+(NaN)				-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+
+(0.4)-Psychomotor Agitation; D011595
+(NaN)	-Psychomotor Disorders; D011596
+(NaN)		-Neurobehavioral Manifestations; D019954
+(NaN)			-Neurologic Manifestations; D009461
+(NaN)				-Nervous System Diseases; D009422
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)			-Neurologic Manifestations; D009461
+(NaN)				-Signs and Symptoms; D012816
+(NaN)					-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)						-Diseases (MeSH Category); U000006
+(NaN)							-Topical Descriptor; U000019
+(NaN)								-MeSH Descriptors; U000017
+(NaN)		-Neurobehavioral Manifestations; D019954
+(NaN)			-Behavior and Behavior Mechanisms; D001520
+(NaN)				-Psychiatry and Psychology (MeSH Category); U000014
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+
+(0.4)-Psychomotor Agitation; D011595
+(NaN)	-Aberrant Motor Behavior in Dementia; D000096762
+(NaN)		-Behavioral Symptoms; D001526
+(NaN)			-Behavior; D001519
+(NaN)				-Behavior and Behavior Mechanisms; D001520
+(NaN)					-Psychiatry and Psychology (MeSH Category); U000014
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+
+(0.4)-Cardiomyopathies; D009202
+(NaN)	-Heart Diseases; D006331
+(NaN)		-Cardiovascular Diseases; D002318
+(NaN)			-Diseases (MeSH Category); U000006
+(NaN)				-Topical Descriptor; U000019
+(NaN)					-MeSH Descriptors; U000017
+
+(0.4)-Splenomegaly; D013163
+(NaN)	-Hypertrophy; D006984
+(NaN)		-Pathological Conditions, Anatomical; D020763
+(NaN)			-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)				-Diseases (MeSH Category); U000006
+(NaN)					-Topical Descriptor; U000019
+(NaN)						-MeSH Descriptors; U000017
+
+(0.4)-Weight Gain; D015430
+(NaN)	-Body Weight Changes; D001836
+(NaN)		-Body Weight; D001835
+(NaN)			-Signs and Symptoms; D012816
+(NaN)				-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)		-Body Weight; D001835
+(NaN)			-Physical Appearance, Body; D000067029
+(NaN)				-Body Constitution; D001824
+(NaN)					-Physical Examination; D010808
+(NaN)						-Diagnostic Techniques and Procedures; D019937
+(NaN)							-Diagnosis; D003933
+(NaN)								-Analytical, Diagnostic and Therapeutic Techniques and Equipment (MeSH Category); U000001
+(NaN)									-Topical Descriptor; U000019
+(NaN)										-MeSH Descriptors; U000017
+(NaN)				-Body Constitution; D001824
+(NaN)					-Physiological Phenomena; D010829
+(NaN)						-Phenomena and Processes (MeSH Category); U000004
+(NaN)							-Topical Descriptor; U000019
+(NaN)								-MeSH Descriptors; U000017
+(NaN)		-Body Weight; D001835
+(NaN)			-Body Size; D049628
+(NaN)				-Growth; D006128
+(NaN)					-Growth and Development; D048788
+(NaN)						-Physiological Phenomena; D010829
+(NaN)							-Phenomena and Processes (MeSH Category); U000004
+(NaN)								-Topical Descriptor; U000019
+(NaN)									-MeSH Descriptors; U000017
+(NaN)			-Body Size; D049628
+(NaN)				-Body Weights and Measures; D001837
+(NaN)					-Anthropometry; D000886
+(NaN)						-Biometry; D001699
+(NaN)							-Epidemiologic Measurements; D015991
+(NaN)								-Public Health; D011634
+(NaN)									-Health; D006262
+(NaN)										-Population Characteristics; D011154
+(NaN)											-Health Care (MeSH Category); U000008
+(NaN)												-Topical Descriptor; U000019
+(NaN)													-MeSH Descriptors; U000017
+(NaN)								-Public Health; D011634
+(NaN)									-Medicine; D008511
+(NaN)										-Health Occupations; D006281
+(NaN)											-Disciplines and Occupations (MeSH Category); U000013
+(NaN)												-Topical Descriptor; U000019
+(NaN)													-MeSH Descriptors; U000017
+(NaN)								-Public Health; D011634
+(NaN)									-Environment and Public Health; D004778
+(NaN)										-Health Care (MeSH Category); U000008
+(NaN)											-Topical Descriptor; U000019
+(NaN)												-MeSH Descriptors; U000017
+(NaN)						-Biometry; D001699
+(NaN)							-Statistics as Topic; D013223
+(NaN)								-Epidemiologic Methods; D004812
+(NaN)									-Public Health; D011634
+(NaN)										-Health; D006262
+(NaN)											-Population Characteristics; D011154
+(NaN)												-Health Care (MeSH Category); U000008
+(NaN)													-Topical Descriptor; U000019
+(NaN)														-MeSH Descriptors; U000017
+(NaN)									-Public Health; D011634
+(NaN)										-Medicine; D008511
+(NaN)											-Health Occupations; D006281
+(NaN)												-Disciplines and Occupations (MeSH Category); U000013
+(NaN)													-Topical Descriptor; U000019
+(NaN)														-MeSH Descriptors; U000017
+(NaN)									-Public Health; D011634
+(NaN)										-Environment and Public Health; D004778
+(NaN)											-Health Care (MeSH Category); U000008
+(NaN)												-Topical Descriptor; U000019
+(NaN)													-MeSH Descriptors; U000017
+(NaN)								-Epidemiologic Methods; D004812
+(NaN)									-Investigative Techniques; D008919
+(NaN)										-Analytical, Diagnostic and Therapeutic Techniques and Equipment (MeSH Category); U000001
+(NaN)											-Topical Descriptor; U000019
+(NaN)												-MeSH Descriptors; U000017
+(NaN)							-Statistics as Topic; D013223
+(NaN)								-Mathematics; D008433
+(NaN)									-Natural Science Disciplines; D010811
+(NaN)										-Disciplines and Occupations (MeSH Category); U000013
+(NaN)											-Topical Descriptor; U000019
+(NaN)												-MeSH Descriptors; U000017
+(NaN)							-Statistics as Topic; D013223
+(NaN)								-Health Care Evaluation Mechanisms; D017531
+(NaN)									-Quality of Health Care; D011787
+(NaN)										-Health Services Administration; D006298
+(NaN)											-Health Occupations; D006281
+(NaN)												-Disciplines and Occupations (MeSH Category); U000013
+(NaN)													-Topical Descriptor; U000019
+(NaN)														-MeSH Descriptors; U000017
+(NaN)										-Health Services Administration; D006298
+(NaN)											-Health Care (MeSH Category); U000008
+(NaN)												-Topical Descriptor; U000019
+(NaN)													-MeSH Descriptors; U000017
+(NaN)									-Quality of Health Care; D011787
+(NaN)										-Health Care Quality, Access, and Evaluation; D017530
+(NaN)											-Health Care (MeSH Category); U000008
+(NaN)												-Topical Descriptor; U000019
+(NaN)													-MeSH Descriptors; U000017
+(NaN)					-Anthropometry; D000886
+(NaN)						-Physical Examination; D010808
+(NaN)							-Diagnostic Techniques and Procedures; D019937
+(NaN)								-Diagnosis; D003933
+(NaN)									-Analytical, Diagnostic and Therapeutic Techniques and Equipment (MeSH Category); U000001
+(NaN)										-Topical Descriptor; U000019
+(NaN)											-MeSH Descriptors; U000017
+(NaN)					-Anthropometry; D000886
+(NaN)						-Investigative Techniques; D008919
+(NaN)							-Analytical, Diagnostic and Therapeutic Techniques and Equipment (MeSH Category); U000001
+(NaN)								-Topical Descriptor; U000019
+(NaN)									-MeSH Descriptors; U000017
+(NaN)				-Body Weights and Measures; D001837
+(NaN)					-Body Constitution; D001824
+(NaN)						-Physical Examination; D010808
+(NaN)							-Diagnostic Techniques and Procedures; D019937
+(NaN)								-Diagnosis; D003933
+(NaN)									-Analytical, Diagnostic and Therapeutic Techniques and Equipment (MeSH Category); U000001
+(NaN)										-Topical Descriptor; U000019
+(NaN)											-MeSH Descriptors; U000017
+(NaN)					-Body Constitution; D001824
+(NaN)						-Physiological Phenomena; D010829
+(NaN)							-Phenomena and Processes (MeSH Category); U000004
+(NaN)								-Topical Descriptor; U000019
+(NaN)									-MeSH Descriptors; U000017
+
+(0.4)-Weight Loss; D015431
+(NaN)	-Body Weight Changes; D001836
+(NaN)		-Body Weight; D001835
+(NaN)			-Signs and Symptoms; D012816
+(NaN)				-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)					-Diseases (MeSH Category); U000006
+(NaN)						-Topical Descriptor; U000019
+(NaN)							-MeSH Descriptors; U000017
+(NaN)		-Body Weight; D001835
+(NaN)			-Physical Appearance, Body; D000067029
+(NaN)				-Body Constitution; D001824
+(NaN)					-Physical Examination; D010808
+(NaN)						-Diagnostic Techniques and Procedures; D019937
+(NaN)							-Diagnosis; D003933
+(NaN)								-Analytical, Diagnostic and Therapeutic Techniques and Equipment (MeSH Category); U000001
+(NaN)									-Topical Descriptor; U000019
+(NaN)										-MeSH Descriptors; U000017
+(NaN)				-Body Constitution; D001824
+(NaN)					-Physiological Phenomena; D010829
+(NaN)						-Phenomena and Processes (MeSH Category); U000004
+(NaN)							-Topical Descriptor; U000019
+(NaN)								-MeSH Descriptors; U000017
+(NaN)		-Body Weight; D001835
+(NaN)			-Body Size; D049628
+(NaN)				-Growth; D006128
+(NaN)					-Growth and Development; D048788
+(NaN)						-Physiological Phenomena; D010829
+(NaN)							-Phenomena and Processes (MeSH Category); U000004
+(NaN)								-Topical Descriptor; U000019
+(NaN)									-MeSH Descriptors; U000017
+(NaN)			-Body Size; D049628
+(NaN)				-Body Weights and Measures; D001837
+(NaN)					-Anthropometry; D000886
+(NaN)						-Biometry; D001699
+(NaN)							-Epidemiologic Measurements; D015991
+(NaN)								-Public Health; D011634
+(NaN)									-Health; D006262
+(NaN)										-Population Characteristics; D011154
+(NaN)											-Health Care (MeSH Category); U000008
+(NaN)												-Topical Descriptor; U000019
+(NaN)													-MeSH Descriptors; U000017
+(NaN)								-Public Health; D011634
+(NaN)									-Medicine; D008511
+(NaN)										-Health Occupations; D006281
+(NaN)											-Disciplines and Occupations (MeSH Category); U000013
+(NaN)												-Topical Descriptor; U000019
+(NaN)													-MeSH Descriptors; U000017
+(NaN)								-Public Health; D011634
+(NaN)									-Environment and Public Health; D004778
+(NaN)										-Health Care (MeSH Category); U000008
+(NaN)											-Topical Descriptor; U000019
+(NaN)												-MeSH Descriptors; U000017
+(NaN)						-Biometry; D001699
+(NaN)							-Statistics as Topic; D013223
+(NaN)								-Epidemiologic Methods; D004812
+(NaN)									-Public Health; D011634
+(NaN)										-Health; D006262
+(NaN)											-Population Characteristics; D011154
+(NaN)												-Health Care (MeSH Category); U000008
+(NaN)													-Topical Descriptor; U000019
+(NaN)														-MeSH Descriptors; U000017
+(NaN)									-Public Health; D011634
+(NaN)										-Medicine; D008511
+(NaN)											-Health Occupations; D006281
+(NaN)												-Disciplines and Occupations (MeSH Category); U000013
+(NaN)													-Topical Descriptor; U000019
+(NaN)														-MeSH Descriptors; U000017
+(NaN)									-Public Health; D011634
+(NaN)										-Environment and Public Health; D004778
+(NaN)											-Health Care (MeSH Category); U000008
+(NaN)												-Topical Descriptor; U000019
+(NaN)													-MeSH Descriptors; U000017
+(NaN)								-Epidemiologic Methods; D004812
+(NaN)									-Investigative Techniques; D008919
+(NaN)										-Analytical, Diagnostic and Therapeutic Techniques and Equipment (MeSH Category); U000001
+(NaN)											-Topical Descriptor; U000019
+(NaN)												-MeSH Descriptors; U000017
+(NaN)							-Statistics as Topic; D013223
+(NaN)								-Mathematics; D008433
+(NaN)									-Natural Science Disciplines; D010811
+(NaN)										-Disciplines and Occupations (MeSH Category); U000013
+(NaN)											-Topical Descriptor; U000019
+(NaN)												-MeSH Descriptors; U000017
+(NaN)							-Statistics as Topic; D013223
+(NaN)								-Health Care Evaluation Mechanisms; D017531
+(NaN)									-Quality of Health Care; D011787
+(NaN)										-Health Services Administration; D006298
+(NaN)											-Health Occupations; D006281
+(NaN)												-Disciplines and Occupations (MeSH Category); U000013
+(NaN)													-Topical Descriptor; U000019
+(NaN)														-MeSH Descriptors; U000017
+(NaN)										-Health Services Administration; D006298
+(NaN)											-Health Care (MeSH Category); U000008
+(NaN)												-Topical Descriptor; U000019
+(NaN)													-MeSH Descriptors; U000017
+(NaN)									-Quality of Health Care; D011787
+(NaN)										-Health Care Quality, Access, and Evaluation; D017530
+(NaN)											-Health Care (MeSH Category); U000008
+(NaN)												-Topical Descriptor; U000019
+(NaN)													-MeSH Descriptors; U000017
+(NaN)					-Anthropometry; D000886
+(NaN)						-Physical Examination; D010808
+(NaN)							-Diagnostic Techniques and Procedures; D019937
+(NaN)								-Diagnosis; D003933
+(NaN)									-Analytical, Diagnostic and Therapeutic Techniques and Equipment (MeSH Category); U000001
+(NaN)										-Topical Descriptor; U000019
+(NaN)											-MeSH Descriptors; U000017
+(NaN)					-Anthropometry; D000886
+(NaN)						-Investigative Techniques; D008919
+(NaN)							-Analytical, Diagnostic and Therapeutic Techniques and Equipment (MeSH Category); U000001
+(NaN)								-Topical Descriptor; U000019
+(NaN)									-MeSH Descriptors; U000017
+(NaN)				-Body Weights and Measures; D001837
+(NaN)					-Body Constitution; D001824
+(NaN)						-Physical Examination; D010808
+(NaN)							-Diagnostic Techniques and Procedures; D019937
+(NaN)								-Diagnosis; D003933
+(NaN)									-Analytical, Diagnostic and Therapeutic Techniques and Equipment (MeSH Category); U000001
+(NaN)										-Topical Descriptor; U000019
+(NaN)											-MeSH Descriptors; U000017
+(NaN)					-Body Constitution; D001824
+(NaN)						-Physiological Phenomena; D010829
+(NaN)							-Phenomena and Processes (MeSH Category); U000004
+(NaN)								-Topical Descriptor; U000019
+(NaN)									-MeSH Descriptors; U000017
+

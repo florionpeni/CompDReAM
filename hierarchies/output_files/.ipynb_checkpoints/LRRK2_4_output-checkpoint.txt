@@ -1,0 +1,152 @@
+
+Merged hierarchy for Parkinson Disease (D010300)
+
+(1.00)-Parkinson Disease; D010300
+(1.00)	-Parkinsonian Disorders; D020734
+(NaN)		-Basal Ganglia Diseases; D001480
+(NaN)			-Brain Diseases; D001927
+(NaN)				-Central Nervous System Diseases; D002493
+(NaN)					-Nervous System Diseases; D009422
+(NaN)		-Movement Disorders; D009069
+(NaN)	-Synucleinopathies; D000080874
+(NaN)		-Neurodegenerative Diseases; D019636
+(NaN)		-Proteostasis Deficiencies; D057165
+(NaN)			-Metabolic Diseases; D008659
+(NaN)				-Nutritional and Metabolic Diseases; D009750
+
+D010300 AVERAGE = 1.00
+
+Merged hierarchy for Frontotemporal Dementia (D057180)
+
+(0.60)-Frontotemporal Dementia; D057180
+(NaN)	-Frontotemporal Lobar Degeneration; D057174
+(NaN)		-Dementia; D003704
+(NaN)			-Brain Diseases; D001927
+(NaN)				-Central Nervous System Diseases; D002493
+(NaN)					-Nervous System Diseases; D009422
+(NaN)			-Neurocognitive Disorders; D019965
+(NaN)				-Mental Disorders; D001523
+(NaN)		-TDP-43 Proteinopathies; D057177
+(NaN)			-Neurodegenerative Diseases; D019636
+(NaN)			-Proteostasis Deficiencies; D057165
+(NaN)				-Metabolic Diseases; D008659
+(NaN)					-Nutritional and Metabolic Diseases; D009750
+
+D057180 AVERAGE = 0.60
+
+Merged hierarchy for Nerve Degeneration (D009410)
+
+(0.50)-Nerve Degeneration; D009410
+
+D009410 AVERAGE = 0.50
+
+Merged hierarchy for Spinocerebellar Ataxias (D020754)
+
+(0.50)-Spinocerebellar Ataxias; D020754
+(NaN)	-Cerebellar Ataxia; D002524
+(NaN)		-Ataxia; D001259
+(NaN)			-Dyskinesias; D020820
+(NaN)				-Movement Disorders; D009069
+(NaN)					-Central Nervous System Diseases; D002493
+(NaN)						-Nervous System Diseases; D009422
+(NaN)				-Neurologic Manifestations; D009461
+(NaN)		-Cerebellar Diseases; D002526
+(NaN)			-Brain Diseases; D001927
+(NaN)	-Spinocerebellar Degenerations; D013132
+(NaN)		-Spinal Cord Diseases; D013118
+(NaN)		-Heredodegenerative Disorders, Nervous System; D020271
+(NaN)			-Neurodegenerative Diseases; D019636
+(NaN)			-Genetic Diseases, Inborn; D030342
+(NaN)				-Congenital, Hereditary, and Neonatal Diseases and Abnormalities; D009358
+
+D020754 AVERAGE = 0.50
+
+Merged hierarchy for Weight Loss (D015431)
+
+(0.45)-Weight Loss; D015431
+(NaN)	-Body Weight Changes; D001836
+(NaN)		-Body Weight; D001835
+(NaN)			-Signs and Symptoms; D012816
+(NaN)				-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)			-Physical Appearance, Body; D000067029
+(NaN)				-Body Constitution; D001824
+(NaN)					-Physical Examination; D010808
+(NaN)						-Diagnostic Techniques and Procedures; D019937
+(NaN)							-Diagnosis; D003933
+(NaN)					-Physiological Phenomena; D010829
+(NaN)			-Body Size; D049628
+
+D015431 AVERAGE = 0.45
+
+Merged hierarchy for Muscle Rigidity (D009127)
+
+(0.45)-Muscle Rigidity; D009127
+
+D009127 AVERAGE = 0.45
+
+Merged hierarchy for Crohn Disease (D003424)
+
+(0.45)-Crohn Disease; D003424
+(NaN)	-Inflammatory Bowel Diseases; D015212
+(NaN)		-Gastroenteritis; D005759
+(NaN)			-Gastrointestinal Diseases; D005767
+(NaN)				-Digestive System Diseases; D004066
+(NaN)		-Intestinal Diseases; D007410
+
+D003424 AVERAGE = 0.45
+
+Merged hierarchy for Psychomotor Disorders (D011596)
+
+(0.40)-Psychomotor Disorders; D011596
+
+D011596 AVERAGE = 0.40
+
+Merged hierarchy for Carcinoma, Renal Cell (D002292)
+
+(0.40)-Carcinoma, Renal Cell; D002292
+(NaN)	-Adenocarcinoma; D000230
+(NaN)		-Carcinoma; D002277
+(NaN)			-Neoplasms, Glandular and Epithelial; D009375
+(NaN)				-Neoplasms by Histologic Type; D009370
+(NaN)					-Neoplasms; D009369
+(NaN)	-Kidney Neoplasms; D007680
+(NaN)		-Kidney Diseases; D007674
+(NaN)			-Urologic Diseases; D014570
+(NaN)				-Female Urogenital Diseases; D052776
+(NaN)					-Female Urogenital Diseases and Pregnancy Complications; D005261
+(NaN)				-Male Urogenital Diseases; D052801
+(NaN)					-Urogenital Diseases; D000091642
+(NaN)		-Urologic Neoplasms; D014571
+(NaN)			-Urogenital Neoplasms; D014565
+(NaN)				-Neoplasms by Site; D009371
+
+D002292 AVERAGE = 0.40
+
+Merged hierarchy for nan (D000068079)
+
+(0.40)-nan; D000068079
+
+D000068079 AVERAGE = 0.40
+
+Merged hierarchy for Klippel Feil syndrome dominant type (C536887)
+
+(0.40)-Klippel Feil syndrome dominant type; C536887
+
+C536887 AVERAGE = 0.40
+
+Merged hierarchy for Blepharoptosis (D001763)
+
+(0.40)-Blepharoptosis; D001763
+
+D001763 AVERAGE = 0.40
+
+Merged hierarchy for Endometriosis (D004715)
+
+(0.40)-Endometriosis; D004715
+(NaN)	-Genital Diseases, Female; D005831
+(NaN)		-Female Urogenital Diseases; D052776
+(NaN)			-Female Urogenital Diseases and Pregnancy Complications; D005261
+(NaN)		-Genital Diseases; D000091662
+(NaN)			-Urogenital Diseases; D000091642
+
+D004715 AVERAGE = 0.40

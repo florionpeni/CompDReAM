@@ -1,0 +1,18 @@
+Disease,MeSH_ID,Average_Score,Rank
+Lewy Body Disease,D020961,0.98,1.0
+Parkinson Disease,D010300,0.98,1.0
+Alzheimer Disease,D000544,0.97,3.0
+Gaucher Disease,D005776,0.85,4.0
+"Parkinson Disease, Secondary",D010302,0.82,5.0
+Alcoholism,D000437,0.75,6.0
+"Parkinson Disease 4, Autosomal Dominant Lewy Body",C565324,0.75,6.0
+Weight Loss,D015431,0.7,8.0
+Hepatolenticular Degeneration,D006527,0.68,9.0
+Neurobehavioral Manifestations,D019954,0.65,10.0
+"Dementia, Vascular",D015140,0.65,10.0
+Manganese Poisoning,D020149,0.6,12.0
+Pallidopyramidal syndrome,C538104,0.6,12.0
+Nerve Degeneration,D009410,0.5,14.0
+Cocaine-Related Disorders,D019970,0.45,15.0
+Heart Failure,D006333,0.4,16.0
+Ataxia,D001259,0.4,16.0

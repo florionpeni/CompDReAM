@@ -1,0 +1,14 @@
+Disease,MeSH_ID,Average_Score,Rank
+Parkinson Disease,D010300,1.0,1.0
+Frontotemporal Dementia,D057180,0.6,2.0
+Nerve Degeneration,D009410,0.5,3.0
+Spinocerebellar Ataxias,D020754,0.5,3.0
+Crohn Disease,D003424,0.45,5.0
+Weight Loss,D015431,0.45,5.0
+Muscle Rigidity,D009127,0.45,5.0
+Endometriosis,D004715,0.4,8.0
+Klippel Feil syndrome dominant type,C536887,0.4,8.0
+Psychomotor Disorders,D011596,0.4,8.0
+Blepharoptosis,D001763,0.4,8.0
+Motor Disorders,D000068079,0.4,8.0
+"Carcinoma, Renal Cell",D002292,0.4,8.0

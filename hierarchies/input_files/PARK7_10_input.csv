@@ -1,0 +1,15 @@
+MSH_normalised_name,MSH,score
+Parkinson Disease,D010300,1.0
+"Parkinson Disease 7, Autosomal Recessive Early-Onset",C565238,1.0
+Parkinsonian Disorders,D020734,0.95
+Cerebral Infarction,D002544,0.7
+"Carcinoma, Hepatocellular",D006528,0.6
+Motor Neuron Disease,D016472,0.55
+"Parkinson Disease 6, Autosomal Recessive Early-Onset",C565276,0.55
+Nerve Degeneration,D009410,0.4
+Chemical and Drug Induced Liver Injury,D056486,0.4
+"Enterocolitis, Necrotizing",D020345,0.4
+Reticulocytosis,D045262,0.4
+"Infarction, Middle Cerebral Artery",D020244,0.4
+Amyotrophic Lateral Sclerosis,D000690,0.4
+Osteoporosis,D010024,0.4

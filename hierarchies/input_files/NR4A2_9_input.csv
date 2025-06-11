@@ -1,0 +1,19 @@
+MSH_normalised_name,MSH,score
+Parkinson Disease,D010300,1.0
+Schizophrenia,D012559,0.8
+Epilepsy,D004827,0.7
+Autism Spectrum Disorder,D000067877,0.7
+Colorectal Neoplasms,D015179,0.65
+Depressive Disorder,D003866,0.6
+"Arthritis, Psoriatic",D015535,0.6
+Alcoholism,D000437,0.6
+"Depressive Disorder, Major",D003865,0.6
+Bipolar Disorder,D001714,0.6
+Neurodevelopmental Disorders,D065886,0.6
+Cocaine-Related Disorders,D019970,0.5
+"Dystonia, Dopa-responsive",C538007,0.4
+"Chromosome 2, monosomy 2q24",C538316,0.4
+Arsenic Poisoning,D020261,0.4
+"Skin Diseases, Genetic",D012873,0.4
+Developmental Disabilities,D002658,0.4
+Skin Diseases,D012871,0.4
