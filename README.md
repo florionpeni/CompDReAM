@@ -1,2 +1,2 @@
 # CompDReAM
-Cache-aware drug repurposing framework using ChEMBL + DisGeNET.
+Hierarchy-aware drug repurposing framework using ChEMBL + DisGeNET.
