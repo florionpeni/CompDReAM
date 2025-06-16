@@ -21,11 +21,19 @@ gdrive files update "$DF_ID" "$DF_FILE"
 echo "Updating sql_chembl_cache.parquet..."
 gdrive files update "$PARQUET_ID" "$PARQUET_FILE"
 
+# Detect OS and use appropriate stat syntax
+if [[ "$OSTYPE" == "darwin"* ]]; then
+    # macOS
+    DF_MTIME=$(stat -f %m "$DF_FILE")
+    PARQUET_MTIME=$(stat -f %m "$PARQUET_FILE")
+else
+    # Linux
+    DF_MTIME=$(stat -c %Y "$DF_FILE")
+    PARQUET_MTIME=$(stat -c %Y "$PARQUET_FILE")
+fi
+
 # Update metadata file
 echo "Updating .cache_meta.json..."
-DF_MTIME=$(stat -c %Y "$DF_FILE")
-PARQUET_MTIME=$(stat -c %Y "$PARQUET_FILE")
-
 cat > "$META_FILE" <<EOF
 {
   "df_chembl.csv": $DF_MTIME,
@@ -34,4 +42,3 @@ cat > "$META_FILE" <<EOF
 EOF
 
 echo "Cache metadata file updated: $META_FILE"
-

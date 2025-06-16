@@ -1,5 +1,5 @@
 {
-  "df_chembl.csv": 1749727810.2733285,
-  "sql_chembl_cache.parquet": 1749727751.6730232,
-  "updated_at": "2025-06-12T11:34:26.858389"
+  "df_chembl.csv": 1750099783,
+  "sql_chembl_cache.parquet": 1749835072,
+  "updated_at": "2025-06-16T18:50:49.695093"
 }

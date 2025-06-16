@@ -1,8 +1,13 @@
 import os
 import time
 import requests
+import random
 import pandas as pd
 from datetime import datetime, timezone
+
+HEADERS = {
+    "User-Agent": "FlorionPeni-CompDReAM/1.0 (https://github.com/florionpeni/CompDReAM)"
+}
 
 def fetch_pubchem_cid_from_chembl(chembl_id, retries=5, backoff=1.5):
     """
@@ -12,9 +17,9 @@ def fetch_pubchem_cid_from_chembl(chembl_id, retries=5, backoff=1.5):
     url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug/compound/name/{chembl_id}/cids/JSON"
     for attempt in range(retries):
         try:
-            response = requests.get(url, timeout=10)
-            if response.status_code == 503:
-                raise requests.exceptions.RequestException("503 Server Busy")
+            response = requests.get(url, headers=HEADERS, timeout=10)
+            if response.status_code in [429, 503]:
+                raise requests.exceptions.RequestException(f"{response.status_code} Retryable")
             response.raise_for_status()
             return response.json()["IdentifierList"]["CID"][0]
         except requests.exceptions.RequestException as e:
@@ -24,7 +29,7 @@ def fetch_pubchem_cid_from_chembl(chembl_id, retries=5, backoff=1.5):
                 print(f"   ↪ Retrying after {sleep_time:.1f} seconds...")
                 time.sleep(sleep_time)
             else:
-                print(f"   ✖ Final failure for {chembl_id}")
+                print(f"   ✖ Final failure for {chembl_id}, {url}")
                 return None
 
 def check_peptide_by_pubchem(cid):
@@ -33,9 +38,9 @@ def check_peptide_by_pubchem(cid):
     """
     url = f"https://pubchem.ncbi.nlm.nih.gov/rest/pug_view/data/compound/{cid}/JSON"
     try:
-        r = requests.get(url, timeout=10)
-        r.raise_for_status()
-        data = r.json()
+        response = requests.get(url, headers=HEADERS, timeout=10)
+        response.raise_for_status()
+        data = response.json()
         title = data.get("Record", {}).get("RecordTitle", "").upper()
         if "PEPTIDE" in title:
             return True
@@ -54,6 +59,7 @@ def process_id(chembl_id):
     is_peptide = check_peptide_by_pubchem(cid) if cid else False
     timestamp = datetime.now(timezone.utc).astimezone().isoformat()
     print(f"[{chembl_id}] CID={cid} | Peptide={is_peptide}")
+    time.sleep(random.uniform(0.5, 1.5))
     return (chembl_id, cid, is_peptide, timestamp)
 
 def load_or_init_pubchem_cache(cache_path):
