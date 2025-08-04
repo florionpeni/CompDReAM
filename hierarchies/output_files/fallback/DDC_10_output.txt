@@ -1,0 +1,90 @@
+
+Merged hierarchy for Aromatic amino acid decarboxylase deficiency (C537437)
+
+(1.00)-Aromatic amino acid decarboxylase deficiency; C537437
+
+C537437 AVERAGE = 1.00
+
+Merged hierarchy for Parkinson Disease (D010300)
+
+(0.95)-Parkinson Disease; D010300
+(0.65)	-Parkinsonian Disorders; D020734
+(NaN)		-Basal Ganglia Diseases; D001480
+(NaN)			-Brain Diseases; D001927
+(NaN)				-Central Nervous System Diseases; D002493
+(NaN)					-Nervous System Diseases; D009422
+(NaN)		-Movement Disorders; D009069
+(NaN)	-Synucleinopathies; D000080874
+(NaN)		-Neurodegenerative Diseases; D019636
+(NaN)		-Proteostasis Deficiencies; D057165
+(NaN)			-Metabolic Diseases; D008659
+(NaN)				-Nutritional and Metabolic Diseases; D009750
+
+D010300 AVERAGE = 0.80
+
+Merged hierarchy for Bipolar Disorder (D001714)
+
+(0.70)-Bipolar Disorder; D001714
+
+D001714 AVERAGE = 0.70
+
+Merged hierarchy for Tobacco Use Disorder (D014029)
+
+(0.65)-Tobacco Use Disorder; D014029
+(NaN)	-Substance-Related Disorders; D019966
+(0.40)		-Mental Disorders; D001523
+(NaN)		-Chemically-Induced Disorders; D064419
+
+D014029 AVERAGE = 0.53
+
+Merged hierarchy for Pheochromocytoma (D010673)
+
+(0.60)-Pheochromocytoma; D010673
+(NaN)	-Paraganglioma; D010235
+(NaN)		-Neuroendocrine Tumors; D018358
+(NaN)			-Neuroectodermal Tumors; D017599
+(NaN)				-Neoplasms, Germ Cell and Embryonal; D009373
+(NaN)					-Neoplasms by Histologic Type; D009370
+(NaN)						-Neoplasms; D009369
+(NaN)				-Neoplasms, Nerve Tissue; D009380
+
+D010673 AVERAGE = 0.60
+
+Merged hierarchy for Depressive Disorder, Major (D003865)
+
+(0.60)-Depressive Disorder, Major; D003865
+(0.50)	-Depressive Disorder; D003866
+(NaN)		-Mood Disorders; D019964
+(0.40)			-Mental Disorders; D001523
+
+D003865 AVERAGE = 0.50
+
+Merged hierarchy for Major Affective Disorder 2 (C564108)
+
+(0.60)-Major Affective Disorder 2; C564108
+
+C564108 AVERAGE = 0.60
+
+Merged hierarchy for Metabolism, Inborn Errors (D008661)
+
+(0.45)-Metabolism, Inborn Errors; D008661
+(NaN)	-Metabolic Diseases; D008659
+(NaN)		-Nutritional and Metabolic Diseases; D009750
+(NaN)	-Genetic Diseases, Inborn; D030342
+(NaN)		-Congenital, Hereditary, and Neonatal Diseases and Abnormalities; D009358
+
+D008661 AVERAGE = 0.45
+
+Merged hierarchy for Nerve Degeneration (D009410)
+
+(0.40)-Nerve Degeneration; D009410
+(NaN)	-Pathologic Processes; D010335
+(NaN)		-Pathological Conditions, Signs and Symptoms; D013568
+
+D009410 AVERAGE = 0.40
+
+Merged hierarchy for Mental Disorders (D001523)
+
+(0.40)-Mental Disorders; D001523
+
+D001523 AVERAGE = 0.40

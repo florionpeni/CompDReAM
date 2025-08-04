@@ -16,6 +16,29 @@ Merged hierarchy for Parkinson Disease (D010300)
 
 D010300 AVERAGE = 1.00
 
+Merged hierarchy for Nerve Degeneration (D009410)
+
+(0.95)-Nerve Degeneration; D009410
+(NaN)	-Pathologic Processes; D010335
+(NaN)		-Pathological Conditions, Signs and Symptoms; D013568
+
+D009410 AVERAGE = 0.95
+
+Merged hierarchy for Muscle Rigidity (D009127)
+
+(0.65)-Muscle Rigidity; D009127
+(NaN)	-Muscle Hypertonia; D009122
+(NaN)		-Neuromuscular Manifestations; D020879
+(NaN)			-Neurologic Manifestations; D009461
+(NaN)				-Nervous System Diseases; D009422
+(NaN)				-Signs and Symptoms; D012816
+(NaN)					-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)	-Muscular Diseases; D009135
+(NaN)		-Musculoskeletal Diseases; D009140
+(NaN)		-Neuromuscular Diseases; D009468
+
+D009127 AVERAGE = 0.65
+
 Merged hierarchy for Frontotemporal Dementia (D057180)
 
 (0.60)-Frontotemporal Dementia; D057180
@@ -33,14 +56,6 @@ Merged hierarchy for Frontotemporal Dementia (D057180)
 (NaN)					-Nutritional and Metabolic Diseases; D009750
 
 D057180 AVERAGE = 0.60
-
-Merged hierarchy for Nerve Degeneration (D009410)
-
-(0.50)-Nerve Degeneration; D009410
-(NaN)	-Pathologic Processes; D010335
-(NaN)		-Pathological Conditions, Signs and Symptoms; D013568
-
-D009410 AVERAGE = 0.50
 
 Merged hierarchy for Spinocerebellar Ataxias (D020754)
 
@@ -64,17 +79,6 @@ Merged hierarchy for Spinocerebellar Ataxias (D020754)
 (NaN)				-Congenital, Hereditary, and Neonatal Diseases and Abnormalities; D009358
 
 D020754 AVERAGE = 0.50
-
-Merged hierarchy for Crohn Disease (D003424)
-
-(0.45)-Crohn Disease; D003424
-(NaN)	-Inflammatory Bowel Diseases; D015212
-(NaN)		-Gastroenteritis; D005759
-(NaN)			-Gastrointestinal Diseases; D005767
-(NaN)				-Digestive System Diseases; D004066
-(NaN)		-Intestinal Diseases; D007410
-
-D003424 AVERAGE = 0.45
 
 Merged hierarchy for Weight Loss (D015431)
 
@@ -114,49 +118,22 @@ Merged hierarchy for Weight Loss (D015431)
 
 D015431 AVERAGE = 0.45
 
-Merged hierarchy for Muscle Rigidity (D009127)
+Merged hierarchy for Crohn Disease (D003424)
 
-(0.45)-Muscle Rigidity; D009127
-(NaN)	-Muscle Hypertonia; D009122
-(NaN)		-Neuromuscular Manifestations; D020879
-(NaN)			-Neurologic Manifestations; D009461
-(NaN)				-Nervous System Diseases; D009422
-(NaN)				-Signs and Symptoms; D012816
-(NaN)					-Pathological Conditions, Signs and Symptoms; D013568
-(NaN)	-Muscular Diseases; D009135
-(NaN)		-Musculoskeletal Diseases; D009140
-(NaN)		-Neuromuscular Diseases; D009468
+(0.45)-Crohn Disease; D003424
+(NaN)	-Inflammatory Bowel Diseases; D015212
+(NaN)		-Gastroenteritis; D005759
+(NaN)			-Gastrointestinal Diseases; D005767
+(NaN)				-Digestive System Diseases; D004066
+(NaN)		-Intestinal Diseases; D007410
 
-D009127 AVERAGE = 0.45
-
-Merged hierarchy for Endometriosis (D004715)
-
-(0.40)-Endometriosis; D004715
-(NaN)	-Genital Diseases, Female; D005831
-(NaN)		-Female Urogenital Diseases; D052776
-(NaN)			-Female Urogenital Diseases and Pregnancy Complications; D005261
-(NaN)				-Urogenital Diseases; D000091642
-(NaN)		-Genital Diseases; D000091662
-
-D004715 AVERAGE = 0.40
+D003424 AVERAGE = 0.45
 
 Merged hierarchy for Klippel Feil syndrome dominant type (C536887)
 
 (0.40)-Klippel Feil syndrome dominant type; C536887
 
 C536887 AVERAGE = 0.40
-
-Merged hierarchy for Psychomotor Disorders (D011596)
-
-(0.40)-Psychomotor Disorders; D011596
-(NaN)	-Neurobehavioral Manifestations; D019954
-(NaN)		-Neurologic Manifestations; D009461
-(NaN)			-Nervous System Diseases; D009422
-(NaN)			-Signs and Symptoms; D012816
-(NaN)				-Pathological Conditions, Signs and Symptoms; D013568
-(NaN)		-Behavior and Behavior Mechanisms; D001520
-
-D011596 AVERAGE = 0.40
 
 Merged hierarchy for Blepharoptosis (D001763)
 
@@ -165,13 +142,6 @@ Merged hierarchy for Blepharoptosis (D001763)
 (NaN)		-Eye Diseases; D005128
 
 D001763 AVERAGE = 0.40
-
-Merged hierarchy for Motor Disorders (D000068079)
-
-(0.40)-Motor Disorders; D000068079
-(NaN)	-Mental Disorders; D001523
-
-D000068079 AVERAGE = 0.40
 
 Merged hierarchy for Carcinoma, Renal Cell (D002292)
 
@@ -193,3 +163,33 @@ Merged hierarchy for Carcinoma, Renal Cell (D002292)
 (NaN)				-Neoplasms by Site; D009371
 
 D002292 AVERAGE = 0.40
+
+Merged hierarchy for Endometriosis (D004715)
+
+(0.40)-Endometriosis; D004715
+(NaN)	-Genital Diseases, Female; D005831
+(NaN)		-Female Urogenital Diseases; D052776
+(NaN)			-Female Urogenital Diseases and Pregnancy Complications; D005261
+(NaN)				-Urogenital Diseases; D000091642
+(NaN)		-Genital Diseases; D000091662
+
+D004715 AVERAGE = 0.40
+
+Merged hierarchy for Psychomotor Disorders (D011596)
+
+(0.40)-Psychomotor Disorders; D011596
+(NaN)	-Neurobehavioral Manifestations; D019954
+(NaN)		-Neurologic Manifestations; D009461
+(NaN)			-Nervous System Diseases; D009422
+(NaN)			-Signs and Symptoms; D012816
+(NaN)				-Pathological Conditions, Signs and Symptoms; D013568
+(NaN)		-Behavior and Behavior Mechanisms; D001520
+
+D011596 AVERAGE = 0.40
+
+Merged hierarchy for Motor Disorders (D000068079)
+
+(0.40)-Motor Disorders; D000068079
+(NaN)	-Mental Disorders; D001523
+
+D000068079 AVERAGE = 0.40

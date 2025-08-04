@@ -9,3 +9,9 @@ data/sql_chembl_cache.parquet
 # Ignore Python bytecode
 src/utils/__pycache__/
 .pyc
+
+*.npy
+*.pkl
+*.csv
+*.idx
+
