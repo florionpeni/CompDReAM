@@ -1,9 +1,10 @@
 # CompDReAM
-Hierarchy-aware drug repurposing framework using ChEMBL + DisGeNET.
+
+Drug repurposing framework for Parkinson disease using ChEMBL + DisGeNET. It covers a gene scoring pipeline, followed by machine learning regression models for pChEMBL values.
 
 ## Machine Learning data
 
-The contents of this folder, including large `.npy`, `.pkl`, and `.csv` files, are too large for GitHub and are therefore hosted externally.
+The contents of the `machinelearning` folder are too large for GitHub and are therefore hosted externally.
 
 🔗 [Access all machine learning files via Google Drive](https://drive.google.com/drive/folders/1mRygsFos3uz1a1xfzNeKEeRWZUxRZJy2?usp=drive_link)
 
@@ -31,5 +32,6 @@ X = np.load('/content/drive/MyDrive/CompDReAM/v5/X_combined.npy')
 # Load trained model
 import joblib
 model = joblib.load('/content/drive/MyDrive/CompDReAM/v5/Random_Forest.pkl')
+```
 
 ---

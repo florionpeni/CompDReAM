@@ -1,0 +1,15 @@
+MSH_normalised_name,MSH,score
+Parkinson Disease,D010300,1.0
+Parkinsonian Disorders,D020734,1.0
+Nerve Degeneration,D009410,0.95
+Muscle Rigidity,D009127,0.65
+Frontotemporal Dementia,D057180,0.6
+Spinocerebellar Ataxias,D020754,0.5
+Weight Loss,D015431,0.45
+Crohn Disease,D003424,0.45
+Klippel Feil syndrome dominant type,C536887,0.4
+Blepharoptosis,D001763,0.4
+"Carcinoma, Renal Cell",D002292,0.4
+Endometriosis,D004715,0.4
+Psychomotor Disorders,D011596,0.4
+Motor Disorders,D000068079,0.4

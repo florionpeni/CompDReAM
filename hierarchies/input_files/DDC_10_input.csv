@@ -1,0 +1,13 @@
+MSH_normalised_name,MSH,score
+Aromatic amino acid decarboxylase deficiency,C537437,1.0
+Parkinson Disease,D010300,0.95
+Bipolar Disorder,D001714,0.7
+Parkinsonian Disorders,D020734,0.65
+Tobacco Use Disorder,D014029,0.65
+Pheochromocytoma,D010673,0.6
+"Depressive Disorder, Major",D003865,0.6
+Major Affective Disorder 2,C564108,0.6
+Depressive Disorder,D003866,0.5
+"Metabolism, Inborn Errors",D008661,0.45
+Nerve Degeneration,D009410,0.4
+Mental Disorders,D001523,0.4

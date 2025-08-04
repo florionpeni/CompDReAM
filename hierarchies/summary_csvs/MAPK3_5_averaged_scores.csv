@@ -1,0 +1,34 @@
+Disease,MeSH_ID,Average_Score,Rank
+Lung Neoplasms,D008175,0.75,1.0
+Schizophrenia,D012559,0.7,2.0
+Ovarian Neoplasms,D010051,0.7,2.0
+Autistic Disorder,D001321,0.65,4.0
+Depressive Disorder,D003866,0.65,4.0
+Hypertrophy,D006984,0.65,4.0
+Depression,D003863,0.65,4.0
+Parkinson Disease,D010300,0.65,4.0
+"Hypertension, Pulmonary",D006976,0.55,9.0
+Colonic Neoplasms,D003110,0.55,9.0
+Brain Ischemia,D002545,0.55,9.0
+Cardiomyopathies,D009202,0.55,9.0
+"Carcinoma, Squamous Cell",D002294,0.53,13.0
+Neuronal Ceroid-Lipofuscinoses,D009472,0.5,14.0
+Stomach Neoplasms,D013274,0.5,14.0
+Severe Acute Respiratory Syndrome,D045169,0.4,16.0
+Sepsis,D018805,0.4,16.0
+Trigeminal Neuralgia,D014277,0.4,16.0
+Nerve Degeneration,D009410,0.4,16.0
+"Radiation Injuries, Experimental",D011833,0.4,16.0
+"Infertility, Female",D007247,0.4,16.0
+"Cholestasis, Extrahepatic",D001651,0.4,16.0
+"Pneumonia, Pneumococcal",D011018,0.4,16.0
+Atrophy,D001284,0.4,16.0
+Neoplasm Invasiveness,D009361,0.4,16.0
+Kidney Neoplasms,D007680,0.4,16.0
+Prostatic Neoplasms,D011471,0.4,16.0
+Gliosis,D005911,0.4,16.0
+Cocaine-Related Disorders,D019970,0.4,16.0
+Hyperalgesia,D006930,0.4,16.0
+Head and Neck Neoplasms,D006258,0.4,16.0
+Developmental Disabilities,D002658,0.4,16.0
+"Carcinoma, Pancreatic Ductal",D021441,0.4,16.0

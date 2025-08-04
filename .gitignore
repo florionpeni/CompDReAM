@@ -1,6 +1,7 @@
 # Ignore large cache files
 data/df_chembl.csv
 data/sql_chembl_cache.parquet
+data/pchembl.csv
 
 .ipynb_checkpoints/
 .DS_Store
@@ -9,9 +10,4 @@ data/sql_chembl_cache.parquet
 # Ignore Python bytecode
 src/utils/__pycache__/
 .pyc
-
-*.npy
-*.pkl
-*.csv
-*.idx
 

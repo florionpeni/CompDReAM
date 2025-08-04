@@ -1,0 +1,30 @@
+MSH_normalised_name,MSH,score
+Alzheimer Disease,D000544,1.0
+Frontotemporal Dementia,D057180,1.0
+Dementia,D003704,1.0
+"Supranuclear Palsy, Progressive",D013494,1.0
+Parkinson Disease,D010300,1.0
+Parkinsonian Disorders,D020734,1.0
+Pick Disease of the Brain,D020774,1.0
+Tauopathies,D024801,1.0
+Neurodegenerative Diseases,D019636,0.95
+Memory Disorders,D008569,0.9
+Cognitive Dysfunction,D060825,0.9
+Multiple System Atrophy,D019578,0.85
+Primary Progressive Nonfluent Aphasia,D057178,0.8
+"Epilepsy, Temporal Lobe",D004833,0.8
+Anxiety Disorders,D001008,0.75
+Pallidopontonigral Degeneration,C563003,0.7
+Learning Disabilities,D007859,0.65
+Atrial Fibrillation,D001281,0.65
+Prostatic Neoplasms,D011471,0.65
+"Carcinoma, Hepatocellular",D006528,0.6
+Weight Loss,D015431,0.55
+"Osteoarthritis, Hip",D015207,0.55
+Progressive supranuclear palsy atypical,C537240,0.45
+Neurocognitive Disorders,D019965,0.45
+Weight Gain,D015430,0.4
+Cardiomyopathies,D009202,0.4
+Psychomotor Agitation,D011595,0.4
+Splenomegaly,D013163,0.4
+Ataxia,D001259,0.4

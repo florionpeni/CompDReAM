@@ -1,0 +1,35 @@
+MSH_normalised_name,MSH,score
+Lung Neoplasms,D008175,0.75
+Schizophrenia,D012559,0.7
+Ovarian Neoplasms,D010051,0.7
+"Carcinoma, Squamous Cell",D002294,0.65
+Autistic Disorder,D001321,0.65
+Depressive Disorder,D003866,0.65
+Hypertrophy,D006984,0.65
+Depression,D003863,0.65
+Parkinson Disease,D010300,0.65
+Cardiomyopathies,D009202,0.55
+Colonic Neoplasms,D003110,0.55
+Brain Ischemia,D002545,0.55
+"Hypertension, Pulmonary",D006976,0.55
+Neuronal Ceroid-Lipofuscinoses,D009472,0.5
+Stomach Neoplasms,D013274,0.5
+Head and Neck Neoplasms,D006258,0.4
+Atrophy,D001284,0.4
+"Neoplasms, Squamous Cell",D018307,0.4
+Cocaine-Related Disorders,D019970,0.4
+Gliosis,D005911,0.4
+Prostatic Neoplasms,D011471,0.4
+Kidney Neoplasms,D007680,0.4
+Neoplasm Invasiveness,D009361,0.4
+Developmental Disabilities,D002658,0.4
+"Pneumonia, Pneumococcal",D011018,0.4
+Severe Acute Respiratory Syndrome,D045169,0.4
+"Cholestasis, Extrahepatic",D001651,0.4
+"Infertility, Female",D007247,0.4
+"Radiation Injuries, Experimental",D011833,0.4
+Nerve Degeneration,D009410,0.4
+Trigeminal Neuralgia,D014277,0.4
+Sepsis,D018805,0.4
+Hyperalgesia,D006930,0.4
+"Carcinoma, Pancreatic Ductal",D021441,0.4

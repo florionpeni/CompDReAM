@@ -1,0 +1,46 @@
+MSH_normalised_name,MSH,score
+Schizophrenia,D012559,1.0
+Alcoholism,D000437,1.0
+Obesity,D009765,0.95
+Heroin Dependence,D006556,0.95
+Parkinson Disease,D010300,0.9
+Depressive Disorder,D003866,0.9
+Bipolar Disorder,D001714,0.9
+"Diabetes Mellitus, Type 2",D003924,0.9
+Movement Disorders,D009069,0.85
+Hypertension,D006973,0.85
+Pituitary Neoplasms,D010911,0.85
+Cocaine-Related Disorders,D019970,0.85
+Tobacco Use Disorder,D014029,0.85
+Anxiety Disorders,D001008,0.85
+Depression,D003863,0.85
+Parkinsonian Disorders,D020734,0.8
+"Depressive Disorder, Major",D003865,0.8
+Dystonia,D004421,0.8
+Mood Disorders,D019964,0.8
+Opioid-Related Disorders,D009293,0.8
+Weight Gain,D015430,0.75
+Myoclonic dystonia,C536096,0.75
+Dyskinesias,D020820,0.75
+Pain,D010146,0.75
+Hyperprolactinemia,D006966,0.75
+Tachycardia,D013610,0.7
+Catalepsy,D002375,0.65
+Migraine with Aura,D020325,0.65
+Hyperkinesis,D006948,0.65
+Marijuana Abuse,D002189,0.65
+Anhedonia,D059445,0.65
+Delirium,D003693,0.6
+Attention Deficit Disorder with Hyperactivity,D001289,0.6
+"Disruptive, Impulse Control, and Conduct Disorders",D007174,0.6
+Basal Ganglia Diseases,D001480,0.55
+Hypotension,D007022,0.55
+Bradycardia,D001919,0.55
+"Kidney Failure, Chronic",D007676,0.55
+Language Disorders,D007806,0.5
+"Dyskinesia, Drug-Induced",D004409,0.45
+Substance-Related Disorders,D019966,0.45
+Chiari-Frommel Syndrome,D002640,0.4
+Developmental Disabilities,D002658,0.4
+Memory Disorders,D008569,0.4
+Neurocognitive Disorders,D019965,0.4
